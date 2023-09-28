@@ -1,0 +1,4195 @@
+id,benefits,resources,mhd,coworker_chat,support_options,age,sex,race
+1,Yes,,,,No,37.0,Female,
+2,Don't know,,,,No,44.0,Male,
+3,No,,,,No,32.0,Male,
+4,No,,,,No,31.0,Male,
+5,Yes,,,,Yes,31.0,Male,
+6,Yes,,,,No,33.0,Male,
+7,No,,,,Yes,35.0,Female,
+8,No,,,,Yes,39.0,Male,
+9,Yes,,,,No,42.0,Female,
+10,Don't know,,,,No,23.0,Male,
+11,Don't know,,,,Yes,31.0,Male,
+12,Don't know,,,,Yes,29.0,Male,
+13,Yes,,,,No,42.0,Female,
+14,Don't know,,,,No,36.0,Male,
+15,Don't know,,,,No,27.0,Male,
+16,Yes,,,,No,29.0,Female,
+17,Don't know,,,,Yes,23.0,Male,
+18,Yes,,,,No,32.0,Male,
+19,Yes,,,,Yes,46.0,Male,
+20,No,,,,Yes,36.0,Male,
+21,Yes,,,,No,29.0,Male,
+22,No,,,,Yes,31.0,Male,
+23,Yes,,,,Yes,46.0,Male,
+24,Don't know,,,,No,41.0,Male,
+25,Yes,,,,No,33.0,Male,
+26,Yes,,,,No,35.0,Male,
+27,Don't know,,,,No,33.0,Male,
+28,Yes,,,,Yes,35.0,Female,
+29,Don't know,,,,Yes,34.0,Male,
+30,No,,,,No,37.0,Male,
+31,No,,,,Yes,32.0,Male,
+32,No,,,,Yes,31.0,Male,
+33,Don't know,,,,Yes,30.0,Male,
+34,Yes,,,,Yes,42.0,Male,
+35,Yes,,,,No,40.0,Female,
+36,No,,,,No,27.0,Male,
+37,No,,,,No,29.0,Male,
+38,No,,,,No,38.0,Male,
+39,Yes,,,,No,50.0,Male,
+40,Yes,,,,Yes,35.0,Male,
+41,No,,,,No,24.0,Male,
+42,Yes,,,,Yes,35.0,Male,
+43,No,,,,No,27.0,Male,
+45,Don't know,,,,No,30.0,Male,
+46,Yes,,,,No,38.0,Female,
+47,Don't know,,,,No,28.0,Male,
+48,No,,,,No,34.0,Male,
+49,No,,,,No,26.0,Male,
+50,Yes,,,,No,30.0,Male,
+51,No,,,,No,22.0,Male,
+52,Don't know,,,,Yes,33.0,Male,
+53,Don't know,,,,Yes,31.0,Male,
+54,Don't know,,,,Yes,32.0,Male,
+55,No,,,,No,28.0,Male,
+56,Yes,,,,No,27.0,Others,
+57,Don't know,,,,Yes,32.0,Male,
+58,Don't know,,,,Yes,24.0,Male,
+59,No,,,,No,26.0,Male,
+60,Don't know,,,,Yes,33.0,Male,
+61,Yes,,,,No,44.0,Male,
+62,Don't know,,,,Yes,26.0,Female,
+63,Yes,,,,No,27.0,Male,
+64,No,,,,No,26.0,Male,
+65,Don't know,,,,No,35.0,Male,
+66,Yes,,,,Yes,40.0,Male,
+67,No,,,,Yes,23.0,Female,
+68,Yes,,,,Yes,36.0,Male,
+69,Don't know,,,,Yes,31.0,Female,
+70,No,,,,Yes,34.0,Male,
+71,No,,,,No,28.0,Male,
+72,Don't know,,,,No,34.0,Male,
+73,Yes,,,,No,23.0,Others,
+74,No,,,,No,38.0,Male,
+75,Don't know,,,,No,33.0,Male,
+76,No,,,,No,19.0,Male,
+77,Yes,,,,Yes,25.0,Male,
+78,No,,,,Yes,31.0,Male,
+79,No,,,,Yes,32.0,Male,
+80,Don't know,,,,Yes,28.0,Male,
+81,Yes,,,,Yes,38.0,Male,
+82,Yes,,,,No,23.0,Male,
+83,No,,,,No,30.0,Male,
+84,Yes,,,,Yes,27.0,Female,
+85,No,,,,No,33.0,Male,
+86,Don't know,,,,No,31.0,Male,
+87,No,,,,No,39.0,Male,
+88,Yes,,,,Yes,34.0,Female,
+89,Yes,,,,No,29.0,Female,
+90,Don't know,,,,No,32.0,Male,
+91,Yes,,,,No,31.0,Male,
+92,No,,,,No,40.0,Male,
+93,Don't know,,,,No,34.0,Male,
+95,Yes,,,,No,25.0,Female,
+96,Don't know,,,,No,29.0,Male,
+97,Don't know,,,,No,24.0,Male,
+98,Don't know,,,,No,31.0,Male,
+99,No,,,,No,33.0,Male,
+100,No,,,,No,30.0,Male,
+101,No,,,,No,26.0,Female,
+102,Yes,,,,No,44.0,Female,
+103,Don't know,,,,No,25.0,Male,
+104,Yes,,,,Yes,33.0,Male,
+105,Yes,,,,No,29.0,Male,
+106,Yes,,,,No,35.0,Male,
+107,Don't know,,,,Yes,35.0,Male,
+108,No,,,,No,28.0,Male,
+109,Yes,,,,Yes,34.0,Male,
+110,Yes,,,,No,32.0,Male,
+111,Yes,,,,No,22.0,Male,
+112,Yes,,,,No,28.0,Male,
+113,Yes,,,,Yes,45.0,Male,
+114,Yes,,,,No,32.0,Male,
+115,Don't know,,,,No,28.0,Male,
+116,Don't know,,,,No,26.0,Male,
+117,No,,,,Yes,21.0,Male,
+118,Yes,,,,No,27.0,Male,
+120,Don't know,,,,Yes,35.0,Male,
+121,Yes,,,,No,29.0,Male,
+122,Don't know,,,,Yes,25.0,Male,
+123,Don't know,,,,Yes,33.0,Male,
+124,Yes,,,,No,36.0,Male,
+125,Yes,,,,No,27.0,Male,
+126,Yes,,,,No,27.0,Male,
+127,No,,,,No,27.0,Male,
+128,Yes,,,,No,32.0,Male,
+129,No,,,,No,31.0,Male,
+130,Don't know,,,,No,19.0,Male,
+131,Yes,,,,No,33.0,Male,
+132,No,,,,Yes,32.0,Male,
+133,Don't know,,,,No,27.0,Male,
+134,No,,,,Yes,38.0,Male,
+135,Don't know,,,,No,24.0,Male,
+136,No,,,,No,39.0,Male,
+137,Don't know,,,,No,28.0,Male,
+138,Yes,,,,No,39.0,Male,
+139,Don't know,,,,No,29.0,Female,
+140,Don't know,,,,Yes,22.0,Male,
+141,Don't know,,,,No,38.0,Male,
+142,No,,,,No,37.0,Male,
+143,Don't know,,,,Yes,35.0,Male,
+144,Yes,,,,Yes,29.0,Male,
+145,Don't know,,,,Yes,30.0,Female,
+146,Yes,,,,No,37.0,Male,
+147,No,,,,No,24.0,Male,
+148,No,,,,No,23.0,Male,
+149,No,,,,No,30.0,Male,
+150,Don't know,,,,Yes,29.0,Female,
+151,Don't know,,,,Yes,19.0,Male,
+152,Don't know,,,,No,32.0,Male,
+153,No,,,,Yes,28.0,Male,
+154,Don't know,,,,No,36.0,Male,
+155,Yes,,,,No,37.0,Male,
+156,Don't know,,,,No,25.0,Male,
+157,Don't know,,,,No,27.0,Male,
+158,Don't know,,,,No,26.0,Male,
+159,No,,,,Yes,27.0,Male,
+160,Don't know,,,,No,25.0,Male,
+161,Yes,,,,No,36.0,Male,
+162,Yes,,,,No,25.0,Female,
+163,Yes,,,,No,31.0,Male,
+164,Don't know,,,,No,26.0,Male,
+165,No,,,,No,33.0,Female,
+166,No,,,,Yes,27.0,Female,
+167,No,,,,No,34.0,Male,
+168,No,,,,No,42.0,Male,
+169,No,,,,No,23.0,Male,
+170,Don't know,,,,No,24.0,Male,
+171,Yes,,,,No,26.0,Male,
+172,Don't know,,,,No,31.0,Male,
+173,Don't know,,,,No,22.0,Male,
+174,Don't know,,,,No,23.0,Female,
+175,Yes,,,,No,34.0,Female,
+176,Don't know,,,,No,31.0,Male,
+177,No,,,,No,28.0,Male,
+178,Yes,,,,Yes,32.0,Female,
+179,Yes,,,,No,45.0,Female,
+180,Don't know,,,,Yes,33.0,Male,
+181,No,,,,Yes,29.0,Male,
+182,No,,,,No,26.0,Female,
+183,Don't know,,,,No,28.0,Female,
+184,Don't know,,,,No,45.0,Male,
+185,Yes,,,,Yes,43.0,Male,
+186,Yes,,,,Yes,37.0,Male,
+187,Don't know,,,,No,24.0,Male,
+188,No,,,,Yes,26.0,Male,
+189,Don't know,,,,Yes,23.0,Male,
+190,Yes,,,,No,35.0,Female,
+191,No,,,,Yes,38.0,Female,
+192,Yes,,,,No,28.0,Male,
+193,No,,,,No,28.0,Male,
+194,No,,,,No,35.0,Male,
+195,No,,,,No,32.0,Female,
+196,No,,,,No,31.0,Male,
+197,Don't know,,,,Yes,35.0,Female,
+198,Yes,,,,No,26.0,Male,
+199,Yes,,,,Yes,27.0,Male,
+200,Don't know,,,,No,28.0,Male,
+201,Yes,,,,No,27.0,Female,
+202,Yes,,,,No,34.0,Female,
+203,No,,,,Yes,41.0,Male,
+204,No,,,,No,37.0,Male,
+205,Don't know,,,,Yes,34.0,Male,
+206,Don't know,,,,Yes,32.0,Male,
+207,No,,,,Yes,21.0,Male,
+208,No,,,,No,30.0,Male,
+209,Don't know,,,,No,24.0,Male,
+210,No,,,,No,26.0,Male,
+211,Yes,,,,No,40.0,Female,
+212,No,,,,No,37.0,Male,
+213,No,,,,Yes,26.0,Male,
+214,Don't know,,,,No,32.0,Female,
+215,Yes,,,,No,32.0,Female,
+216,No,,,,Yes,27.0,Female,
+217,Yes,,,,Yes,30.0,Male,
+218,Yes,,,,No,31.0,Male,
+219,Yes,,,,No,29.0,Female,
+220,Yes,,,,No,41.0,Male,
+221,Yes,,,,No,34.0,Female,
+222,Don't know,,,,No,33.0,Male,
+223,Don't know,,,,No,28.0,Male,
+224,No,,,,No,28.0,Male,
+225,Don't know,,,,No,23.0,Male,
+226,Don't know,,,,No,24.0,Male,
+227,No,,,,Yes,32.0,Male,
+228,Don't know,,,,Yes,34.0,Male,
+229,Yes,,,,No,24.0,Male,
+230,No,,,,No,26.0,Male,
+231,Yes,,,,No,36.0,Male,
+232,Yes,,,,Yes,41.0,Male,
+233,Don't know,,,,No,38.0,Male,
+234,Don't know,,,,Yes,38.0,Male,
+235,Don't know,,,,No,30.0,Male,
+236,No,,,,No,25.0,Male,
+237,Yes,,,,No,37.0,Male,
+238,No,,,,No,34.0,Male,
+239,Yes,,,,No,37.0,Female,
+240,Yes,,,,No,28.0,Female,
+241,Don't know,,,,No,22.0,Male,
+242,No,,,,No,34.0,Male,
+243,Yes,,,,No,33.0,Male,
+244,No,,,,No,25.0,Male,
+245,Yes,,,,Yes,27.0,Male,
+246,Yes,,,,Yes,40.0,Male,
+247,Don't know,,,,No,21.0,Male,
+248,No,,,,No,29.0,Male,
+249,No,,,,Yes,32.0,Male,
+250,Yes,,,,Yes,29.0,Female,
+251,Don't know,,,,Yes,23.0,Male,
+252,Yes,,,,No,28.0,Male,
+253,Yes,,,,Yes,31.0,Male,
+254,Don't know,,,,No,27.0,Male,
+255,Don't know,,,,No,24.0,Male,
+256,No,,,,No,29.0,Male,
+257,Don't know,,,,No,23.0,Female,
+258,No,,,,Yes,42.0,Male,
+259,No,,,,No,24.0,Male,
+260,No,,,,No,25.0,Male,
+261,Yes,,,,No,27.0,Female,
+262,No,,,,Yes,27.0,Male,
+263,Yes,,,,Yes,30.0,Male,
+264,No,,,,No,29.0,Male,
+265,No,,,,Yes,43.0,Male,
+266,No,,,,No,32.0,Male,
+267,Yes,,,,Yes,41.0,Male,
+268,Don't know,,,,Yes,32.0,Male,
+269,Yes,,,,No,37.0,Female,
+270,No,,,,Yes,32.0,Male,
+271,No,,,,Yes,30.0,Male,
+272,Yes,,,,No,23.0,Female,
+273,Yes,,,,No,30.0,Male,
+274,No,,,,No,34.0,Male,
+275,Yes,,,,Yes,38.0,Male,
+276,Yes,,,,No,33.0,Male,
+277,Yes,,,,No,34.0,Male,
+278,No,,,,No,28.0,Male,
+279,Yes,,,,No,28.0,Male,
+280,Don't know,,,,No,23.0,Male,
+281,Don't know,,,,Yes,22.0,Male,
+282,No,,,,No,27.0,Male,
+284,Yes,,,,No,35.0,Male,
+285,Don't know,,,,No,25.0,Male,
+286,No,,,,No,27.0,Male,
+287,Yes,,,,No,26.0,Female,
+289,No,,,,No,38.0,Female,
+290,Yes,,,,Yes,26.0,Female,
+291,No,,,,No,30.0,Male,
+292,Don't know,,,,No,35.0,Male,
+293,Yes,,,,No,45.0,Male,
+294,Yes,,,,No,32.0,Male,
+295,Yes,,,,No,56.0,Male,
+296,Don't know,,,,No,24.0,Female,
+297,Yes,,,,No,30.0,Female,
+298,Yes,,,,No,60.0,Male,
+299,Yes,,,,No,33.0,Male,
+300,Yes,,,,No,37.0,Male,
+301,Yes,,,,No,23.0,Female,
+302,Yes,,,,No,31.0,Female,
+303,Yes,,,,No,26.0,Male,
+304,Yes,,,,Yes,28.0,Female,
+305,Yes,,,,No,37.0,Female,
+306,Yes,,,,No,26.0,Male,
+307,Yes,,,,No,30.0,Others,
+308,No,,,,No,26.0,Male,
+309,Don't know,,,,Yes,25.0,Male,
+310,Yes,,,,No,27.0,Male,
+311,Don't know,,,,Yes,25.0,Male,
+312,Yes,,,,No,35.0,Male,
+313,No,,,,No,36.0,Male,
+314,Yes,,,,No,26.0,Male,
+315,Don't know,,,,No,27.0,Male,
+316,Don't know,,,,No,30.0,Male,
+317,Don't know,,,,No,29.0,Male,
+318,Yes,,,,No,25.0,Male,
+319,Yes,,,,No,22.0,Female,
+320,No,,,,No,29.0,Male,
+321,Yes,,,,Yes,41.0,Male,
+322,Yes,,,,No,29.0,Male,
+323,Yes,,,,No,32.0,Male,
+324,Yes,,,,No,24.0,Female,
+325,Yes,,,,No,25.0,Male,
+326,Don't know,,,,No,25.0,Male,
+327,Yes,,,,No,30.0,Female,
+328,Don't know,,,,No,25.0,Male,
+329,No,,,,Yes,30.0,Male,
+330,No,,,,No,33.0,Male,
+331,Yes,,,,No,24.0,Male,
+332,Yes,,,,No,25.0,Male,
+333,Don't know,,,,No,31.0,Male,
+334,No,,,,No,45.0,Male,
+335,No,,,,Yes,29.0,Male,
+336,Yes,,,,No,46.0,Male,
+337,Don't know,,,,No,30.0,Male,
+338,Yes,,,,No,29.0,Female,
+339,Yes,,,,No,24.0,Male,
+340,Yes,,,,No,29.0,Male,
+341,Don't know,,,,No,35.0,Male,
+342,No,,,,Yes,33.0,Female,
+343,Don't know,,,,No,27.0,Male,
+344,Don't know,,,,No,36.0,Male,
+345,Don't know,,,,Yes,33.0,Male,
+346,Yes,,,,No,25.0,Female,
+347,Don't know,,,,No,23.0,Male,
+348,Don't know,,,,No,54.0,Male,
+349,Don't know,,,,No,22.0,Male,
+350,Yes,,,,No,25.0,Others,
+351,Don't know,,,,No,29.0,Male,
+352,Yes,,,,No,27.0,Male,
+353,No,,,,No,30.0,Male,
+354,Yes,,,,No,26.0,Male,
+355,Yes,,,,No,25.0,Female,
+356,No,,,,No,31.0,Male,
+357,Don't know,,,,No,33.0,Male,
+358,Yes,,,,No,34.0,Male,
+359,No,,,,Yes,34.0,Male,
+360,No,,,,Yes,29.0,Male,
+361,No,,,,No,33.0,Female,
+362,No,,,,Yes,34.0,Male,
+363,No,,,,Yes,26.0,Male,
+364,Yes,,,,No,32.0,Male,
+366,Don't know,,,,No,28.0,Male,
+367,Yes,,,,No,35.0,Male,
+368,No,,,,No,36.0,Male,
+369,Yes,,,,No,21.0,Male,
+370,Don't know,,,,No,21.0,Male,
+371,Yes,,,,No,22.0,Female,
+372,Yes,,,,No,41.0,Male,
+373,Yes,,,,No,55.0,Male,
+374,Yes,,,,No,32.0,Female,
+375,Don't know,,,,No,21.0,Female,
+376,Yes,,,,Yes,45.0,Male,
+377,Yes,,,,No,27.0,Female,
+378,Don't know,,,,Yes,25.0,Female,
+379,Yes,,,,No,34.0,Female,
+380,Yes,,,,No,26.0,Female,
+381,Yes,,,,No,41.0,Male,
+382,Yes,,,,No,27.0,Male,
+383,Yes,,,,Yes,31.0,Male,
+384,No,,,,Yes,25.0,Male,
+385,Don't know,,,,No,26.0,Male,
+386,Yes,,,,Yes,27.0,Female,
+387,Don't know,,,,No,42.0,Male,
+388,Yes,,,,Yes,29.0,Others,
+389,Don't know,,,,No,25.0,Female,
+390,Yes,,,,No,33.0,Female,
+392,Yes,,,,No,40.0,Female,
+393,Don't know,,,,No,31.0,Male,
+394,Don't know,,,,Yes,26.0,Male,
+395,No,,,,No,24.0,Female,
+396,Yes,,,,No,29.0,Male,
+397,Don't know,,,,No,48.0,Male,
+398,No,,,,No,35.0,Male,
+399,Don't know,,,,No,32.0,Female,
+400,Don't know,,,,No,29.0,Male,
+401,Yes,,,,No,26.0,Male,
+402,Yes,,,,No,28.0,Male,
+403,Don't know,,,,No,23.0,Male,
+404,Yes,,,,No,35.0,Male,
+405,Don't know,,,,No,29.0,Male,
+406,Yes,,,,No,26.0,Male,
+407,Yes,,,,Yes,33.0,Male,
+408,Don't know,,,,Yes,33.0,Male,
+409,Don't know,,,,Yes,22.0,Male,
+410,No,,,,No,30.0,Female,
+411,Yes,,,,Yes,33.0,Male,
+412,Don't know,,,,No,31.0,Female,
+413,Don't know,,,,No,21.0,Male,
+414,Don't know,,,,No,31.0,Others,
+415,Don't know,,,,Yes,26.0,Female,
+416,Don't know,,,,No,30.0,Male,
+417,Don't know,,,,No,30.0,Others,
+418,No,,,,No,23.0,Male,
+419,No,,,,No,34.0,Male,
+420,No,,,,Yes,55.0,Male,
+421,Yes,,,,Yes,28.0,Male,
+422,Don't know,,,,Yes,26.0,Male,
+423,Yes,,,,Yes,28.0,Male,
+424,No,,,,No,32.0,Male,
+425,Yes,,,,No,28.0,Female,
+426,Don't know,,,,No,21.0,Male,
+427,No,,,,No,24.0,Male,
+428,Yes,,,,No,26.0,Female,
+429,Yes,,,,No,23.0,Male,
+430,Yes,,,,No,24.0,Female,
+431,Don't know,,,,Yes,28.0,Male,
+432,No,,,,No,24.0,Female,
+433,No,,,,Yes,33.0,Male,
+434,Don't know,,,,No,34.0,Male,
+435,Don't know,,,,No,27.0,Female,
+436,Don't know,,,,No,28.0,Male,
+437,Don't know,,,,No,26.0,Male,
+438,Don't know,,,,Yes,20.0,Male,
+439,Yes,,,,No,23.0,Female,
+440,Yes,,,,Yes,29.0,Male,
+441,No,,,,No,26.0,Male,
+442,Yes,,,,Yes,36.0,Male,
+443,Yes,,,,No,41.0,Male,
+444,Yes,,,,Yes,33.0,Female,
+445,Yes,,,,No,23.0,Male,
+446,Yes,,,,No,39.0,Male,
+447,Yes,,,,No,34.0,Male,
+448,Yes,,,,No,26.0,Female,
+449,Yes,,,,No,24.0,Male,
+450,Yes,,,,No,37.0,Male,
+451,Yes,,,,Yes,43.0,Male,
+452,Yes,,,,No,40.0,Others,
+453,Yes,,,,No,30.0,Male,
+454,Don't know,,,,No,34.0,Male,
+455,Don't know,,,,No,27.0,Male,
+456,Don't know,,,,No,36.0,Male,
+457,No,,,,No,27.0,Male,
+458,Yes,,,,No,35.0,Male,
+459,No,,,,No,32.0,Male,
+460,Yes,,,,No,37.0,Male,
+461,Don't know,,,,No,29.0,Male,
+462,Yes,,,,No,33.0,Female,
+463,No,,,,Yes,28.0,Male,
+464,Don't know,,,,No,26.0,Female,
+465,Don't know,,,,Yes,27.0,Male,
+466,No,,,,Yes,38.0,Male,
+467,Yes,,,,No,57.0,Male,
+468,No,,,,No,28.0,Male,
+469,No,,,,No,26.0,Male,
+470,Yes,,,,Yes,42.0,Female,
+471,Yes,,,,Yes,31.0,Male,
+472,Yes,,,,No,58.0,Male,
+473,Don't know,,,,No,29.0,Male,
+474,Yes,,,,No,39.0,Female,
+475,Don't know,,,,Yes,34.0,Male,
+476,Yes,,,,No,57.0,Male,
+477,No,,,,No,27.0,Male,
+478,Don't know,,,,Yes,23.0,Male,
+480,Don't know,,,,No,30.0,Female,
+481,Don't know,,,,No,23.0,Male,
+482,Yes,,,,No,43.0,Male,
+484,Yes,,,,No,29.0,Male,
+485,Don't know,,,,No,48.0,Male,
+486,No,,,,No,43.0,Male,
+487,Don't know,,,,No,28.0,Female,
+488,No,,,,Yes,30.0,Male,
+489,No,,,,No,26.0,Male,
+490,No,,,,No,33.0,Male,
+491,Yes,,,,No,31.0,Male,
+492,Don't know,,,,No,30.0,Male,
+493,No,,,,No,27.0,Male,
+494,No,,,,Yes,24.0,Female,
+495,Don't know,,,,No,25.0,Male,
+496,Yes,,,,No,23.0,Female,
+497,Yes,,,,No,36.0,Male,
+498,Don't know,,,,Yes,25.0,Female,
+499,No,,,,Yes,54.0,Male,
+500,Don't know,,,,No,34.0,Male,
+501,Yes,,,,No,38.0,Female,
+502,No,,,,No,40.0,Male,
+503,No,,,,No,32.0,Male,
+504,Don't know,,,,No,25.0,Male,
+505,No,,,,No,35.0,Female,
+506,Yes,,,,No,46.0,Male,
+507,Yes,,,,No,42.0,Male,
+508,Yes,,,,Yes,32.0,Male,
+509,Yes,,,,No,47.0,Male,
+510,Yes,,,,No,22.0,Male,
+511,Yes,,,,Yes,33.0,Female,
+512,No,,,,No,25.0,Female,
+513,Don't know,,,,No,29.0,Male,
+514,Yes,,,,No,39.0,Male,
+515,Yes,,,,No,38.0,Male,
+516,Don't know,,,,Yes,43.0,Male,
+517,Yes,,,,Yes,46.0,Male,
+518,Yes,,,,No,38.0,Female,
+519,Yes,,,,No,33.0,Male,
+520,No,,,,No,34.0,Male,
+521,Yes,,,,No,62.0,Male,
+522,Don't know,,,,No,23.0,Female,
+523,No,,,,No,35.0,Male,
+524,Don't know,,,,Yes,25.0,Male,
+525,Don't know,,,,Yes,36.0,Male,
+526,Yes,,,,Yes,41.0,Female,
+527,Yes,,,,No,24.0,Male,
+528,No,,,,Yes,51.0,Male,
+529,Yes,,,,No,29.0,Male,
+530,Don't know,,,,Yes,31.0,Female,
+531,No,,,,No,27.0,Male,
+532,Yes,,,,No,31.0,Male,
+533,No,,,,Yes,27.0,Female,
+534,Don't know,,,,No,23.0,Male,
+535,Don't know,,,,No,21.0,Male,
+536,No,,,,No,27.0,Female,
+537,Yes,,,,Yes,39.0,Male,
+538,Don't know,,,,No,26.0,Male,
+539,Don't know,,,,No,27.0,Male,
+540,Yes,,,,No,22.0,Female,
+541,Don't know,,,,No,26.0,Female,
+542,Yes,,,,No,31.0,Female,
+543,Don't know,,,,No,32.0,Male,
+544,Yes,,,,Yes,28.0,Female,
+545,No,,,,No,28.0,Others,
+546,Don't know,,,,No,23.0,Female,
+547,Don't know,,,,Yes,30.0,Male,
+548,Yes,,,,No,36.0,Male,
+549,Yes,,,,No,21.0,Male,
+550,No,,,,No,30.0,Male,
+551,Don't know,,,,No,25.0,Female,
+552,No,,,,No,32.0,Male,
+553,No,,,,No,29.0,Female,
+554,No,,,,No,21.0,Others,
+555,No,,,,Yes,27.0,Female,
+556,Don't know,,,,No,32.0,Female,
+557,Yes,,,,No,34.0,Male,
+558,Don't know,,,,No,33.0,Male,
+559,No,,,,Yes,22.0,Male,
+560,Don't know,,,,No,24.0,Male,
+561,No,,,,Yes,65.0,Male,
+562,Don't know,,,,Yes,27.0,Male,
+563,Don't know,,,,No,33.0,Male,
+564,Don't know,,,,No,36.0,Male,
+565,No,,,,No,40.0,Male,
+566,Yes,,,,No,28.0,Male,
+567,Yes,,,,No,39.0,Male,
+568,Yes,,,,No,32.0,Male,
+569,Yes,,,,No,31.0,Male,
+570,Don't know,,,,No,38.0,Male,
+571,No,,,,No,23.0,Male,
+572,Yes,,,,No,42.0,Male,
+573,Don't know,,,,No,27.0,Female,
+574,Yes,,,,No,26.0,Female,
+575,No,,,,Yes,50.0,Male,
+576,Don't know,,,,No,37.0,Male,
+577,Don't know,,,,No,23.0,Male,
+578,Don't know,,,,Yes,33.0,Male,
+579,Yes,,,,Yes,29.0,Male,
+580,Yes,,,,Yes,34.0,Male,
+581,Yes,,,,No,41.0,Male,
+582,Don't know,,,,Yes,50.0,Male,
+583,Yes,,,,No,29.0,Male,
+584,No,,,,No,35.0,Male,
+585,No,,,,Yes,27.0,Male,
+586,Don't know,,,,No,40.0,Female,
+587,No,,,,Yes,27.0,Male,
+588,Yes,,,,No,29.0,Female,
+589,No,,,,No,31.0,Male,
+590,No,,,,No,43.0,Male,
+591,Yes,,,,Yes,34.0,Male,
+592,Don't know,,,,No,29.0,Male,
+593,No,,,,No,19.0,Male,
+594,Yes,,,,No,41.0,Male,
+595,Yes,,,,No,29.0,Male,
+596,Yes,,,,No,23.0,Male,
+597,Yes,,,,No,24.0,Female,
+598,Don't know,,,,Yes,31.0,Male,
+599,Don't know,,,,Yes,43.0,Male,
+600,No,,,,No,31.0,Male,
+601,Yes,,,,No,29.0,Male,
+602,No,,,,Yes,35.0,Male,
+603,Yes,,,,No,33.0,Male,
+604,No,,,,Yes,30.0,Female,
+605,Yes,,,,No,27.0,Male,
+606,No,,,,No,32.0,Male,
+607,Don't know,,,,Yes,50.0,Male,
+608,Don't know,,,,No,24.0,Male,
+609,Don't know,,,,No,27.0,Male,
+610,No,,,,Yes,27.0,Male,
+611,No,,,,No,32.0,Male,
+612,No,,,,Yes,42.0,Male,
+613,Don't know,,,,No,37.0,Male,
+614,Don't know,,,,No,30.0,Male,
+615,Yes,,,,No,29.0,Male,
+616,No,,,,Yes,30.0,Male,
+617,Yes,,,,No,35.0,Male,
+618,Yes,,,,Yes,35.0,Male,
+619,No,,,,Yes,38.0,Male,
+620,Yes,,,,No,22.0,Male,
+621,Don't know,,,,No,24.0,Male,
+622,Don't know,,,,No,22.0,Male,
+623,Yes,,,,Yes,31.0,Female,
+624,Yes,,,,No,23.0,Female,
+625,Don't know,,,,No,31.0,Female,
+626,Yes,,,,No,28.0,Female,
+627,Yes,,,,No,37.0,Others,
+628,No,,,,No,34.0,Male,
+629,No,,,,Yes,32.0,Others,
+630,Yes,,,,Yes,28.0,Male,
+631,No,,,,No,24.0,Female,
+632,Yes,,,,No,56.0,Male,
+633,No,,,,Yes,31.0,Male,
+634,Yes,,,,Yes,34.0,Female,
+635,Don't know,,,,No,35.0,Male,
+636,No,,,,No,28.0,Male,
+637,No,,,,No,36.0,Male,
+638,No,,,,No,30.0,Male,
+639,Yes,,,,Yes,35.0,Male,
+640,No,,,,Yes,49.0,Male,
+641,Yes,,,,No,36.0,Male,
+642,No,,,,No,35.0,Male,
+643,Yes,,,,No,29.0,Female,
+644,Yes,,,,No,57.0,Male,
+645,Yes,,,,No,31.0,Female,
+646,No,,,,No,37.0,Male,
+647,No,,,,No,25.0,Male,
+648,No,,,,No,30.0,Male,
+649,No,,,,No,26.0,Female,
+650,No,,,,No,22.0,Female,
+651,Don't know,,,,Yes,39.0,Male,
+652,Don't know,,,,No,29.0,Male,
+653,Don't know,,,,Yes,54.0,Male,
+654,Don't know,,,,No,34.0,Female,
+655,Yes,,,,No,32.0,Male,
+656,No,,,,No,25.0,Male,
+657,No,,,,No,29.0,Male,
+658,No,,,,Yes,32.0,Male,
+659,Yes,,,,No,30.0,Male,
+660,Don't know,,,,No,31.0,Male,
+661,Yes,,,,No,20.0,Female,
+662,Don't know,,,,No,27.0,Male,
+663,Don't know,,,,No,32.0,Male,
+664,No,,,,Yes,26.0,Male,
+665,Don't know,,,,No,30.0,Male,
+666,No,,,,Yes,30.0,Male,
+667,Don't know,,,,Yes,22.0,Male,
+668,Don't know,,,,No,24.0,Male,
+669,No,,,,No,26.0,Male,
+670,Don't know,,,,No,43.0,Male,
+671,No,,,,No,26.0,Male,
+672,Don't know,,,,No,23.0,Male,
+673,Yes,,,,Yes,26.0,Male,
+674,Don't know,,,,No,26.0,Female,
+675,Don't know,,,,No,35.0,Male,
+676,Don't know,,,,Yes,28.0,Male,
+677,No,,,,No,22.0,Male,
+678,Don't know,,,,No,29.0,Female,
+679,No,,,,No,29.0,Male,
+680,Yes,,,,Yes,45.0,Male,
+681,No,,,,Yes,33.0,Male,
+682,Yes,,,,No,38.0,Male,
+683,Don't know,,,,No,19.0,Others,
+684,Yes,,,,Yes,29.0,Female,
+685,No,,,,No,21.0,Female,
+686,Don't know,,,,No,23.0,Female,
+687,Yes,,,,No,33.0,Female,
+688,Yes,,,,No,49.0,Male,
+689,Don't know,,,,Yes,28.0,Male,
+690,Don't know,,,,Yes,27.0,Female,
+691,Yes,,,,No,23.0,Male,
+692,No,,,,Yes,29.0,Male,
+693,Don't know,,,,No,30.0,Male,
+694,Yes,,,,No,28.0,Female,
+695,No,,,,No,32.0,Male,
+696,Yes,,,,No,32.0,Male,
+697,No,,,,No,37.0,Male,
+698,No,,,,Yes,39.0,Female,
+699,Don't know,,,,No,31.0,Male,
+700,No,,,,No,29.0,Male,
+701,Yes,,,,No,30.0,Male,
+702,No,,,,Yes,33.0,Male,
+703,Yes,,,,No,37.0,Male,
+704,Yes,,,,No,23.0,Male,
+705,Yes,,,,No,43.0,Male,
+706,Don't know,,,,No,32.0,Male,
+707,Don't know,,,,No,26.0,Male,
+708,Don't know,,,,Yes,32.0,Male,
+709,Don't know,,,,Yes,37.0,Female,
+710,Yes,,,,No,29.0,Male,
+711,No,,,,No,34.0,Male,
+712,Don't know,,,,No,27.0,Male,
+713,Don't know,,,,No,30.0,Male,
+714,Yes,,,,No,29.0,Male,
+715,Yes,,,,Yes,32.0,Male,
+717,Yes,,,,No,25.0,Male,
+718,Yes,,,,Yes,37.0,Male,
+719,No,,,,No,29.0,Male,
+720,Yes,,,,No,27.0,Male,
+721,Don't know,,,,No,33.0,Male,
+722,Don't know,,,,No,30.0,Male,
+723,No,,,,Yes,29.0,Male,
+724,Don't know,,,,Yes,25.0,Male,
+725,No,,,,No,33.0,Male,
+726,No,,,,Yes,31.0,Male,
+727,Don't know,,,,Yes,21.0,Male,
+728,Don't know,,,,No,30.0,Male,
+729,Don't know,,,,No,29.0,Male,
+730,No,,,,Yes,43.0,Male,
+731,No,,,,No,37.0,Male,
+732,No,,,,No,24.0,Male,
+733,Don't know,,,,Yes,29.0,Male,
+734,Yes,,,,No,31.0,Male,
+736,No,,,,No,33.0,Male,
+737,Yes,,,,No,43.0,Male,
+738,Don't know,,,,No,33.0,Male,
+739,No,,,,No,27.0,Male,
+740,Don't know,,,,Yes,36.0,Male,
+741,No,,,,No,37.0,Male,
+742,No,,,,No,32.0,Male,
+743,No,,,,No,39.0,Male,
+744,Yes,,,,No,31.0,Male,
+745,Yes,,,,Yes,36.0,Male,
+746,Don't know,,,,Yes,30.0,Male,
+747,Yes,,,,No,28.0,Male,
+748,No,,,,No,32.0,Male,
+749,Yes,,,,No,35.0,Male,
+750,Don't know,,,,No,19.0,Male,
+751,Yes,,,,No,33.0,Male,
+752,Don't know,,,,Yes,42.0,Male,
+753,Don't know,,,,No,37.0,Male,
+754,No,,,,No,40.0,Male,
+755,Yes,,,,No,36.0,Male,
+756,Don't know,,,,Yes,29.0,Female,
+757,Yes,,,,No,38.0,Female,
+758,Yes,,,,No,26.0,Male,
+759,No,,,,No,34.0,Male,
+760,No,,,,No,21.0,Male,
+761,No,,,,Yes,31.0,Male,
+762,Yes,,,,No,37.0,Female,
+763,No,,,,No,37.0,Male,
+764,No,,,,No,38.0,Male,
+765,Don't know,,,,No,27.0,Female,
+766,No,,,,No,39.0,Male,
+767,Yes,,,,No,33.0,Female,
+768,Don't know,,,,No,27.0,Male,
+769,Yes,,,,Yes,36.0,Female,
+770,Don't know,,,,No,28.0,Male,
+771,Don't know,,,,No,39.0,Male,
+772,No,,,,Yes,33.0,Male,
+773,Don't know,,,,No,32.0,Male,
+774,Don't know,,,,No,28.0,Male,
+775,No,,,,No,37.0,Male,
+776,Yes,,,,No,39.0,Male,
+777,Don't know,,,,Yes,43.0,Male,
+778,Don't know,,,,No,32.0,Others,
+779,Don't know,,,,No,27.0,Female,
+780,Don't know,,,,No,31.0,Female,
+781,Don't know,,,,No,43.0,Male,
+782,No,,,,Yes,33.0,Male,
+783,Don't know,,,,No,34.0,Male,
+784,Don't know,,,,No,33.0,Male,
+785,Don't know,,,,No,25.0,Male,
+786,Yes,,,,No,25.0,Male,
+787,No,,,,No,32.0,Male,
+788,Yes,,,,No,25.0,Male,
+789,Don't know,,,,Yes,37.0,Male,
+790,Yes,,,,No,39.0,Male,
+791,Don't know,,,,No,29.0,Male,
+792,Yes,,,,No,33.0,Male,
+793,Don't know,,,,Yes,37.0,Female,
+794,Yes,,,,No,35.0,Female,
+795,Don't know,,,,No,22.0,Female,
+796,Yes,,,,No,38.0,Male,
+797,Yes,,,,No,32.0,Female,
+798,Don't know,,,,No,28.0,Male,
+799,No,,,,No,27.0,Male,
+800,Don't know,,,,Yes,35.0,Female,
+801,Yes,,,,No,29.0,Male,
+802,No,,,,No,23.0,Male,
+803,Yes,,,,Yes,39.0,Male,
+804,Yes,,,,No,30.0,Female,
+805,Don't know,,,,No,32.0,Male,
+806,No,,,,No,28.0,Others,
+807,Yes,,,,No,40.0,Female,
+808,Don't know,,,,No,36.0,Female,
+809,Don't know,,,,Yes,27.0,Male,
+810,Yes,,,,No,41.0,Male,
+811,Don't know,,,,No,29.0,Male,
+812,No,,,,No,29.0,Male,
+813,No,,,,No,35.0,Male,
+814,No,,,,Yes,28.0,Male,
+815,Don't know,,,,Yes,36.0,Female,
+816,Don't know,,,,No,39.0,Female,
+817,Yes,,,,No,39.0,Male,
+818,No,,,,Yes,44.0,Male,
+819,No,,,,Yes,26.0,Others,
+820,No,,,,No,35.0,Male,
+821,Yes,,,,No,40.0,Female,
+822,No,,,,No,35.0,Male,
+823,No,,,,Yes,38.0,Male,
+824,Don't know,,,,Yes,34.0,Male,
+825,Yes,,,,No,43.0,Male,
+826,Don't know,,,,No,48.0,Female,
+827,Don't know,,,,No,20.0,Male,
+828,Don't know,,,,Yes,40.0,Male,
+829,Don't know,,,,No,29.0,Female,
+830,No,,,,No,35.0,Male,
+831,Yes,,,,Yes,29.0,Male,
+832,Yes,,,,No,40.0,Male,
+833,No,,,,No,29.0,Male,
+834,Yes,,,,No,29.0,Female,
+835,No,,,,No,34.0,Male,
+836,Don't know,,,,No,44.0,Male,
+837,Yes,,,,No,24.0,Female,
+838,Don't know,,,,Yes,47.0,Female,
+839,Don't know,,,,No,43.0,Male,
+840,Yes,,,,No,36.0,Male,
+841,Don't know,,,,No,43.0,Male,
+842,No,,,,Yes,36.0,Male,
+843,Yes,,,,No,31.0,Female,
+844,Don't know,,,,No,35.0,Male,
+845,Yes,,,,No,33.0,Male,
+846,Don't know,,,,No,37.0,Male,
+847,Don't know,,,,No,34.0,Male,
+848,No,,,,No,36.0,Male,
+849,No,,,,Yes,40.0,Male,
+850,Yes,,,,No,40.0,Male,
+851,No,,,,Yes,42.0,Male,
+852,Yes,,,,Yes,23.0,Male,
+853,No,,,,No,21.0,Male,
+854,No,,,,Yes,26.0,Male,
+855,Don't know,,,,No,31.0,Male,
+856,Yes,,,,No,25.0,Male,
+857,Yes,,,,Yes,51.0,Male,
+858,Don't know,,,,No,24.0,Male,
+859,No,,,,No,33.0,Male,
+860,No,,,,No,32.0,Male,
+861,No,,,,No,32.0,Male,
+862,No,,,,Yes,26.0,Male,
+863,Don't know,,,,No,23.0,Male,
+864,No,,,,Yes,33.0,Male,
+865,Yes,,,,No,46.0,Male,
+866,No,,,,Yes,34.0,Male,
+867,Yes,,,,No,35.0,Male,
+868,No,,,,Yes,39.0,Male,
+869,No,,,,Yes,32.0,Male,
+870,Don't know,,,,Yes,43.0,Male,
+871,Yes,,,,Yes,56.0,Male,
+872,Don't know,,,,No,32.0,Female,
+873,Yes,,,,No,41.0,Male,
+874,Don't know,,,,Yes,39.0,Male,
+875,Yes,,,,No,37.0,Male,
+876,Don't know,,,,Yes,30.0,Male,
+877,Yes,,,,No,31.0,Male,
+878,Don't know,,,,No,29.0,Male,
+879,No,,,,No,23.0,Female,
+880,Yes,,,,No,31.0,Male,
+881,Don't know,,,,No,29.0,Male,
+882,Yes,,,,Yes,30.0,Male,
+883,Yes,,,,Yes,37.0,Male,
+884,Yes,,,,No,36.0,Male,
+885,Yes,,,,Yes,35.0,Male,
+886,Don't know,,,,Yes,41.0,Male,
+887,Don't know,,,,No,31.0,Male,
+888,Yes,,,,No,38.0,Male,
+889,No,,,,No,26.0,Male,
+890,Yes,,,,No,39.0,Male,
+891,Yes,,,,Yes,42.0,Male,
+892,No,,,,Yes,32.0,Male,
+893,Don't know,,,,No,29.0,Male,
+894,Yes,,,,No,30.0,Male,
+895,Don't know,,,,Yes,40.0,Male,
+896,Don't know,,,,No,51.0,Male,
+897,Yes,,,,No,33.0,Male,
+898,No,,,,Yes,34.0,Male,
+899,No,,,,Yes,50.0,Male,
+900,Don't know,,,,Yes,24.0,Male,
+901,No,,,,No,25.0,Male,
+902,No,,,,No,43.0,Male,
+903,Yes,,,,No,25.0,Female,
+904,No,,,,Yes,24.0,Male,
+905,No,,,,No,51.0,Male,
+906,Yes,,,,No,49.0,Male,
+907,Yes,,,,Yes,30.0,Male,
+908,Yes,,,,No,25.0,Female,
+909,Yes,,,,Yes,36.0,Male,
+910,Yes,,,,No,48.0,Male,
+911,No,,,,No,48.0,Male,
+912,Yes,,,,Yes,53.0,Male,
+913,No,,,,Yes,24.0,Female,
+914,Don't know,,,,No,33.0,Male,
+915,Yes,,,,No,25.0,Female,
+916,No,,,,No,30.0,Male,
+917,No,,,,Yes,30.0,Male,
+918,No,,,,Yes,34.0,Male,
+919,Yes,,,,Yes,31.0,Male,
+920,Don't know,,,,No,22.0,Female,
+921,Don't know,,,,No,28.0,Male,
+922,Yes,,,,No,35.0,Male,
+923,Yes,,,,No,28.0,Male,
+924,No,,,,No,42.0,Male,
+925,Yes,,,,No,33.0,Male,
+926,Yes,,,,No,29.0,Male,
+927,Yes,,,,No,43.0,Male,
+928,Yes,,,,No,29.0,Male,
+929,Yes,,,,Yes,25.0,Male,
+930,Don't know,,,,No,31.0,Male,
+931,Yes,,,,No,35.0,Female,
+932,Don't know,,,,No,34.0,Male,
+933,Yes,,,,Yes,43.0,Male,
+934,No,,,,No,38.0,Male,
+935,Don't know,,,,No,26.0,Male,
+936,No,,,,Yes,38.0,Male,
+937,Don't know,,,,No,42.0,Male,
+938,Don't know,,,,No,33.0,Male,
+939,Yes,,,,No,32.0,Male,
+940,Yes,,,,Yes,44.0,Male,
+941,Yes,,,,No,28.0,Male,
+942,Yes,,,,Yes,40.0,Male,
+943,Yes,,,,No,31.0,Female,
+944,Yes,,,,No,32.0,Male,
+945,Don't know,,,,No,28.0,Male,
+946,Yes,,,,No,39.0,Male,
+947,Yes,,,,No,45.0,Male,
+948,Yes,,,,No,43.0,Male,
+949,Yes,,,,No,35.0,Male,
+950,Yes,,,,No,40.0,Male,
+951,No,,,,No,34.0,Male,
+952,Don't know,,,,No,24.0,Male,
+953,No,,,,Yes,61.0,Male,
+954,Don't know,,,,No,36.0,Female,
+955,No,,,,No,38.0,Male,
+956,Don't know,,,,No,33.0,Male,
+957,Don't know,,,,No,30.0,Male,
+958,Yes,,,,Yes,34.0,Male,
+959,Yes,,,,No,26.0,Male,
+960,Don't know,,,,No,33.0,Male,
+961,Don't know,,,,No,32.0,Male,
+962,No,,,,Yes,25.0,Male,
+963,Don't know,,,,Yes,35.0,Male,
+964,Don't know,,,,Yes,24.0,Male,
+965,Yes,,,,No,55.0,Male,
+966,No,,,,Yes,33.0,Male,
+967,No,,,,Yes,26.0,Female,
+968,Don't know,,,,Yes,25.0,Male,
+969,Don't know,,,,No,45.0,Male,
+970,No,,,,Yes,33.0,Female,
+971,No,,,,Yes,43.0,Male,
+972,No,,,,No,30.0,Male,
+973,Don't know,,,,No,40.0,Male,
+974,Yes,,,,No,49.0,Male,
+975,Don't know,,,,No,29.0,Male,
+976,Don't know,,,,No,26.0,Male,
+977,Yes,,,,No,38.0,Male,
+978,Yes,,,,No,27.0,Male,
+979,Yes,,,,No,26.0,Male,
+980,No,,,,No,28.0,Male,
+981,No,,,,Yes,40.0,Male,
+982,No,,,,Yes,37.0,Female,
+983,Yes,,,,Yes,34.0,Female,
+984,Don't know,,,,No,28.0,Male,
+985,Yes,,,,No,27.0,Male,
+986,No,,,,Yes,29.0,Male,
+987,Don't know,,,,Yes,39.0,Female,
+988,No,,,,No,28.0,Male,
+989,Yes,,,,No,23.0,Male,
+991,No,,,,Yes,38.0,Male,
+992,Yes,,,,No,19.0,Male,
+993,Yes,,,,No,30.0,Female,
+994,No,,,,Yes,28.0,Male,
+995,Don't know,,,,No,20.0,Male,
+996,Don't know,,,,No,35.0,Male,
+997,Yes,,,,Yes,39.0,Male,
+998,Yes,,,,No,31.0,Female,
+999,No,,,,No,32.0,Male,
+1000,No,,,,No,27.0,Male,
+1001,Yes,,,,Yes,25.0,Male,
+1002,Don't know,,,,Yes,42.0,Male,
+1003,Yes,,,,No,34.0,Male,
+1004,Don't know,,,,Yes,26.0,Female,
+1005,No,,,,No,35.0,Male,
+1006,Don't know,,,,No,34.0,Male,
+1007,Yes,,,,Yes,38.0,Male,
+1008,Don't know,,,,No,34.0,Male,
+1009,No,,,,Yes,39.0,Male,
+1010,Don't know,,,,No,44.0,Female,
+1011,Yes,,,,No,40.0,Male,
+1012,No,,,,Yes,33.0,Female,
+1013,Yes,,,,No,24.0,Female,
+1014,Don't know,,,,Yes,38.0,Female,
+1015,Yes,,,,No,31.0,Male,
+1016,Don't know,,,,No,23.0,Male,
+1017,Don't know,,,,No,26.0,Female,
+1018,Yes,,,,No,46.0,Others,
+1019,Yes,,,,Yes,30.0,Male,
+1020,Don't know,,,,Yes,25.0,Male,
+1021,Don't know,,,,Yes,19.0,Male,
+1022,Yes,,,,No,30.0,Female,
+1023,Yes,,,,No,32.0,Male,
+1024,No,,,,No,32.0,Male,
+1025,Don't know,,,,Yes,37.0,Male,
+1026,Don't know,,,,Yes,42.0,Male,
+1027,Yes,,,,No,25.0,Female,
+1028,Don't know,,,,No,19.0,Male,
+1029,Yes,,,,Yes,40.0,Female,
+1030,Yes,,,,No,34.0,Male,
+1031,Don't know,,,,No,26.0,Male,
+1032,Don't know,,,,No,31.0,Male,
+1033,Yes,,,,Yes,40.0,Male,
+1034,No,,,,No,31.0,Female,
+1035,Don't know,,,,No,36.0,Male,
+1036,No,,,,Yes,35.0,Male,
+1037,No,,,,Yes,26.0,Male,
+1038,Don't know,,,,Yes,44.0,Male,
+1039,No,,,,No,34.0,Female,
+1040,No,,,,Yes,35.0,Male,
+1041,Don't know,,,,Yes,28.0,Female,
+1042,Yes,,,,Yes,33.0,Male,
+1043,Yes,,,,Yes,40.0,Male,
+1044,Yes,,,,No,26.0,Male,
+1045,Yes,,,,No,29.0,Female,
+1046,Yes,,,,No,26.0,Female,
+1047,No,,,,No,33.0,Male,
+1048,No,,,,No,28.0,Male,
+1049,No,,,,Yes,41.0,Male,
+1050,No,,,,Yes,39.0,Male,
+1051,Yes,,,,No,26.0,Female,
+1052,No,,,,No,23.0,Female,
+1053,Don't know,,,,No,35.0,Male,
+1054,Don't know,,,,Yes,36.0,Male,
+1055,Don't know,,,,No,42.0,Male,
+1056,Yes,,,,No,39.0,Male,
+1057,Don't know,,,,No,27.0,Male,
+1058,Don't know,,,,Yes,33.0,Male,
+1059,Yes,,,,No,31.0,Male,
+1060,Yes,,,,No,28.0,Female,
+1061,Yes,,,,Yes,29.0,Female,
+1062,Don't know,,,,No,27.0,Male,
+1063,Don't know,,,,Yes,44.0,Male,
+1064,Don't know,,,,Yes,25.0,Male,
+1065,No,,,,No,24.0,Male,
+1066,Don't know,,,,No,25.0,Male,
+1067,Yes,,,,Yes,34.0,Male,
+1068,Yes,,,,No,26.0,Male,
+1069,Yes,,,,No,48.0,Male,
+1070,No,,,,Yes,34.0,Male,
+1071,No,,,,Yes,39.0,Female,
+1072,Yes,,,,Yes,43.0,Male,
+1073,Yes,,,,No,41.0,Male,
+1074,Don't know,,,,No,25.0,Male,
+1075,Yes,,,,No,31.0,Male,
+1076,Yes,,,,No,40.0,Male,
+1077,Yes,,,,Yes,43.0,Male,
+1078,Yes,,,,No,27.0,Female,
+1079,Yes,,,,Yes,37.0,Female,
+1080,No,,,,No,32.0,Male,
+1081,No,,,,No,25.0,Male,
+1082,Don't know,,,,No,29.0,Male,
+1083,Yes,,,,No,30.0,Female,
+1084,Don't know,,,,No,34.0,Female,
+1085,Yes,,,,No,32.0,Male,
+1086,Don't know,,,,No,37.0,Male,
+1087,Don't know,,,,No,41.0,Male,
+1088,Yes,,,,No,38.0,Male,
+1089,Yes,,,,No,32.0,Male,
+1090,Yes,,,,No,28.0,Female,
+1092,Yes,,,,No,43.0,Male,
+1093,No,,,,No,32.0,Male,
+1094,Yes,,,,No,25.0,Male,
+1095,Yes,,,,No,37.0,Male,
+1096,No,,,,No,36.0,Male,
+1097,Don't know,,,,Yes,24.0,Male,
+1098,Yes,,,,No,40.0,Male,
+1099,Don't know,,,,No,29.0,Male,
+1100,Don't know,,,,No,43.0,Male,
+1101,Yes,,,,Yes,29.0,Male,
+1102,Don't know,,,,No,26.0,Male,
+1103,No,,,,Yes,33.0,Female,
+1104,Don't know,,,,Yes,35.0,Female,
+1105,Yes,,,,Yes,45.0,Male,
+1106,No,,,,Yes,25.0,Male,
+1107,No,,,,Yes,50.0,Male,
+1108,No,,,,No,26.0,Male,
+1109,Yes,,,,No,33.0,Female,
+1110,No,,,,No,30.0,Male,
+1111,Yes,,,,Yes,33.0,Male,
+1112,Yes,,,,No,29.0,Male,
+1113,No,,,,Yes,37.0,Male,
+1114,Don't know,,,,Yes,25.0,Male,
+1115,Yes,,,,No,40.0,Male,
+1116,Yes,,,,No,24.0,Male,
+1117,Don't know,,,,No,40.0,Male,
+1118,Don't know,,,,No,46.0,Male,
+1119,Yes,,,,No,38.0,Male,
+1120,No,,,,Yes,34.0,Male,
+1121,No,,,,No,32.0,Male,
+1122,No,,,,No,44.0,Male,
+1123,Don't know,,,,No,33.0,Female,
+1124,Don't know,,,,No,45.0,Female,
+1125,Don't know,,,,No,35.0,Male,
+1126,No,,,,No,26.0,Male,
+1127,Don't know,,,,Yes,20.0,Female,
+1129,No,,,,No,37.0,Male,
+1130,Yes,,,,No,28.0,Male,
+1131,Yes,,,,No,42.0,Female,
+1132,No,,,,No,32.0,Male,
+1133,Yes,,,,Yes,36.0,Female,
+1134,No,,,,No,27.0,Male,
+1135,No,,,,No,27.0,Male,
+1136,No,,,,No,27.0,Male,
+1137,No,,,,Yes,25.0,Male,
+1138,No,,,,No,41.0,Male,
+1139,Don't know,,,,No,23.0,Male,
+1140,Don't know,,,,No,21.0,Male,
+1141,No,,,,No,26.0,Male,
+1142,Don't know,,,,No,29.0,Male,
+1143,No,,,,No,28.0,Male,
+1144,No,,,,No,27.0,Female,
+1145,No,,,,No,23.0,Male,
+1146,Don't know,,,,Yes,26.0,Female,
+1147,No,,,,No,38.0,Male,
+1148,No,,,,No,39.0,Male,
+1149,Yes,,,,No,35.0,Male,
+1150,Yes,,,,No,32.0,Male,
+1151,Yes,,,,No,32.0,Male,
+1152,No,,,,No,26.0,Male,
+1153,Don't know,,,,No,38.0,Male,
+1154,Yes,,,,No,34.0,Female,
+1155,Don't know,,,,No,39.0,Male,
+1156,Don't know,,,,Yes,32.0,Male,
+1157,Don't know,,,,Yes,37.0,Male,
+1158,Don't know,,,,No,31.0,Male,
+1159,No,,,,No,30.0,Male,
+1160,Don't know,,,,Yes,51.0,Male,
+1161,Yes,,,,No,29.0,Male,
+1162,Yes,,,,No,31.0,Male,
+1163,Don't know,,,,No,31.0,Male,
+1164,Don't know,,,,Yes,26.0,Male,
+1165,Yes,,,,Yes,46.0,Female,
+1166,Yes,,,,No,32.0,Male,
+1167,Yes,,,,No,29.0,Male,
+1168,Don't know,,,,Yes,34.0,Male,
+1169,No,,,,No,26.0,Male,
+1170,Yes,,,,No,32.0,Female,
+1171,Don't know,,,,No,29.0,Male,
+1172,Yes,,,,No,30.0,Male,
+1173,Yes,,,,No,40.0,Female,
+1174,No,,,,No,23.0,Male,
+1175,No,,,,No,20.0,Male,
+1176,Don't know,,,,No,38.0,Male,
+1177,Yes,,,,No,26.0,Female,
+1178,No,,,,No,29.0,Male,
+1179,No,,,,Yes,40.0,Male,
+1180,No,,,,Yes,25.0,Female,
+1181,Yes,,,,No,32.0,Female,
+1182,Yes,,,,No,38.0,Male,
+1183,Yes,,,,Yes,72.0,Female,
+1184,No,,,,Yes,35.0,Female,
+1185,No,,,,No,28.0,Female,
+1186,Don't know,,,,No,27.0,Female,
+1187,Don't know,,,,Yes,56.0,Female,
+1188,Yes,,,,Yes,38.0,Male,
+1189,Don't know,,,,No,31.0,Female,
+1190,Yes,,,,No,40.0,Male,
+1191,Yes,,,,No,44.0,Male,
+1192,Yes,,,,No,34.0,Male,
+1193,Don't know,,,,Yes,37.0,Male,
+1194,Don't know,,,,No,38.0,Male,
+1195,Don't know,,,,No,27.0,Male,
+1196,Yes,,,,No,34.0,Female,
+1197,Don't know,,,,No,35.0,Female,
+1198,No,,,,No,34.0,Male,
+1199,Yes,,,,Yes,32.0,Male,
+1200,Don't know,,,,No,25.0,Male,
+1201,No,,,,Yes,28.0,Male,
+1202,Yes,,,,No,28.0,Female,
+1203,No,,,,No,31.0,Male,
+1204,Don't know,,,,No,24.0,Male,
+1205,No,,,,Yes,34.0,Male,
+1206,No,,,,No,32.0,Male,
+1207,Don't know,,,,Yes,34.0,Male,
+1208,No,,,,No,23.0,Male,
+1209,No,,,,No,33.0,Male,
+1210,Don't know,,,,No,29.0,Male,
+1211,No,,,,No,24.0,Male,
+1212,Don't know,,,,Yes,45.0,Male,
+1213,No,,,,No,34.0,Female,
+1214,Don't know,,,,No,31.0,Male,
+1215,Yes,,,,Yes,33.0,Male,
+1216,No,,,,No,28.0,Male,
+1217,Don't know,,,,Yes,27.0,Male,
+1218,No,,,,No,42.0,Male,
+1219,No,,,,No,28.0,Male,
+1220,Yes,,,,Yes,38.0,Male,
+1221,Don't know,,,,No,46.0,Male,
+1222,Don't know,,,,Yes,46.0,Male,
+1223,Don't know,,,,Yes,41.0,Female,
+1224,Don't know,,,,No,23.0,Male,
+1225,Yes,,,,No,24.0,Male,
+1226,No,,,,No,23.0,Female,
+1227,Yes,,,,No,39.0,Male,
+1228,Yes,,,,No,32.0,Female,
+1229,Don't know,,,,No,25.0,Male,
+1230,No,,,,Yes,39.0,Male,
+1231,No,,,,No,23.0,Female,
+1232,No,,,,Yes,24.0,Male,
+1233,Yes,,,,No,25.0,Male,
+1234,No,,,,No,23.0,Male,
+1235,Don't know,,,,No,24.0,Others,
+1236,Yes,,,,No,23.0,Male,
+1237,Don't know,,,,Yes,60.0,Male,
+1238,No,,,,No,28.0,Male,
+1239,Yes,,,,No,28.0,Male,
+1240,Don't know,,,,No,30.0,Male,
+1241,Don't know,,,,No,31.0,Male,
+1242,No,,,,Yes,31.0,Male,
+1243,Don't know,,,,No,28.0,Male,
+1244,Yes,,,,Yes,43.0,Female,
+1245,No,,,,No,32.0,Female,
+1246,Yes,,,,No,22.0,Male,
+1247,Yes,,,,No,32.0,Male,
+1248,No,,,,No,36.0,Male,
+1249,Yes,,,,No,41.0,Female,
+1250,Yes,,,,No,30.0,Male,
+1251,Yes,,,,No,30.0,Male,
+1252,No,,,,No,36.0,Male,
+1253,Yes,,,,Yes,29.0,Male,
+1254,Don't know,,,,No,36.0,Male,
+1255,No,,,,No,26.0,Male,
+1256,Yes,,,,Yes,32.0,Male,
+1257,Yes,,,,No,34.0,Male,
+1258,No,,,,Yes,46.0,Female,
+1259,Yes,,,,No,25.0,Male,
+1260,No,,,,No,41.0,Male,
+1261,Don't know,No,No,,,39.0,Male,
+1262,No,Yes,Yes,,,29.0,Male,
+1263,No,No,No,,,38.0,Male,
+1264,Don't know,Don't know,Yes,,,43.0,Male,
+1265,Yes,No,Yes,,,43.0,Female,
+1266,Yes,Yes,Yes,,,42.0,Male,
+1267,Don't know,No,No,,,30.0,Male,
+1268,Yes,Yes,Yes,,,37.0,Female,
+1269,Don't know,No,Yes,,,44.0,Female,
+1270,Don't know,Don't know,Yes,,,30.0,Male,
+1271,Yes,Yes,Yes,,,28.0,Male,
+1272,Yes,Don't know,Yes,,,34.0,Male,
+1273,Yes,No,Yes,,,30.0,Female,
+1274,Yes,Yes,Don't know,,,44.0,Male,
+1275,Yes,Don't know,Yes,,,35.0,Male,
+1276,Don't know,Don't know,Yes,,,52.0,Male,
+1277,Don't know,No,Yes,,,32.0,Female,
+1278,No,No,No,,,34.0,Male,
+1279,Don't know,Don't know,Yes,,,25.0,Female,
+1280,Don't know,No,Yes,,,31.0,Male,
+1281,No,No,No,,,26.0,Male,
+1282,Yes,Don't know,No,,,35.0,Male,
+1283,Yes,No,No,,,25.0,Male,
+1284,Yes,No,No,,,33.0,Male,
+1285,Don't know,Don't know,No,,,38.0,Male,
+1286,Yes,Yes,No,,,42.0,Male,
+1287,No,No,Yes,,,27.0,Male,
+1288,Don't know,No,Don't know,,,35.0,Male,
+1289,Don't know,Yes,Don't know,,,34.0,Female,
+1290,Don't know,No,Yes,,,32.0,Others,
+1291,Don't know,No,Yes,,,32.0,Others,
+1292,Yes,Yes,Yes,,,30.0,Male,
+1293,Don't know,No,Don't know,,,31.0,Male,
+1294,Don't know,Don't know,No,,,37.0,Male,
+1295,Yes,Don't know,Yes,,,36.0,Male,
+1296,No,Yes,No,,,33.0,Male,
+1297,Yes,Yes,Yes,,,44.0,Male,
+1298,No,No,Don't know,,,29.0,Male,
+1299,No,No,Don't know,,,29.0,Male,
+1300,Yes,Don't know,No,,,44.0,Male,
+1301,Don't know,Don't know,Yes,,,34.0,Male,
+1302,Yes,Don't know,Yes,,,40.0,Male,
+1303,Yes,No,Yes,,,46.0,Others,
+1304,Don't know,Don't know,Yes,,,28.0,Male,
+1305,No,No,No,,,41.0,Male,
+1306,Yes,Yes,Yes,,,33.0,Male,
+1307,Don't know,Don't know,Yes,,,32.0,Male,
+1308,Don't know,Don't know,Don't know,,,45.0,Male,
+1309,Don't know,Don't know,Don't know,,,43.0,Male,
+1310,Yes,No,Yes,,,37.0,Female,
+1311,No,No,Yes,,,37.0,Male,
+1312,Yes,No,No,,,27.0,Male,
+1313,Don't know,Don't know,No,,,31.0,Male,
+1314,Yes,Yes,Yes,,,36.0,Male,
+1315,Yes,No,Don't know,,,34.0,Male,
+1316,Yes,Yes,No,,,31.0,Female,
+1317,Yes,Yes,Don't know,,,30.0,Male,
+1318,Yes,Don't know,Don't know,,,32.0,Male,
+1319,Yes,No,Don't know,,,40.0,Female,
+1320,Don't know,No,No,,,40.0,Male,
+1321,Yes,Yes,Don't know,,,41.0,Male,
+1322,Don't know,No,Don't know,,,27.0,Male,
+1323,Yes,No,No,,,30.0,Male,
+1324,Don't know,Don't know,Don't know,,,29.0,Male,
+1325,Don't know,Don't know,No,,,38.0,Male,
+1326,Don't know,Don't know,No,,,35.0,Male,
+1327,No,No,Yes,,,35.0,Female,
+1328,Yes,Yes,Yes,,,29.0,Male,
+1329,Yes,Don't know,No,,,28.0,Male,
+1330,No,Don't know,Don't know,,,27.0,Male,
+1331,Don't know,Don't know,No,,,39.0,Male,
+1332,Yes,Don't know,No,,,28.0,Male,
+1333,Don't know,No,No,,,46.0,Male,
+1334,No,Don't know,No,,,40.0,Male,
+1335,Yes,No,Don't know,,,37.0,Male,
+1336,No,No,No,,,41.0,Male,
+1337,Don't know,Don't know,Yes,,,19.0,Male,
+1338,Don't know,No,No,,,38.0,Female,
+1339,Don't know,Don't know,No,,,33.0,Male,
+1340,Yes,Yes,Yes,,,33.0,Male,
+1341,Yes,Don't know,No,,,21.0,Male,
+1342,No,No,Yes,,,36.0,Male,
+1343,Don't know,Don't know,Yes,,,39.0,Male,
+1344,Don't know,Don't know,No,,,35.0,Male,
+1345,Don't know,Don't know,Yes,,,36.0,Male,
+1346,Yes,Don't know,Don't know,,,45.0,Male,
+1347,Don't know,No,Don't know,,,41.0,Male,
+1348,Don't know,Don't know,Yes,,,35.0,Male,
+1349,Don't know,Don't know,Don't know,,,30.0,Male,
+1350,Don't know,Yes,Yes,,,24.0,Female,
+1351,No,No,No,,,33.0,Male,
+1352,Yes,Yes,Don't know,,,35.0,Male,
+1353,No,Don't know,Yes,,,26.0,Male,
+1355,Don't know,No,Yes,,,29.0,Female,
+1356,Yes,Don't know,Yes,,,26.0,Male,
+1357,Don't know,Don't know,No,,,36.0,Female,
+1358,Don't know,Don't know,No,,,46.0,Male,
+1359,Don't know,Don't know,Yes,,,39.0,Male,
+1360,Yes,No,Yes,,,28.0,Female,
+1361,Yes,Don't know,No,,,40.0,Male,
+1362,Don't know,No,Yes,,,23.0,Male,
+1363,Don't know,No,No,,,30.0,Male,
+1364,Don't know,Don't know,No,,,28.0,Others,
+1365,No,No,Don't know,,,27.0,Male,
+1366,Don't know,Don't know,Don't know,,,31.0,Male,
+1367,Yes,No,Don't know,,,39.0,Female,
+1368,Yes,Yes,Yes,,,34.0,Female,
+1369,Yes,No,Yes,,,30.0,Male,
+1370,Don't know,Don't know,Yes,,,30.0,Male,
+1371,Don't know,Don't know,Don't know,,,31.0,Male,
+1372,Yes,Yes,Yes,,,30.0,Male,
+1373,Yes,Don't know,Don't know,,,32.0,Male,
+1374,Don't know,Don't know,No,,,22.0,Male,
+1375,Don't know,Don't know,Yes,,,37.0,Female,
+1376,Yes,Yes,No,,,51.0,Male,
+1377,Don't know,No,Yes,,,26.0,Male,
+1378,Yes,Yes,No,,,41.0,Female,
+1379,Don't know,Don't know,Yes,,,39.0,Female,
+1380,Yes,No,Don't know,,,43.0,Male,
+1381,Don't know,No,Don't know,,,30.0,Male,
+1382,Yes,Don't know,No,,,24.0,Female,
+1383,Don't know,Don't know,Yes,,,30.0,Male,
+1384,No,No,Yes,,,28.0,Female,
+1385,Don't know,Don't know,Yes,,,48.0,Female,
+1386,Don't know,Don't know,Don't know,,,55.0,Female,
+1387,Don't know,No,Don't know,,,36.0,Female,
+1388,Don't know,Don't know,No,,,38.0,Male,
+1389,Don't know,Don't know,No,,,34.0,Male,
+1390,Yes,No,No,,,44.0,Female,
+1391,Don't know,Don't know,Don't know,,,45.0,Male,
+1392,Yes,Don't know,Don't know,,,45.0,Male,
+1393,No,No,Yes,,,30.0,Male,
+1394,Yes,Yes,Yes,,,34.0,Male,
+1395,Don't know,Don't know,No,,,37.0,Male,
+1396,Yes,Don't know,No,,,38.0,Male,
+1397,Yes,Don't know,Don't know,,,31.0,Male,
+1398,Don't know,Don't know,No,,,33.0,Male,
+1399,Yes,Don't know,Yes,,,29.0,Female,
+1400,Yes,Yes,Yes,,,35.0,Male,
+1401,No,No,Yes,,,42.0,Others,
+1402,Don't know,Don't know,No,,,26.0,Female,
+1403,Yes,Don't know,Don't know,,,36.0,Female,
+1404,Don't know,No,Yes,,,21.0,Male,
+1405,Yes,No,Yes,,,34.0,Female,
+1406,Don't know,Don't know,Don't know,,,40.0,Male,
+1407,Yes,No,Yes,,,35.0,Male,
+1408,Yes,Don't know,No,,,44.0,Male,
+1409,Don't know,Don't know,No,,,35.0,Others,
+1410,No,No,No,,,45.0,Male,
+1411,Yes,Yes,Yes,,,42.0,Male,
+1412,Don't know,Don't know,Yes,,,40.0,Male,
+1413,Don't know,Don't know,No,,,50.0,Female,
+1414,Yes,Don't know,Don't know,,,36.0,Male,
+1415,Don't know,Don't know,Yes,,,31.0,Female,
+1416,Don't know,No,No,,,29.0,Male,
+1417,Yes,Don't know,No,,,37.0,Male,
+1418,No,Don't know,Yes,,,31.0,Male,
+1419,Don't know,No,No,,,42.0,Male,
+1420,Yes,Don't know,No,,,25.0,Male,
+1421,Yes,Yes,Yes,,,27.0,Male,
+1422,Yes,Don't know,Yes,,,41.0,Female,
+1423,Yes,Yes,Yes,,,41.0,Female,
+1424,Yes,Yes,No,,,55.0,Female,
+1425,Yes,Yes,Yes,,,21.0,Male,
+1426,Don't know,No,No,,,37.0,Male,
+1427,Don't know,Don't know,No,,,34.0,Female,
+1428,Yes,Yes,Don't know,,,40.0,Male,
+1429,Don't know,Don't know,Don't know,,,25.0,Male,
+1430,Yes,Don't know,Don't know,,,36.0,Male,
+1431,No,No,Don't know,,,25.0,Male,
+1432,Don't know,Don't know,No,,,35.0,Male,
+1433,No,No,No,,,37.0,Male,
+1434,Yes,Yes,Don't know,,,45.0,Male,
+1435,No,No,Yes,,,26.0,Male,
+1436,Yes,Don't know,No,,,23.0,Male,
+1437,Yes,No,Yes,,,22.0,Female,
+1438,Don't know,No,Yes,,,46.0,Female,
+1439,No,No,No,,,31.0,Male,
+1440,Yes,Don't know,Yes,,,27.0,Male,
+1441,No,Yes,No,,,37.0,Male,
+1442,Don't know,No,No,,,37.0,Male,
+1443,Don't know,Don't know,Don't know,,,26.0,Others,
+1444,No,No,No,,,23.0,Male,
+1445,Yes,No,Yes,,,40.0,Male,
+1446,No,No,No,,,29.0,Male,
+1447,Yes,Yes,Yes,,,37.0,Male,
+1448,Yes,Yes,No,,,34.0,Female,
+1449,Yes,Don't know,Yes,,,40.0,Male,
+1450,Yes,Don't know,Don't know,,,39.0,Male,
+1451,Yes,Yes,Yes,,,28.0,Male,
+1452,Don't know,Don't know,Don't know,,,28.0,Male,
+1453,No,No,No,,,27.0,Male,
+1454,Don't know,Don't know,Don't know,,,48.0,Male,
+1455,Yes,No,Yes,,,49.0,Female,
+1456,No,No,Yes,,,35.0,Male,
+1457,Don't know,No,Yes,,,35.0,Male,
+1458,Don't know,Don't know,Yes,,,38.0,Male,
+1459,Yes,Yes,No,,,32.0,Male,
+1460,Yes,Yes,Yes,,,42.0,Male,
+1461,Yes,Yes,Don't know,,,33.0,Female,
+1462,Don't know,Don't know,No,,,35.0,Male,
+1463,Don't know,Don't know,Don't know,,,24.0,Male,
+1464,Yes,Yes,Yes,,,29.0,Others,
+1465,Don't know,No,Don't know,,,29.0,Male,
+1466,Don't know,No,No,,,24.0,Male,
+1467,Don't know,Don't know,No,,,30.0,Male,
+1468,Don't know,No,Yes,,,30.0,Male,
+1469,No,No,Yes,,,44.0,Male,
+1470,Yes,Yes,No,,,37.0,Male,
+1471,No,No,No,,,28.0,Male,
+1472,Yes,Don't know,No,,,42.0,Male,
+1473,Yes,No,Yes,,,30.0,Female,
+1474,Don't know,Don't know,Don't know,,,36.0,Male,
+1475,Don't know,No,No,,,30.0,Male,
+1476,Don't know,No,No,,,29.0,Male,
+1477,Don't know,Don't know,No,,,25.0,Male,
+1478,No,No,No,,,25.0,Male,
+1479,Don't know,Don't know,No,,,24.0,Male,
+1480,No,No,Yes,,,25.0,Male,
+1481,Yes,No,Yes,,,31.0,Male,
+1482,Yes,No,No,,,37.0,Male,
+1483,Don't know,Don't know,No,,,35.0,Male,
+1484,Don't know,No,No,,,26.0,Female,
+1485,Yes,No,No,,,31.0,Male,
+1486,Yes,Don't know,No,,,29.0,Female,
+1487,Don't know,No,No,,,33.0,Male,
+1488,No,No,No,,,30.0,Male,
+1489,Yes,No,Don't know,,,30.0,Male,
+1490,Yes,Yes,Yes,,,29.0,Female,
+1491,Don't know,Yes,Yes,,,25.0,Female,
+1492,Yes,Yes,No,,,27.0,Male,
+1493,Yes,No,No,,,26.0,Male,
+1494,Yes,Don't know,No,,,38.0,Female,
+1495,Yes,Yes,Yes,,,49.0,Male,
+1496,Yes,Yes,No,,,30.0,Male,
+1497,Don't know,Don't know,Don't know,,,34.0,Male,
+1498,No,Don't know,No,,,31.0,Male,
+1499,Don't know,Don't know,Don't know,,,29.0,Male,
+1500,No,No,No,,,31.0,Male,
+1501,Don't know,No,Don't know,,,34.0,Male,
+1502,Don't know,Don't know,No,,,28.0,Male,
+1503,Don't know,Don't know,No,,,35.0,Female,
+1504,Don't know,Don't know,No,,,27.0,Male,
+1505,Don't know,Don't know,No,,,33.0,Male,
+1506,Don't know,Don't know,Don't know,,,37.0,Female,
+1507,Don't know,Yes,Yes,,,45.0,Male,
+1508,No,No,Yes,,,31.0,Female,
+1509,No,Don't know,No,,,36.0,Male,
+1510,Yes,Yes,Yes,,,30.0,Male,
+1511,Yes,Yes,Yes,,,33.0,Female,
+1512,Yes,Yes,Yes,,,45.0,Female,
+1513,Yes,Yes,Yes,,,30.0,Female,
+1514,Yes,No,Yes,,,30.0,Male,
+1515,Don't know,Don't know,Yes,,,29.0,Male,
+1516,No,No,No,,,36.0,Male,
+1517,Yes,Yes,Don't know,,,28.0,Male,
+1518,Yes,Don't know,Yes,,,36.0,Male,
+1519,Yes,Don't know,Don't know,,,37.0,Female,
+1520,Yes,Yes,Don't know,,,29.0,Male,
+1521,Yes,Yes,Yes,,,25.0,Male,
+1522,Yes,Yes,No,,,34.0,Female,
+1523,Yes,Yes,No,,,37.0,Male,
+1524,Yes,Yes,Yes,,,40.0,Female,
+1525,Yes,Yes,Don't know,,,32.0,Male,
+1526,Don't know,No,No,,,38.0,Male,
+1527,Yes,Don't know,Yes,,,31.0,Female,
+1528,Yes,Yes,No,,,28.0,Female,
+1529,No,No,Yes,,,27.0,Female,
+1530,Yes,Yes,Yes,,,28.0,Female,
+1531,Don't know,No,Yes,,,26.0,Male,
+1532,Yes,Yes,No,,,40.0,Male,
+1533,Yes,Yes,Yes,,,42.0,Male,
+1534,Yes,Yes,No,,,36.0,Male,
+1535,Don't know,Don't know,Don't know,,,44.0,Male,
+1536,Yes,No,Yes,,,24.0,Male,
+1537,Don't know,Yes,Don't know,,,44.0,Male,
+1538,Yes,Don't know,Yes,,,31.0,Male,
+1539,Don't know,Don't know,Don't know,,,49.0,Male,
+1540,Yes,Don't know,No,,,27.0,Female,
+1541,Yes,Yes,No,,,27.0,Male,
+1542,Yes,No,No,,,28.0,Male,
+1543,Yes,No,Don't know,,,20.0,Female,
+1544,Don't know,Don't know,No,,,41.0,Male,
+1545,No,Yes,Yes,,,38.0,Male,
+1546,Don't know,Don't know,Yes,,,29.0,Male,
+1547,Yes,No,Yes,,,44.0,Female,
+1548,Don't know,Yes,No,,,31.0,Male,
+1549,No,No,Yes,,,54.0,Male,
+1550,Don't know,No,No,,,33.0,Male,
+1551,No,No,No,,,29.0,Male,
+1552,Don't know,Don't know,Don't know,,,26.0,Others,
+1553,Don't know,Don't know,Don't know,,,26.0,Male,
+1554,Don't know,Don't know,Yes,,,34.0,Male,
+1555,Don't know,No,Don't know,,,38.0,Female,
+1556,No,No,Yes,,,30.0,Male,
+1557,Don't know,Don't know,Yes,,,34.0,Male,
+1558,Yes,No,Yes,,,47.0,Female,
+1559,Yes,Yes,No,,,33.0,Female,
+1560,Don't know,No,No,,,22.0,Male,
+1561,Don't know,No,Don't know,,,28.0,Others,
+1562,Yes,Yes,Yes,,,31.0,Male,
+1563,Don't know,No,Yes,,,24.0,Others,
+1564,No,No,No,,,56.0,Male,
+1565,Don't know,Don't know,Yes,,,57.0,Female,
+1566,Don't know,Don't know,No,,,39.0,Male,
+1567,No,No,No,,,21.0,Male,
+1568,Don't know,Don't know,No,,,31.0,Female,
+1569,Don't know,Don't know,Yes,,,63.0,Male,
+1570,Don't know,Don't know,Yes,,,46.0,Male,
+1571,Don't know,Yes,Yes,,,32.0,Female,
+1572,Don't know,Don't know,Yes,,,35.0,Male,
+1573,Yes,No,No,,,34.0,Male,
+1574,Don't know,No,Yes,,,35.0,Male,
+1575,No,No,No,,,31.0,Male,
+1576,Don't know,Don't know,Yes,,,35.0,Female,
+1577,Don't know,No,No,,,36.0,Male,
+1578,Yes,Don't know,No,,,50.0,Male,
+1579,Don't know,No,Yes,,,31.0,Male,
+1580,Yes,No,No,,,47.0,Male,
+1581,Don't know,Don't know,No,,,32.0,Female,
+1582,Yes,No,Yes,,,23.0,Female,
+1583,Yes,Don't know,Yes,,,43.0,Female,
+1584,Yes,No,No,,,26.0,Female,
+1585,Don't know,Don't know,Don't know,,,26.0,Female,
+1586,Yes,Yes,No,,,55.0,Female,
+1587,Yes,No,Yes,,,27.0,Male,
+1588,Don't know,Don't know,No,,,34.0,Male,
+1589,No,No,No,,,25.0,Male,
+1590,Don't know,Don't know,No,,,35.0,Male,
+1591,Don't know,Don't know,Yes,,,37.0,Male,
+1592,Yes,Yes,Yes,,,38.0,Female,
+1593,Yes,No,Don't know,,,29.0,Male,
+1594,Yes,Yes,Don't know,,,28.0,Male,
+1595,Don't know,No,Don't know,,,29.0,Male,
+1596,Yes,No,Don't know,,,40.0,Male,
+1597,Yes,Yes,Yes,,,25.0,Female,
+1598,Don't know,Don't know,Don't know,,,29.0,Male,
+1599,Yes,Yes,Yes,,,29.0,Female,
+1600,Yes,Yes,Yes,,,35.0,Male,
+1601,Don't know,Don't know,No,,,25.0,Male,
+1602,No,No,Yes,,,43.0,Male,
+1603,No,No,No,,,26.0,Male,
+1604,Don't know,No,Don't know,,,31.0,Male,
+1605,Yes,Yes,No,,,31.0,Female,
+1606,Don't know,No,Yes,,,45.0,Female,
+1607,No,No,Don't know,,,23.0,Male,
+1608,Don't know,Don't know,No,,,39.0,Male,
+1609,Yes,No,No,,,27.0,Female,
+1610,Yes,No,Yes,,,28.0,Male,
+1611,Don't know,Don't know,Don't know,,,36.0,Male,
+1612,Don't know,No,No,,,22.0,Male,
+1613,Yes,Don't know,No,,,51.0,Male,
+1614,Don't know,Don't know,Don't know,,,39.0,Male,
+1615,Don't know,Don't know,Yes,,,36.0,Male,
+1616,Don't know,No,Yes,,,28.0,Male,
+1617,Don't know,Yes,No,,,40.0,Male,
+1618,Yes,Yes,Yes,,,35.0,Female,
+1619,Yes,No,Yes,,,38.0,Male,
+1620,Yes,No,Don't know,,,29.0,Male,
+1621,Don't know,Don't know,No,,,43.0,Male,
+1622,Yes,Don't know,Yes,,,31.0,Female,
+1623,No,No,No,,,45.0,Male,
+1624,Don't know,Don't know,Don't know,,,26.0,Male,
+1625,Yes,Yes,No,,,42.0,Male,
+1626,Yes,Yes,No,,,28.0,Female,
+1627,Don't know,No,No,,,28.0,Male,
+1628,Yes,Yes,Yes,,,39.0,Female,
+1629,Yes,No,No,,,34.0,Male,
+1630,Don't know,Yes,Yes,,,28.0,Female,
+1631,Yes,Don't know,No,,,35.0,Female,
+1632,Don't know,No,No,,,42.0,Male,
+1634,Don't know,Don't know,Don't know,,,29.0,Male,
+1635,Don't know,Don't know,Yes,,,34.0,Male,
+1636,Yes,Don't know,No,,,28.0,Male,
+1637,Don't know,No,No,,,22.0,Female,
+1638,Yes,Yes,Yes,,,28.0,Female,
+1639,Don't know,Don't know,Yes,,,26.0,Female,
+1640,Yes,Yes,Don't know,,,21.0,Female,
+1641,No,No,Yes,,,38.0,Male,
+1642,Yes,Yes,Yes,,,33.0,Male,
+1643,Yes,Yes,Yes,,,28.0,Female,
+1644,Yes,Yes,Yes,,,32.0,Male,
+1645,Don't know,No,Yes,,,24.0,Female,
+1646,Don't know,Don't know,Don't know,,,35.0,Male,
+1647,Don't know,Don't know,No,,,41.0,Male,
+1648,Don't know,Don't know,No,,,38.0,Female,
+1649,Don't know,Don't know,Yes,,,24.0,Female,
+1650,Yes,Don't know,Yes,,,30.0,Male,
+1651,Yes,Yes,No,,,47.0,Female,
+1652,Yes,Yes,No,,,26.0,Female,
+1653,Yes,Don't know,Yes,,,32.0,Male,
+1654,Don't know,Yes,Don't know,,,32.0,Male,
+1655,Don't know,Yes,Yes,,,37.0,Male,
+1656,Don't know,Don't know,No,,,33.0,Male,
+1657,No,No,Don't know,,,28.0,Female,
+1658,Don't know,Don't know,No,,,22.0,Male,
+1659,Don't know,Yes,Yes,,,30.0,Male,
+1660,Don't know,Don't know,No,,,42.0,Female,
+1661,Yes,Don't know,No,,,34.0,Male,
+1662,Yes,No,Don't know,,,32.0,Male,
+1663,No,No,Yes,,,37.0,Male,
+1664,Don't know,Don't know,No,,,31.0,Female,
+1665,Don't know,No,Yes,,,31.0,Male,
+1666,No,No,No,,,26.0,Male,
+1667,Don't know,Don't know,Don't know,,,30.0,Male,
+1668,Yes,Don't know,Yes,,,36.0,Male,
+1669,Yes,No,No,,,38.0,Male,
+1670,Yes,No,Yes,,,24.0,Male,
+1671,Don't know,Don't know,Yes,,,26.0,Male,
+1672,Yes,Don't know,Don't know,,,37.0,Male,
+1673,Don't know,No,Yes,,,27.0,Female,
+1674,Don't know,Don't know,No,,,32.0,Male,
+1675,Yes,Don't know,No,,,32.0,Male,
+1676,Yes,Yes,Yes,,,30.0,Male,
+1677,No,No,Yes,,,26.0,Female,
+1678,Don't know,Don't know,Yes,,,27.0,Female,
+1679,Don't know,Don't know,Yes,,,27.0,Male,
+1680,Don't know,No,Don't know,,,29.0,Male,
+1681,Yes,Yes,Yes,,,26.0,Others,
+1682,Yes,No,No,,,23.0,Female,
+1683,Yes,Yes,No,,,30.0,Male,
+1684,Yes,Yes,Yes,,,40.0,Male,
+1685,Don't know,Don't know,Don't know,,,46.0,Male,
+1686,Don't know,Don't know,No,,,26.0,Male,
+1687,Yes,Yes,No,,,30.0,Male,
+1688,No,No,No,,,27.0,Female,
+1689,Don't know,Don't know,Yes,,,35.0,Male,
+1690,Yes,Yes,Yes,,,26.0,Female,
+1691,Don't know,Don't know,No,,,35.0,Male,
+1692,Don't know,No,Yes,,,29.0,Male,
+1693,Don't know,Yes,No,,,34.0,Male,
+1694,Don't know,Don't know,No,,,27.0,Male,
+1695,No,No,Don't know,,,39.0,Male,
+1696,Don't know,Don't know,No,,,27.0,Male,
+1697,No,No,No,,,31.0,Male,
+1698,No,No,No,,,26.0,Male,
+1699,Yes,Don't know,Don't know,,,44.0,Male,
+1700,Yes,No,No,,,27.0,Male,
+1701,Yes,No,Yes,,,57.0,Female,
+1702,Don't know,Don't know,No,,,34.0,Male,
+1703,Don't know,Don't know,Yes,,,38.0,Male,
+1704,Don't know,Don't know,Don't know,,,55.0,Male,
+1705,Don't know,Don't know,Don't know,,,28.0,Male,
+1706,Don't know,No,Don't know,,,35.0,Male,
+1707,Yes,Don't know,Yes,,,26.0,Male,
+1708,Don't know,Yes,Don't know,,,22.0,Female,
+1709,Don't know,Don't know,No,,,31.0,Male,
+1710,Don't know,No,No,,,31.0,Male,
+1711,Don't know,Don't know,No,,,40.0,Male,
+1712,Yes,Yes,Yes,,,26.0,Male,
+1713,No,No,Yes,,,36.0,Male,
+1714,Yes,No,Yes,,,33.0,Male,
+1715,Yes,No,Yes,,,24.0,Female,
+1716,No,No,Don't know,,,22.0,Male,
+1717,Yes,Yes,Don't know,,,33.0,Male,
+1718,Yes,Don't know,Yes,,,37.0,Female,
+1719,Yes,Don't know,Don't know,,,29.0,Male,
+1720,Don't know,No,No,,,38.0,Male,
+1721,No,No,Don't know,,,33.0,Male,
+1722,Don't know,No,Don't know,,,44.0,Female,
+1723,Yes,No,Yes,,,23.0,Male,
+1724,Don't know,Don't know,No,,,30.0,Male,
+1725,Don't know,No,Yes,,,30.0,Male,
+1726,Yes,No,No,,,28.0,Male,
+1727,Yes,No,Don't know,,,39.0,Male,
+1728,No,No,Yes,,,24.0,Female,
+1729,Don't know,Don't know,Yes,,,27.0,Male,
+1730,Yes,Yes,Yes,,,35.0,Male,
+1731,No,Don't know,Don't know,,,23.0,Male,
+1732,Yes,Yes,No,,,37.0,Male,
+1733,Yes,No,No,,,35.0,Male,
+1734,Yes,No,Don't know,,,27.0,Male,
+1735,Don't know,No,Don't know,,,27.0,Female,
+1736,Yes,Yes,No,,,27.0,Female,
+1737,Don't know,No,Yes,,,42.0,Male,
+1738,Yes,No,No,,,32.0,Male,
+1739,Don't know,No,Don't know,,,26.0,Male,
+1740,Don't know,Don't know,No,,,28.0,Male,
+1741,Don't know,No,No,,,28.0,Male,
+1742,Yes,Yes,No,,,32.0,Male,
+1743,Don't know,Don't know,Yes,,,43.0,Male,
+1744,Yes,Yes,Yes,,,34.0,Male,
+1745,Don't know,Don't know,Don't know,,,61.0,Female,
+1746,Don't know,Don't know,Yes,,,50.0,Male,
+1747,Don't know,Don't know,Yes,,,38.0,Male,
+1748,Don't know,Don't know,Yes,,,51.0,Male,
+1749,Don't know,Don't know,No,,,38.0,Male,
+1750,Don't know,Don't know,Yes,,,34.0,Male,
+1751,No,No,Don't know,,,43.0,Male,
+1752,Yes,Yes,Don't know,,,43.0,Female,
+1753,No,No,Yes,,,44.0,Male,
+1754,Don't know,Don't know,Don't know,,,35.0,Male,
+1755,Yes,Don't know,No,,,50.0,Male,
+1756,Yes,No,Don't know,,,29.0,Male,
+1757,Yes,No,Yes,,,29.0,Male,
+1758,Yes,Don't know,No,,,36.0,Male,
+1759,Don't know,Don't know,Don't know,,,33.0,Male,
+1760,Don't know,Don't know,Don't know,,,50.0,Male,
+1761,Don't know,Don't know,Don't know,,,46.0,Male,
+1762,Don't know,Don't know,Yes,,,44.0,Female,
+1763,Yes,Don't know,Don't know,,,23.0,Others,
+1764,Don't know,No,Don't know,,,41.0,Male,
+1765,Yes,Don't know,Don't know,,,31.0,Male,
+1766,No,No,Yes,,,55.0,Male,
+1767,No,No,No,,,34.0,Male,
+1768,Yes,No,Yes,,,28.0,Female,
+1769,Yes,No,Yes,,,33.0,Male,
+1770,Yes,Yes,No,,,29.0,Male,
+1771,Yes,Yes,Yes,,,33.0,Female,
+1772,Don't know,Don't know,No,,,28.0,Male,
+1773,Yes,Yes,Yes,,,28.0,Male,
+1774,Yes,Yes,No,,,32.0,Male,
+1775,Yes,No,Don't know,,,36.0,Female,
+1776,Don't know,Don't know,Don't know,,,45.0,Male,
+1777,Don't know,Don't know,No,,,29.0,Male,
+1778,No,Yes,No,,,23.0,Male,
+1779,Don't know,Don't know,Don't know,,,54.0,Female,
+1780,Don't know,Don't know,Yes,,,61.0,Female,
+1781,Don't know,No,Yes,,,29.0,Female,
+1782,Don't know,Don't know,No,,,31.0,Male,
+1783,Don't know,Don't know,No,,,37.0,Male,
+1784,No,No,Don't know,,,29.0,Male,
+1785,Don't know,Don't know,No,,,28.0,Male,
+1786,Don't know,No,Yes,,,30.0,Male,
+1787,Yes,Yes,No,,,55.0,Male,
+1788,Don't know,No,Yes,,,38.0,Female,
+1789,Don't know,Don't know,No,,,20.0,Male,
+1790,No,Don't know,No,,,25.0,Male,
+1791,Don't know,Don't know,Don't know,,,22.0,Male,
+1792,Don't know,Don't know,Yes,,,35.0,Male,
+1793,Don't know,No,Yes,,,27.0,Male,
+1794,No,No,Yes,,,24.0,Male,
+1795,Don't know,Don't know,Yes,,,39.0,Male,
+1796,Don't know,No,Don't know,,,29.0,Male,
+1797,No,No,Yes,,,40.0,Female,
+1798,No,No,Don't know,,,30.0,Male,
+1799,Yes,No,No,,,32.0,Male,
+1800,Don't know,Don't know,Don't know,,,34.0,Male,
+1801,Yes,Don't know,Yes,,,35.0,Female,
+1802,Don't know,Don't know,Don't know,,,30.0,Male,
+1803,No,No,No,,,36.0,Male,
+1804,Don't know,No,No,,,26.0,Male,
+1805,Don't know,Don't know,No,,,31.0,Female,
+1806,Don't know,Yes,No,,,33.0,Male,
+1807,Don't know,Don't know,Yes,,,30.0,Male,
+1808,Don't know,No,Yes,,,46.0,Male,
+1809,No,Yes,No,,,32.0,Male,
+1810,Yes,Yes,No,,,34.0,Male,
+1811,Don't know,Don't know,Yes,,,41.0,Male,
+1812,Don't know,Don't know,No,,,32.0,Male,
+1813,Yes,Yes,No,,,47.0,Male,
+1814,Don't know,Don't know,No,,,29.0,Male,
+1815,Yes,Don't know,No,,,36.0,Male,
+1816,No,No,Yes,,,32.0,Male,
+1817,Don't know,Don't know,Don't know,,,29.0,Male,
+1818,Don't know,No,No,,,22.0,Male,
+1819,Yes,No,Yes,,,32.0,Female,
+1820,Yes,No,No,,,19.0,Female,
+1821,No,No,No,,,30.0,Male,
+1822,Don't know,Don't know,Don't know,,,32.0,Others,
+1823,Don't know,Don't know,No,,,22.0,Male,
+1824,Don't know,Don't know,No,,,30.0,Male,
+1826,No,No,No,,,33.0,Male,
+1827,No,No,No,,,48.0,Female,
+1828,No,No,No,,,45.0,Male,
+1829,Don't know,Yes,No,,,28.0,Male,
+1830,Don't know,Don't know,No,,,44.0,Male,
+1831,No,No,No,,,31.0,Male,
+1832,Yes,No,Yes,,,31.0,Female,
+1833,Yes,Don't know,No,,,29.0,Male,
+1834,Yes,Don't know,No,,,26.0,Male,
+1835,Yes,Don't know,Yes,,,35.0,Female,
+1836,Don't know,Don't know,No,,,44.0,Male,
+1837,Yes,Don't know,Yes,,,45.0,Male,
+1838,Yes,Don't know,Yes,,,22.0,Female,
+1839,Yes,No,Don't know,,,34.0,Male,
+1840,Don't know,No,Don't know,,,35.0,Male,
+1841,Don't know,Don't know,Yes,,,39.0,Male,
+1842,Don't know,No,Don't know,,,26.0,Male,
+1843,Don't know,Don't know,No,,,41.0,Male,
+1844,Don't know,Don't know,Yes,,,24.0,Male,
+1845,Don't know,Don't know,Yes,,,24.0,Male,
+1846,Yes,No,Yes,,,34.0,Male,
+1847,No,No,No,,,36.0,Male,
+1848,Yes,Don't know,Don't know,,,41.0,Male,
+1849,Don't know,No,Yes,,,21.0,Male,
+1850,Don't know,Don't know,Yes,,,33.0,Male,
+1851,Don't know,No,No,,,32.0,Male,
+1852,Yes,Yes,Yes,,,62.0,Female,
+1853,Yes,No,Yes,,,37.0,Male,
+1854,Don't know,No,Don't know,,,32.0,Male,
+1855,Yes,Don't know,No,,,31.0,Male,
+1856,Don't know,Don't know,Don't know,,,28.0,Male,
+1857,Don't know,Don't know,Yes,,,48.0,Female,
+1858,Don't know,Don't know,Yes,,,40.0,Male,
+1859,Yes,Don't know,Yes,,,29.0,Male,
+1860,Yes,Yes,No,,,33.0,Male,
+1861,Don't know,No,No,,,27.0,Male,
+1862,Don't know,No,No,,,24.0,Male,
+1863,Don't know,Don't know,Yes,,,28.0,Male,
+1864,Yes,No,Don't know,,,42.0,Male,
+1865,No,No,No,,,28.0,Male,
+1866,Don't know,Don't know,Yes,,,40.0,Male,
+1867,Yes,Yes,Don't know,,,32.0,Female,
+1868,Don't know,Don't know,Don't know,,,33.0,Male,
+1869,Don't know,Don't know,Don't know,,,40.0,Male,
+1870,Yes,No,Yes,,,26.0,Male,
+1871,Don't know,Don't know,Yes,,,39.0,Female,
+1872,Don't know,Yes,Don't know,,,38.0,Male,
+1873,Yes,Don't know,Yes,,,34.0,Male,
+1874,Don't know,No,Yes,,,44.0,Male,
+1875,Don't know,Don't know,Don't know,,,54.0,Male,
+1876,Yes,No,No,,,24.0,Male,
+1877,Yes,Yes,Yes,,,31.0,Male,
+1878,Yes,Don't know,Yes,,,47.0,Male,
+1879,Don't know,Yes,Yes,,,30.0,Male,
+1880,Don't know,Don't know,No,,,34.0,Male,
+1881,Yes,Yes,Yes,,,29.0,Others,
+1882,Yes,Don't know,No,,,27.0,Male,
+1883,Yes,Yes,Yes,,,29.0,Male,
+1884,Don't know,Don't know,Don't know,,,43.0,Female,
+1885,Yes,No,Yes,,,31.0,Others,
+1886,Don't know,No,Don't know,,,27.0,Male,
+1887,No,No,Yes,,,29.0,Male,
+1888,Don't know,No,No,,,29.0,Male,
+1889,Yes,Yes,Yes,,,42.0,Male,
+1890,Yes,No,No,,,26.0,Female,
+1891,Don't know,Yes,No,,,26.0,Male,
+1892,Don't know,Don't know,Yes,,,34.0,Male,
+1893,Yes,No,No,,,24.0,Male,
+1894,Yes,Yes,No,,,25.0,Male,
+1895,Yes,No,No,,,22.0,Male,
+1896,Yes,Don't know,Yes,,,33.0,Male,
+1897,Yes,Yes,No,,,53.0,Male,
+1898,Yes,No,Yes,,,32.0,Male,
+1899,No,No,No,,,32.0,Male,
+1900,Don't know,Don't know,Don't know,,,55.0,Male,
+1901,Don't know,No,No,,,27.0,Male,
+1902,Don't know,No,No,,,34.0,Male,
+1903,No,No,Yes,,,26.0,Male,
+1904,Don't know,No,Yes,,,25.0,Others,
+1905,Yes,Yes,Don't know,,,39.0,Male,
+1906,Don't know,Don't know,Don't know,,,32.0,Male,
+1907,Don't know,Don't know,Don't know,,,46.0,Male,
+1908,Don't know,Don't know,No,,,52.0,Female,
+1909,Don't know,Yes,Don't know,,,33.0,Others,
+1910,Yes,Don't know,No,,,58.0,Male,
+1911,No,No,Yes,,,30.0,Male,
+1912,Don't know,Don't know,No,,,46.0,Male,
+1913,Don't know,Don't know,Yes,,,45.0,Male,
+1914,No,No,No,,,26.0,Female,
+1915,Yes,Yes,Yes,,,22.0,Male,
+1916,Don't know,Don't know,No,,,21.0,Male,
+1918,Don't know,Yes,No,,,34.0,Male,
+1919,Don't know,Don't know,No,,,25.0,Female,
+1920,Yes,No,Yes,,,27.0,Male,
+1921,Yes,No,Yes,,,25.0,Female,
+1922,Yes,Yes,Don't know,,,33.0,Male,
+1923,Don't know,Don't know,Yes,,,26.0,Female,
+1924,No,No,No,,,36.0,Female,
+1925,No,Don't know,Don't know,,,26.0,Male,
+1926,Don't know,No,Don't know,,,34.0,Male,
+1927,Yes,No,Yes,,,34.0,Male,
+1928,Yes,Yes,Yes,,,25.0,Male,
+1929,Don't know,Don't know,Don't know,,,33.0,Female,
+1930,No,No,No,,,27.0,Female,
+1931,Don't know,No,No,,,24.0,Female,
+1932,Yes,Don't know,No,,,47.0,Female,
+1933,Yes,Yes,No,,,37.0,Male,
+1934,Don't know,Don't know,Yes,,,35.0,Others,
+1935,Yes,No,Yes,,,30.0,Male,
+1936,Yes,Yes,No,,,42.0,Male,
+1937,Don't know,Don't know,Yes,,,36.0,Female,
+1938,Yes,Yes,Don't know,,,31.0,Male,
+1939,Yes,No,Don't know,,,28.0,Female,
+1940,Yes,Yes,Yes,,,36.0,Female,
+1941,Yes,No,Yes,,,36.0,Female,
+1942,Don't know,No,Don't know,,,32.0,Male,
+1943,Don't know,Don't know,No,,,42.0,Male,
+1944,Yes,No,Don't know,,,41.0,Female,
+1945,Yes,Yes,No,,,36.0,Male,
+1946,Yes,Yes,Yes,,,23.0,Male,
+1947,Yes,Yes,Yes,,,54.0,Female,
+1948,Don't know,Yes,No,,,34.0,Female,
+1949,Don't know,No,No,,,36.0,Male,
+1950,Yes,No,No,,,27.0,Male,
+1951,Yes,Don't know,Yes,,,32.0,Male,
+1952,Yes,No,Don't know,,,21.0,Male,
+1953,Don't know,Yes,No,,,44.0,Male,
+1954,Don't know,Don't know,Yes,,,33.0,Male,
+1955,Yes,Don't know,Yes,,,38.0,Male,
+1956,Yes,Yes,No,,,38.0,Male,
+1957,Don't know,Don't know,No,,,38.0,Female,
+1958,Don't know,Don't know,No,,,22.0,Female,
+1959,Don't know,Don't know,Yes,,,33.0,Others,
+1960,Don't know,No,No,,,27.0,Female,
+1961,Don't know,Don't know,Yes,,,55.0,Female,
+1962,No,No,Yes,,,66.0,Male,
+1963,Don't know,No,Don't know,,,25.0,Male,
+1964,Don't know,No,No,,,22.0,Male,
+1965,No,No,No,,,29.0,Male,
+1966,No,Yes,No,,,33.0,Male,
+1967,No,No,No,,,27.0,Male,
+1968,Don't know,Don't know,Don't know,,,44.0,Male,
+1969,Don't know,Don't know,Yes,,,38.0,Male,
+1970,Don't know,Don't know,No,,,32.0,Male,
+1971,Yes,Yes,No,,,59.0,Female,
+1972,Don't know,Don't know,No,,,43.0,Male,
+1973,Don't know,Don't know,Yes,,,55.0,Female,
+1974,Yes,Don't know,No,,,32.0,Male,
+1975,Don't know,Yes,Don't know,,,41.0,Male,
+1976,No,Yes,Yes,,,38.0,Female,
+1977,Don't know,Don't know,Yes,,,46.0,Male,
+1978,No,Yes,No,,,43.0,Male,
+1979,Yes,Yes,Yes,,,29.0,Female,
+1980,Don't know,Don't know,No,,,42.0,Male,
+1981,Don't know,Don't know,No,,,25.0,Female,
+1982,Yes,No,Yes,,,49.0,Male,
+1983,No,No,Yes,,,36.0,Male,
+1984,Don't know,Don't know,No,,,30.0,Male,
+1985,Don't know,Don't know,No,,,28.0,Male,
+1986,Don't know,No,Yes,,,37.0,Male,
+1987,Don't know,No,Yes,,,23.0,Female,
+1988,Don't know,Don't know,No,,,37.0,Male,
+1989,Don't know,Don't know,Yes,,,42.0,Male,
+1990,Yes,Yes,Yes,,,32.0,Male,
+1991,No,Don't know,Don't know,,,28.0,Male,
+1992,Don't know,Don't know,Yes,,,28.0,Male,
+1993,Yes,Don't know,Yes,,,29.0,Male,
+1994,Don't know,Don't know,Don't know,,,35.0,Male,
+1995,Don't know,Don't know,Yes,,,31.0,Female,
+1996,Don't know,Don't know,Yes,,,46.0,Female,
+1997,Don't know,Don't know,Don't know,,,19.0,Male,
+1998,Don't know,Yes,Don't know,,,35.0,Male,
+1999,Yes,Yes,No,,,31.0,Male,
+2000,Don't know,Don't know,No,,,31.0,Male,
+2001,Yes,Yes,No,,,37.0,Male,
+2002,Don't know,Yes,Yes,,,34.0,Female,
+2003,Yes,No,No,,,39.0,Female,
+2004,Don't know,Don't know,No,,,29.0,Female,
+2005,Yes,No,Yes,,,29.0,Female,
+2006,Yes,Yes,No,,,63.0,Male,
+2007,Don't know,Don't know,Yes,,,45.0,Male,
+2008,Don't know,Don't know,Don't know,,,35.0,Male,
+2009,Don't know,Don't know,Don't know,,,32.0,Male,
+2010,Don't know,Don't know,No,,,44.0,Male,
+2011,No,No,Yes,,,28.0,Others,
+2012,Don't know,Don't know,Don't know,,,39.0,Male,
+2013,Don't know,Don't know,Don't know,,,55.0,Female,
+2014,Don't know,Don't know,Yes,,,33.0,Female,
+2015,No,No,No,,,19.0,Male,
+2016,Yes,No,Don't know,,,40.0,Male,
+2017,Yes,Yes,No,,,49.0,Female,
+2018,Don't know,Yes,No,,,27.0,Female,
+2019,Yes,Yes,Yes,,,39.0,Male,
+2020,Don't know,Yes,Yes,,,35.0,Male,
+2021,Don't know,Don't know,Don't know,,,35.0,Male,
+2022,Yes,No,Yes,,,42.0,Female,
+2023,Yes,No,No,,,35.0,Male,
+2024,Don't know,Don't know,No,,,31.0,Female,
+2025,Don't know,Don't know,Yes,,,44.0,Male,
+2026,Yes,No,Don't know,,,39.0,Male,
+2027,Don't know,Don't know,No,,,32.0,Male,
+2028,Don't know,Don't know,No,,,45.0,Male,
+2029,Don't know,Don't know,No,,,31.0,Male,
+2030,Don't know,Don't know,Yes,,,47.0,Female,
+2031,No,No,No,,,29.0,Male,
+2032,Yes,No,No,,,20.0,Male,
+2033,Don't know,Don't know,No,,,34.0,Male,
+2034,Don't know,Yes,Yes,,,33.0,Others,
+2035,Don't know,Don't know,Don't know,,,56.0,Female,
+2036,Don't know,Don't know,Yes,,,35.0,Male,
+2037,Yes,Don't know,Yes,,,31.0,Male,
+2038,Yes,Yes,Yes,,,36.0,Male,
+2039,Yes,Yes,Yes,,,30.0,Male,
+2040,Yes,Don't know,Don't know,,,44.0,Female,
+2041,Don't know,No,Yes,,,23.0,Female,
+2042,Yes,Yes,No,,,46.0,Male,
+2043,Yes,No,Yes,,,33.0,Female,
+2044,Yes,No,Don't know,,,32.0,Female,
+2045,Don't know,Don't know,Don't know,,,45.0,Male,
+2046,No,No,Yes,,,26.0,Male,
+2047,Don't know,Don't know,No,,,32.0,Female,
+2048,Don't know,Don't know,No,,,28.0,Male,
+2049,Don't know,Don't know,No,,,44.0,Male,
+2050,Don't know,Don't know,Don't know,,,42.0,Male,
+2051,Yes,Yes,No,,,30.0,Male,
+2052,Don't know,Don't know,Don't know,,,28.0,Female,
+2053,Yes,Don't know,Yes,,,31.0,Male,
+2054,Yes,No,Don't know,,,29.0,Male,
+2055,Don't know,No,Don't know,,,33.0,Male,
+2056,Yes,Yes,Yes,,,43.0,Female,
+2057,Don't know,Yes,Don't know,,,28.0,Male,
+2058,Don't know,Don't know,Don't know,,,42.0,Others,
+2059,Yes,No,Yes,,,38.0,Male,
+2060,Yes,No,Don't know,,,30.0,Male,
+2061,Don't know,Don't know,Yes,,,51.0,Female,
+2062,Don't know,Don't know,No,,,48.0,Female,
+2063,Don't know,Don't know,Don't know,,,39.0,Male,
+2064,No,No,No,,,28.0,Male,
+2065,Yes,Yes,Don't know,,,37.0,Male,
+2066,Yes,Don't know,No,,,33.0,Male,
+2067,Don't know,No,Yes,,,21.0,Male,
+2068,Yes,No,No,,,25.0,Male,
+2070,Yes,No,Yes,,,40.0,Male,
+2071,No,No,Don't know,,,30.0,Female,
+2072,Don't know,Don't know,Don't know,,,27.0,Male,
+2073,No,No,No,,,25.0,Male,
+2074,Yes,No,No,,,38.0,Male,
+2075,Don't know,Don't know,Don't know,,,24.0,Male,
+2076,Don't know,No,No,,,23.0,Male,
+2077,Don't know,Don't know,Yes,,,39.0,Female,
+2078,Don't know,No,No,,,26.0,Male,
+2079,Don't know,Don't know,No,,,43.0,Male,
+2080,Don't know,No,Don't know,,,30.0,Male,
+2081,Don't know,Don't know,Yes,,,35.0,Male,
+2082,Don't know,No,Don't know,,,40.0,Male,
+2083,Yes,No,Yes,,,33.0,Female,
+2084,Don't know,Don't know,Don't know,,,35.0,Male,
+2085,No,No,No,,,22.0,Male,
+2086,Yes,Yes,Yes,,,28.0,Male,
+2087,Yes,No,Yes,,,39.0,Male,
+2088,Don't know,Don't know,No,,,33.0,Male,
+2089,Don't know,Don't know,No,,,25.0,Female,
+2090,Don't know,No,No,,,37.0,Male,
+2091,Don't know,Yes,Yes,,,41.0,Female,
+2092,Yes,Don't know,Yes,,,30.0,Female,
+2093,Yes,Yes,No,,,42.0,Male,
+2094,Yes,No,No,,,52.0,Male,
+2095,No,No,No,,,30.0,Male,
+2096,Yes,Don't know,Yes,,,35.0,Male,
+2097,Don't know,No,No,,,24.0,Male,
+2098,Don't know,Don't know,No,,,39.0,Male,
+2099,Yes,No,No,,,34.0,Male,
+2100,Don't know,Don't know,No,,,32.0,Male,
+2101,Don't know,Don't know,Don't know,,,25.0,Male,
+2102,No,No,Don't know,,,43.0,Male,
+2103,Yes,Don't know,No,,,39.0,Male,
+2104,Don't know,Don't know,Yes,,,35.0,Male,
+2105,Yes,No,Yes,,,34.0,Male,
+2106,Yes,Don't know,No,,,38.0,Male,
+2107,Yes,Don't know,Yes,,,26.0,Female,
+2108,No,No,No,,,24.0,Male,
+2109,Don't know,Yes,Yes,,,27.0,Female,
+2110,Yes,Yes,Yes,,,25.0,Male,
+2111,Don't know,Don't know,No,,,37.0,Male,
+2112,Yes,Yes,No,,,33.0,Male,
+2113,No,Don't know,Yes,,,34.0,Male,
+2114,Don't know,No,Yes,,,27.0,Male,
+2115,Yes,Don't know,Don't know,,,33.0,Male,
+2116,Yes,Don't know,Yes,,,50.0,Male,
+2117,Don't know,Don't know,Yes,,,54.0,Female,
+2118,Yes,No,No,,,32.0,Female,
+2119,Don't know,Yes,No,,,39.0,Male,
+2120,Don't know,Don't know,No,,,36.0,Male,
+2121,Don't know,No,No,,,34.0,Male,
+2122,Don't know,No,Don't know,,,31.0,Female,
+2123,No,Yes,Don't know,,,36.0,Male,
+2124,Don't know,Yes,No,,,48.0,Male,
+2125,Don't know,Don't know,Don't know,,,31.0,Male,
+2126,No,No,No,,,32.0,Male,
+2127,Don't know,No,No,,,32.0,Male,
+2128,Don't know,Don't know,Yes,,,31.0,Male,
+2129,Don't know,Yes,Yes,,,28.0,Female,
+2130,Don't know,No,Yes,,,28.0,Male,
+2131,Yes,Don't know,Yes,,,33.0,Female,
+2132,Don't know,Don't know,No,,,33.0,Male,
+2133,Don't know,Don't know,Yes,,,59.0,Male,
+2134,Don't know,Don't know,Yes,,,33.0,Male,
+2135,Don't know,Don't know,Don't know,,,37.0,Male,
+2136,Don't know,No,No,,,27.0,Female,
+2137,No,No,Don't know,,,39.0,Male,
+2138,Don't know,Don't know,No,,,50.0,Male,
+2139,Yes,Yes,No,,,34.0,Female,
+2140,Don't know,Don't know,Don't know,,,50.0,Male,
+2141,Don't know,Don't know,Don't know,,,31.0,Female,
+2142,Yes,Yes,Don't know,,,39.0,Male,
+2143,Don't know,Don't know,No,,,46.0,Male,
+2144,Don't know,Don't know,Don't know,,,28.0,Male,
+2145,Don't know,Don't know,No,,,32.0,Male,
+2146,Don't know,Don't know,Yes,,,65.0,Female,
+2147,Don't know,Don't know,Don't know,,,37.0,Male,
+2148,Don't know,Don't know,No,,,41.0,Female,
+2149,Don't know,Don't know,Yes,,,38.0,Male,
+2150,Don't know,No,Yes,,,51.0,Male,
+2151,Don't know,Yes,Don't know,,,29.0,Male,
+2152,Don't know,Don't know,No,,,37.0,Male,
+2153,Don't know,Don't know,No,,,31.0,Male,
+2154,No,No,Don't know,,,32.0,Male,
+2155,Don't know,Don't know,Yes,,,31.0,Male,
+2156,Don't know,Yes,No,,,52.0,Male,
+2157,Don't know,Don't know,Yes,,,31.0,Male,
+2158,Don't know,Don't know,No,,,38.0,Female,
+2159,Yes,Don't know,Don't know,,,35.0,Male,
+2160,Don't know,Don't know,No,,,29.0,Male,
+2161,Don't know,Don't know,No,,,63.0,Male,
+2162,Don't know,Don't know,Yes,,,47.0,Female,
+2163,Don't know,Don't know,Yes,,,43.0,Male,
+2164,No,No,No,,,38.0,Male,
+2165,Don't know,Don't know,Don't know,,,27.0,Male,
+2166,Don't know,Yes,Yes,,,40.0,Female,
+2167,Don't know,Don't know,No,,,32.0,Male,
+2168,Don't know,Don't know,Don't know,,,43.0,Female,
+2169,Yes,No,Yes,,,28.0,Female,
+2170,Don't know,Don't know,No,,,46.0,Male,
+2171,No,No,No,,,42.0,Male,
+2172,No,No,Don't know,,,31.0,Male,
+2173,Don't know,Don't know,Yes,,,37.0,Female,
+2174,No,No,Yes,,,35.0,Male,
+2175,Don't know,Don't know,Don't know,,,30.0,Female,
+2176,Don't know,No,Yes,,,35.0,Male,
+2177,Yes,Don't know,Yes,,,24.0,Male,
+2178,No,No,No,,,23.0,Male,
+2179,Don't know,Don't know,Don't know,,,39.0,Female,
+2180,No,No,No,,,38.0,Male,
+2181,Don't know,Don't know,Yes,,,28.0,Male,
+2182,Don't know,Don't know,No,,,30.0,Male,
+2183,Don't know,Don't know,Don't know,,,38.0,Male,
+2184,Don't know,Don't know,No,,,33.0,Male,
+2185,Don't know,Don't know,No,,,35.0,Male,
+2186,Don't know,Don't know,No,,,54.0,Male,
+2187,Don't know,Don't know,No,,,30.0,Female,
+2188,Don't know,Don't know,No,,,32.0,Female,
+2189,Don't know,Don't know,Don't know,,,28.0,Male,
+2190,No,No,No,,,39.0,Male,
+2191,No,No,Yes,,,21.0,Others,
+2192,Yes,Yes,No,,,31.0,Male,
+2193,Don't know,Don't know,Don't know,,,30.0,Male,
+2194,Yes,No,No,,,25.0,Female,
+2195,Don't know,Don't know,No,,,26.0,Male,
+2196,Yes,No,No,,,30.0,Male,
+2197,No,No,No,,,30.0,Male,
+2198,Don't know,Don't know,No,,,31.0,Male,
+2199,Don't know,Don't know,Yes,,,32.0,Male,
+2200,No,No,Yes,,,45.0,Female,
+2201,Don't know,Don't know,Don't know,,,29.0,Male,
+2202,Yes,No,Don't know,,,27.0,Male,
+2203,Don't know,Don't know,Yes,,,28.0,Female,
+2204,Yes,Yes,No,,,38.0,Male,
+2205,Yes,Yes,Yes,,,38.0,Male,
+2206,Don't know,Don't know,No,,,34.0,Male,
+2207,Don't know,Don't know,No,,,36.0,Male,
+2208,Don't know,No,No,,,23.0,Male,
+2209,Yes,No,Don't know,,,40.0,Female,
+2210,Don't know,Don't know,Yes,,,39.0,Male,
+2211,Don't know,No,Don't know,,,28.0,Male,
+2212,Don't know,Don't know,No,,,33.0,Male,
+2213,Don't know,Don't know,Don't know,,,32.0,Male,
+2214,Yes,Yes,Yes,,,32.0,Male,
+2215,Yes,Yes,Don't know,,,27.0,Male,
+2216,No,No,No,,,33.0,Male,
+2217,Don't know,No,No,,,34.0,Male,
+2218,Don't know,Don't know,Don't know,,,38.0,Female,
+2219,Yes,Don't know,No,,,35.0,Male,
+2220,Yes,Yes,No,,,39.0,Male,
+2221,Yes,Yes,No,,,35.0,Male,
+2222,Don't know,Don't know,Yes,,,34.0,Male,
+2223,Don't know,Don't know,Yes,,,44.0,Female,
+2224,Yes,No,No,,,42.0,Male,
+2225,Yes,Don't know,No,,,30.0,Male,
+2226,Yes,No,Don't know,,,55.0,Male,
+2227,No,No,Don't know,,,46.0,Male,
+2228,Yes,No,Yes,,,33.0,Male,
+2229,Yes,Yes,Yes,,,30.0,Male,
+2230,No,No,Yes,,,30.0,Male,
+2231,Yes,Yes,Don't know,,,31.0,Female,
+2232,Yes,Don't know,Yes,,,38.0,Male,
+2233,Yes,Yes,No,,,30.0,Female,
+2234,Yes,Yes,Yes,,,32.0,Male,
+2235,No,No,Yes,,,32.0,Male,
+2236,Yes,No,Yes,,,47.0,Male,
+2237,No,No,Don't know,,,39.0,Male,
+2238,Don't know,No,Yes,,,35.0,Male,
+2239,Yes,No,Yes,,,36.0,Male,
+2240,Yes,Yes,No,,,38.0,Female,
+2241,Don't know,No,Don't know,,,30.0,Male,
+2242,Don't know,No,No,,,33.0,Male,
+2243,Don't know,Don't know,Yes,,,22.0,Male,
+2244,Don't know,Don't know,Don't know,,,35.0,Male,
+2245,Don't know,Don't know,No,,,26.0,Male,
+2246,Yes,Yes,Don't know,,,34.0,Male,
+2247,Don't know,Don't know,Don't know,,,40.0,Male,
+2248,No,Yes,Yes,,,37.0,Male,
+2249,No,No,No,,,43.0,Male,
+2250,Don't know,Don't know,Yes,,,20.0,Male,
+2251,Don't know,Don't know,Yes,,,30.0,Female,
+2252,Yes,Yes,Don't know,,,32.0,Male,
+2253,Yes,Don't know,No,,,35.0,Male,
+2254,Yes,No,No,,,29.0,Male,
+2255,No,Don't know,Don't know,,,29.0,Male,
+2256,Yes,Don't know,No,,,30.0,Male,
+2257,Don't know,Don't know,Yes,,,30.0,Male,
+2258,Yes,Don't know,Yes,,,38.0,Male,
+2259,Yes,No,Don't know,,,30.0,Male,
+2260,No,No,Yes,,,26.0,Male,
+2261,Don't know,Don't know,Yes,,,27.0,Male,
+2262,No,No,No,,,24.0,Male,
+2263,Yes,Don't know,No,,,35.0,Male,
+2264,Yes,Yes,Don't know,,,38.0,Male,
+2265,Yes,Don't know,Yes,,,36.0,Others,
+2266,Don't know,Don't know,Yes,,,34.0,Male,
+2267,Yes,Don't know,Don't know,,,35.0,Male,
+2268,Don't know,Don't know,No,,,25.0,Male,
+2269,Don't know,Don't know,Don't know,,,32.0,Female,
+2270,No,No,No,,,32.0,Female,
+2271,Don't know,Don't know,Don't know,,,37.0,Male,
+2272,Don't know,Yes,Don't know,,,28.0,Male,
+2273,Yes,Yes,No,,,34.0,Female,
+2274,Yes,Yes,Yes,,,40.0,Female,
+2275,Yes,Yes,No,,,45.0,Male,
+2276,Don't know,Don't know,No,,,31.0,Male,
+2277,Yes,Yes,Yes,,,30.0,Male,
+2278,Yes,Yes,No,,,47.0,Female,
+2279,Don't know,Don't know,No,,,48.0,Male,
+2280,Don't know,Don't know,Yes,,,44.0,Male,
+2281,Don't know,Don't know,Don't know,,,29.0,Male,
+2282,Yes,Yes,No,,,52.0,Male,
+2283,Yes,Yes,No,,,34.0,Female,
+2284,Yes,Don't know,No,,,34.0,Male,
+2285,Don't know,Yes,No,,,27.0,Male,
+2286,No,No,Don't know,,,30.0,Male,
+2287,Yes,Yes,Don't know,,,40.0,Male,
+2288,Don't know,Don't know,Yes,,,26.0,Male,
+2289,Don't know,Don't know,No,,,36.0,Male,
+2290,Don't know,No,Yes,,,35.0,Male,
+2291,Yes,Yes,No,,,43.0,Female,
+2292,No,No,Yes,,,36.0,Female,
+2293,Yes,Yes,No,,,32.0,Female,
+2294,Don't know,Don't know,No,,,36.0,Female,
+2295,No,Don't know,Yes,,,38.0,Male,
+2296,Yes,Yes,Don't know,,,35.0,Male,
+2297,Don't know,No,Yes,,,35.0,Female,
+2298,Yes,Don't know,Yes,,,45.0,Male,
+2299,Don't know,Don't know,No,,,47.0,Male,
+2300,Don't know,Don't know,No,,,27.0,Male,
+2301,Don't know,Don't know,No,,,26.0,Male,
+2302,Don't know,Don't know,No,,,51.0,Male,
+2303,No,No,Yes,,,25.0,Male,
+2304,No,No,Don't know,,,41.0,Male,
+2305,Yes,Yes,No,,,34.0,Male,
+2306,No,No,No,,,43.0,Male,
+2307,Don't know,Don't know,Yes,,,33.0,Male,
+2308,Don't know,Don't know,No,,,37.0,Male,
+2309,No,No,Yes,,,27.0,Female,
+2310,Don't know,Don't know,Yes,,,54.0,Female,
+2311,Don't know,No,No,,,38.0,Male,
+2312,No,No,No,,,42.0,Male,
+2313,Yes,No,No,,,30.0,Male,
+2314,Yes,Yes,No,,,43.0,Male,
+2315,Don't know,Don't know,Yes,,,33.0,Male,
+2316,Don't know,Don't know,No,,,37.0,Female,
+2317,Yes,Yes,Yes,,,25.0,Male,
+2318,Don't know,Yes,Yes,,,27.0,Male,
+2319,Don't know,Don't know,Yes,,,27.0,Male,
+2320,Yes,Yes,Yes,,,27.0,Male,
+2321,Don't know,Don't know,Don't know,,,35.0,Male,
+2322,No,No,Don't know,,,24.0,Male,
+2323,Don't know,No,Yes,,,31.0,Others,
+2324,Don't know,No,Don't know,,,31.0,Male,
+2325,Yes,No,No,,,32.0,Male,
+2326,No,No,Yes,,,33.0,Male,
+2327,Don't know,Don't know,Yes,,,56.0,Male,
+2328,Yes,Don't know,Don't know,,,43.0,Male,
+2329,Yes,Yes,Yes,,,49.0,Male,
+2330,No,No,No,,,35.0,Male,
+2331,Yes,Yes,No,,,53.0,Male,
+2332,Don't know,Don't know,Yes,,,45.0,Male,
+2333,Yes,Yes,Don't know,,,40.0,Male,
+2334,Don't know,Yes,No,,,52.0,Male,
+2335,Don't know,Don't know,Don't know,,,30.0,Male,
+2336,Yes,No,No,,,41.0,Male,
+2337,Don't know,Don't know,Don't know,,,31.0,Male,
+2338,Don't know,Don't know,Don't know,,,31.0,Male,
+2339,Don't know,Don't know,Don't know,,,24.0,Others,
+2340,No,No,Don't know,,,44.0,Male,
+2341,Yes,Don't know,Yes,,,37.0,Male,
+2342,No,No,Yes,,,22.0,Male,
+2343,Yes,Don't know,Yes,,,31.0,Female,
+2344,No,No,Don't know,,,36.0,Female,
+2345,Don't know,Don't know,Yes,,,28.0,Male,
+2346,Don't know,Don't know,No,,,25.0,Female,
+2347,Don't know,Don't know,Don't know,,,49.0,Male,
+2348,Don't know,Don't know,Yes,,,22.0,Female,
+2349,Don't know,Don't know,Yes,,,43.0,Male,
+2350,Don't know,Don't know,Don't know,,,33.0,Male,
+2351,Yes,Yes,Don't know,,,36.0,Female,
+2352,Yes,No,Yes,,,26.0,Female,
+2353,Yes,Yes,Yes,,,43.0,Male,
+2354,Don't know,Don't know,Don't know,,,21.0,Male,
+2355,Don't know,No,No,,,39.0,Male,
+2356,Yes,Don't know,Yes,,,46.0,Male,
+2357,Don't know,No,No,,,32.0,Male,
+2358,Don't know,Don't know,No,,,31.0,Male,
+2359,Don't know,Don't know,No,,,39.0,Female,
+2360,Don't know,No,Don't know,,,44.0,Male,
+2361,Yes,Yes,Yes,,,36.0,Male,
+2362,Don't know,Yes,No,,,31.0,Female,
+2363,Don't know,Don't know,Yes,,,30.0,Others,
+2364,Yes,Yes,Yes,,,36.0,Male,
+2365,Don't know,Don't know,No,,,31.0,Male,
+2366,No,No,No,,,23.0,Male,
+2367,Yes,No,Yes,,,23.0,Male,
+2368,Don't know,Don't know,Yes,,,30.0,Female,
+2369,Don't know,Don't know,No,,,34.0,Male,
+2370,No,No,No,,,49.0,Female,
+2371,No,No,Don't know,,,25.0,Male,
+2372,No,No,Don't know,,,39.0,Male,
+2373,No,Yes,No,,,37.0,Male,
+2374,Don't know,Don't know,No,,,26.0,Male,
+2375,Don't know,No,Yes,,,41.0,Male,
+2376,No,No,No,,,28.0,Male,
+2377,Don't know,No,Don't know,,,33.0,Male,
+2378,No,No,No,,,74.0,Female,
+2379,Don't know,Yes,Yes,,,28.0,Male,
+2380,No,No,Yes,,,47.0,Male,
+2381,Don't know,No,Don't know,,,25.0,Male,
+2382,Yes,Yes,No,,,51.0,Male,
+2383,Yes,Don't know,Yes,,,26.0,Male,
+2384,Yes,No,Don't know,,,24.0,Male,
+2385,Don't know,Don't know,Don't know,,,33.0,Female,
+2386,Yes,No,Yes,,,32.0,Female,
+2387,Yes,No,No,,,57.0,Male,
+2388,Yes,Don't know,Yes,,,39.0,Male,
+2389,No,No,Yes,,,26.0,Female,
+2390,Don't know,Yes,Don't know,,,38.0,Male,
+2391,Yes,No,No,,,33.0,Male,
+2392,Yes,No,Don't know,,,30.0,Male,
+2393,Don't know,Don't know,Yes,,,25.0,Female,
+2394,Yes,No,Yes,,,40.0,Male,
+2395,Yes,Yes,Yes,,,26.0,Female,
+2396,Yes,Yes,Yes,,,34.0,Male,
+2397,Yes,Yes,Don't know,,,46.0,Female,
+2398,Don't know,Don't know,Yes,,,31.0,Female,
+2399,Don't know,Don't know,Yes,,,42.0,Male,
+2400,Don't know,No,No,,,30.0,Male,
+2401,Don't know,Don't know,Yes,,,26.0,Others,
+2402,Don't know,No,Don't know,,,29.0,Male,
+2403,Yes,No,Yes,,,31.0,Male,
+2404,Don't know,Don't know,No,,,40.0,Male,
+2405,Yes,Don't know,Yes,,,39.0,Male,
+2406,Yes,No,Don't know,,,37.0,Male,
+2407,Don't know,Yes,No,,,27.0,Male,
+2408,Don't know,Don't know,No,,,45.0,Male,
+2409,Don't know,No,No,,,29.0,Male,
+2410,Yes,Yes,No,,,47.0,Female,
+2411,Don't know,No,No,,,33.0,Male,
+2412,Don't know,Don't know,No,,,32.0,Male,
+2413,Don't know,No,No,,,29.0,Male,
+2414,Yes,No,Yes,,,36.0,Male,
+2415,Don't know,No,No,,,35.0,Female,
+2416,Yes,Don't know,No,,,40.0,Male,
+2417,Yes,No,Yes,,,36.0,Male,
+2418,Don't know,Yes,No,,,39.0,Female,
+2419,Yes,Yes,Don't know,,,38.0,Male,
+2420,Don't know,Don't know,Don't know,,,23.0,Male,
+2421,No,No,No,,,29.0,Male,
+2422,Don't know,Don't know,No,,,38.0,Male,
+2423,Yes,Don't know,Yes,,,34.0,Female,
+2424,No,No,Yes,,,28.0,Male,
+2425,No,No,Yes,,,38.0,Male,
+2426,Yes,Yes,Don't know,,,25.0,Female,
+2427,Yes,Yes,Yes,,,36.0,Female,
+2428,Don't know,Don't know,Yes,,,57.0,Female,
+2429,Don't know,No,No,,,46.0,Male,
+2430,Yes,Yes,Yes,,,49.0,Male,
+2431,Don't know,Don't know,No,,,34.0,Male,
+2432,Don't know,No,No,,,43.0,Male,
+2433,Don't know,Don't know,Yes,,,35.0,Male,
+2434,Don't know,Don't know,No,,,32.0,Male,
+2435,Don't know,No,Yes,,,24.0,Others,
+2436,Yes,No,Yes,,,33.0,Male,
+2437,Don't know,No,Don't know,,,28.0,Male,
+2438,Yes,Yes,Don't know,,,48.0,Male,
+2439,Yes,No,Yes,,,33.0,Female,
+2440,Don't know,Don't know,No,,,40.0,Male,
+2441,Don't know,Don't know,Yes,,,22.0,Male,
+2442,No,No,Yes,,,22.0,Female,
+2443,Yes,Yes,Yes,,,23.0,Female,
+2444,No,No,No,,,33.0,Male,
+2445,Don't know,No,Don't know,,,29.0,Male,
+2446,Yes,Don't know,Yes,,,32.0,Male,
+2447,Yes,No,Yes,,,43.0,Male,
+2448,Yes,Yes,Yes,,,49.0,Male,
+2449,No,No,No,,,44.0,Male,
+2450,Don't know,Don't know,Yes,,,29.0,Male,
+2451,No,No,No,,,27.0,Male,
+2452,Don't know,No,Don't know,,,30.0,Male,
+2453,No,No,No,,,43.0,Female,
+2454,Yes,No,Yes,,,30.0,Female,
+2455,Yes,Yes,Yes,,,33.0,Female,
+2456,Don't know,Don't know,Yes,,,27.0,Female,
+2457,Don't know,No,Yes,,,26.0,Female,
+2458,Don't know,Yes,No,,,47.0,Male,
+2459,Don't know,Don't know,Yes,,,30.0,Male,
+2460,Don't know,Don't know,No,,,39.0,Male,
+2461,Don't know,No,Don't know,,,36.0,Male,
+2462,No,No,No,,,34.0,Male,
+2463,Yes,Don't know,Yes,,,25.0,Female,
+2464,Don't know,Yes,No,,,28.0,Male,
+2465,Yes,Don't know,Yes,,,38.0,Male,
+2466,Yes,Don't know,No,,,39.0,Male,
+2467,Don't know,No,Don't know,,,32.0,Male,
+2468,Don't know,Don't know,Yes,,,27.0,Female,
+2469,Yes,Don't know,Yes,,,31.0,Female,
+2470,Don't know,No,Don't know,,,30.0,Female,
+2471,Don't know,Don't know,No,,,34.0,Male,
+2472,Don't know,Don't know,Don't know,,,26.0,Male,
+2473,Yes,Yes,No,,,27.0,Female,
+2474,Don't know,Don't know,Yes,,,29.0,Male,
+2475,Don't know,Don't know,Don't know,,,37.0,Female,
+2476,Don't know,Don't know,Yes,,,49.0,Female,
+2477,Don't know,Yes,No,,,39.0,Male,
+2478,Don't know,Don't know,No,,,42.0,Male,
+2479,Yes,Don't know,Yes,,,28.0,Male,
+2480,Don't know,Don't know,Yes,,,33.0,Male,
+2481,Don't know,Don't know,No,,,30.0,Female,
+2482,Yes,No,Yes,,,70.0,Male,
+2483,No,No,Don't know,,,25.0,Male,
+2484,Don't know,Don't know,Yes,,,45.0,Male,
+2485,Yes,Yes,Yes,,,63.0,Female,
+2486,Yes,Yes,Yes,,,40.0,Male,
+2487,Yes,Don't know,Yes,,,39.0,Male,
+2488,Yes,No,Yes,,,31.0,Female,
+2489,No,No,Yes,,,34.0,Male,
+2490,Don't know,Don't know,Yes,,,44.0,Male,
+2491,Don't know,No,Don't know,,,45.0,Male,
+2492,Yes,No,Yes,,,43.0,Male,
+2493,Yes,No,No,,,29.0,Male,
+2494,Yes,No,Yes,,,27.0,Others,
+2495,Yes,Yes,Yes,,,37.0,Male,
+2496,Yes,No,Yes,,,41.0,Others,
+2497,Yes,No,Yes,,,30.0,Female,
+2498,Yes,No,Yes,,,28.0,Male,
+2499,Don't know,Don't know,No,,,28.0,Male,
+2500,Don't know,Don't know,Yes,,,39.0,Male,
+2501,Don't know,No,Yes,,,22.0,Male,
+2502,Yes,Don't know,No,,,31.0,Male,
+2503,No,No,No,,,29.0,Male,
+2504,No,No,Don't know,,,33.0,Male,
+2505,Don't know,No,No,,,37.0,Male,
+2506,Don't know,Don't know,Don't know,,,42.0,Male,
+2507,Don't know,No,Yes,,,31.0,Male,
+2508,Don't know,Don't know,Yes,,,34.0,Male,
+2509,Don't know,Don't know,Yes,,,49.0,Female,
+2510,Yes,Yes,Don't know,,,29.0,Male,
+2511,Yes,No,Yes,,,40.0,Male,
+2512,Don't know,Don't know,Yes,,,46.0,Female,
+2513,Don't know,Don't know,No,,,31.0,Female,
+2514,Yes,Don't know,Don't know,,,43.0,Male,
+2515,Don't know,Don't know,No,,,45.0,Male,
+2516,No,No,Don't know,,,32.0,Male,
+2517,Don't know,Don't know,Yes,,,38.0,Male,
+2518,Yes,Yes,Yes,,,40.0,Male,
+2519,No,No,Yes,,,38.0,Male,
+2520,No,No,Yes,,,32.0,Male,
+2521,Don't know,No,Don't know,,,37.0,Male,
+2522,Don't know,Don't know,Yes,,,24.0,Male,
+2523,Don't know,Don't know,Don't know,,,25.0,Female,
+2524,No,No,No,,,24.0,Male,
+2525,Don't know,No,No,,,34.0,Female,
+2526,Don't know,Don't know,Yes,,,55.0,Male,
+2527,Yes,Yes,Yes,,,32.0,Male,
+2528,No,No,No,,,29.0,Male,
+2529,Don't know,Don't know,No,,,20.0,Male,
+2530,Yes,No,Don't know,,,41.0,Male,
+2531,Yes,Yes,Yes,,,33.0,Female,
+2532,Don't know,Don't know,Don't know,,,25.0,Male,
+2533,Don't know,Don't know,No,,,29.0,Male,
+2534,Yes,No,Yes,,,24.0,Others,
+2535,Don't know,Don't know,Yes,,,39.0,Male,
+2536,Yes,Yes,No,,,39.0,Male,
+2537,Don't know,Don't know,No,,,44.0,Male,
+2538,Don't know,Don't know,Yes,,,30.0,Female,
+2539,No,No,No,,,31.0,Male,
+2540,Don't know,Yes,Yes,,,37.0,Male,
+2541,Don't know,No,Yes,,,42.0,Male,
+2542,Don't know,Don't know,Don't know,,,35.0,Male,
+2543,Don't know,No,No,,,30.0,Male,
+2544,Yes,Don't know,No,,,30.0,Male,
+2545,Yes,No,Yes,,,33.0,Male,
+2546,Don't know,Don't know,Don't know,,,31.0,Male,
+2547,Yes,No,Yes,,,39.0,Female,
+2548,No,No,No,,,27.0,Male,
+2549,Don't know,Don't know,Yes,,,34.0,Male,
+2550,No,No,No,,,31.0,Male,
+2551,Yes,Don't know,Yes,,,30.0,Female,
+2552,Yes,No,Yes,,,34.0,Male,
+2553,Don't know,No,Don't know,,,20.0,Others,
+2554,Don't know,Don't know,Yes,,,39.0,Male,
+2555,Don't know,No,Don't know,,,50.0,Female,
+2556,No,No,Yes,,,22.0,Male,
+2557,Yes,No,Don't know,,,41.0,Male,
+2558,No,No,Don't know,,,37.0,Male,
+2559,Yes,Yes,Yes,,,32.0,Male,
+2560,Don't know,Don't know,Don't know,,,26.0,Male,
+2561,Yes,Don't know,Yes,,,38.0,Male,
+2562,Don't know,Don't know,Don't know,,,21.0,Male,
+2563,Yes,No,Yes,,,27.0,Male,
+2564,No,Don't know,Yes,,,37.0,Female,
+2565,Don't know,Don't know,Don't know,,,45.0,Male,
+2566,Don't know,Don't know,No,,,26.0,Male,
+2567,Don't know,No,Don't know,,,30.0,Female,
+2568,No,Don't know,Yes,,,21.0,Male,
+2569,Don't know,Yes,Don't know,,,21.0,Male,
+2570,Don't know,Don't know,No,,,29.0,Male,
+2571,Yes,Yes,No,,,46.0,Male,
+2572,Yes,Yes,Yes,,,28.0,Male,
+2573,Yes,No,Yes,,,26.0,Others,
+2574,Don't know,Don't know,Yes,,,37.0,Female,
+2575,Yes,Yes,No,,,44.0,Male,
+2576,Don't know,Don't know,Yes,,,45.0,Female,
+2577,Don't know,No,No,,,35.0,Female,
+2578,Yes,Yes,Yes,,,39.0,Male,
+2579,Don't know,Don't know,No,,,37.0,Female,
+2580,No,No,No,,,35.0,Male,
+2581,Yes,Don't know,Yes,,,29.0,Female,
+2582,Don't know,Don't know,No,,,49.0,Female,
+2583,Don't know,Don't know,Yes,,,21.0,Male,
+2584,Yes,Yes,Don't know,,,26.0,Female,
+2585,Yes,No,Don't know,,,35.0,Male,
+2586,Yes,Yes,Yes,,,56.0,Male,
+2587,Don't know,Don't know,Yes,,,53.0,Female,
+2588,Don't know,Don't know,Yes,,,48.0,Female,
+2589,Don't know,No,No,,,24.0,Male,
+2590,No,No,Yes,,,37.0,Male,
+2591,No,No,Yes,,,27.0,Female,
+2592,Don't know,Don't know,Yes,,,39.0,Female,
+2593,Don't know,Don't know,No,,,31.0,Male,
+2594,Yes,Don't know,Yes,,,34.0,Male,
+2595,No,Yes,Yes,,,33.0,Male,
+2596,No,No,Yes,,,22.0,Male,
+2597,Don't know,No,No,,,25.0,Female,
+2598,Don't know,No,No,,,34.0,Male,
+2599,Don't know,No,Don't know,,,30.0,Male,
+2600,No,No,Don't know,,,37.0,Male,
+2601,No,No,Yes,,,26.0,Male,
+2602,Yes,Yes,Don't know,,,29.0,Female,
+2603,No,Don't know,No,,,29.0,Male,
+2604,No,No,Yes,,,27.0,Male,
+2605,No,No,No,,,27.0,Female,
+2606,Don't know,Yes,No,,,23.0,Male,
+2607,Don't know,Yes,No,,,24.0,Female,
+2608,Don't know,Don't know,Yes,,,22.0,Male,
+2609,No,No,No,,,28.0,Male,
+2610,Don't know,No,Yes,,,22.0,Male,
+2611,No,No,Don't know,,,32.0,Male,
+2612,Don't know,Don't know,Yes,,,35.0,Female,
+2613,Yes,Don't know,Yes,,,26.0,Male,
+2614,No,Yes,Yes,,,31.0,Female,
+2615,Don't know,Don't know,Yes,,,32.0,Male,
+2616,No,No,Don't know,,,37.0,Male,
+2617,No,No,Yes,,,24.0,Male,
+2618,Yes,Yes,No,,,33.0,Male,
+2619,Yes,Yes,Yes,,,28.0,Male,
+2620,Don't know,Don't know,Don't know,,,22.0,Female,
+2621,Don't know,No,Don't know,,,46.0,Male,
+2622,Yes,Don't know,Don't know,,,30.0,Male,
+2623,Don't know,Yes,Yes,,,29.0,Male,
+2624,Don't know,No,Yes,,,22.0,Male,
+2625,Don't know,Don't know,Yes,,,24.0,Female,
+2626,Don't know,Don't know,Yes,,,29.0,Female,
+2627,Yes,Yes,Don't know,,,30.0,Male,
+2628,Don't know,Don't know,Don't know,,,25.0,Male,
+2629,Yes,Yes,No,,,39.0,Male,
+2630,Don't know,Don't know,No,,,31.0,Male,
+2631,Don't know,Don't know,Yes,,,25.0,Male,
+2632,Yes,Yes,No,,,39.0,Male,
+2633,Yes,Yes,Yes,,,31.0,Female,
+2634,Yes,Don't know,Don't know,,,35.0,Male,
+2635,Don't know,Don't know,Yes,,,31.0,Others,
+2636,No,No,Yes,,,23.0,Male,
+2637,Yes,Yes,Yes,,,30.0,Male,
+2638,Don't know,No,No,,,28.0,Male,
+2639,Yes,Yes,Yes,,,23.0,Female,
+2640,Yes,No,Yes,,,26.0,Female,
+2641,Yes,No,Don't know,,,24.0,Female,
+2642,Yes,No,No,,,32.0,Male,
+2643,Don't know,Don't know,Yes,,,35.0,Male,
+2644,Don't know,No,Don't know,,,30.0,Male,
+2645,Yes,No,Yes,,,32.0,Male,
+2646,Yes,No,Don't know,,,35.0,Male,
+2647,Don't know,No,Don't know,,,26.0,Female,
+2648,Yes,Yes,Yes,,,30.0,Female,
+2649,Yes,Don't know,Don't know,,,29.0,Male,
+2650,Don't know,Yes,No,,,39.0,Male,
+2651,Don't know,No,Don't know,,,37.0,Male,
+2652,Yes,No,No,,,35.0,Male,
+2653,Don't know,No,Yes,,,25.0,Female,
+2654,Don't know,Yes,Don't know,,,22.0,Others,
+2655,Yes,No,Don't know,,,33.0,Male,
+2656,Yes,No,Yes,,,23.0,Male,
+2657,Don't know,Don't know,Yes,,,29.0,Male,
+2658,Yes,Don't know,Yes,,,28.0,Male,
+2659,Yes,No,Yes,,,30.0,Male,
+2660,Yes,No,Yes,,,28.0,Male,
+2661,Yes,Yes,Don't know,,,28.0,Female,
+2662,Yes,Yes,Yes,,,37.0,Male,
+2663,No,No,Yes,,,30.0,Male,
+2664,No,No,Yes,,,27.0,Male,
+2665,Don't know,Don't know,Yes,,,29.0,Male,
+2666,Don't know,No,Don't know,,,28.0,Male,
+2667,No,No,Yes,,,26.0,Others,
+2668,Don't know,Don't know,Yes,,,29.0,Male,
+2669,Don't know,Don't know,No,,,34.0,Male,
+2670,Yes,Yes,Yes,,,36.0,Male,
+2671,Don't know,No,Yes,,,38.0,Male,
+2672,Yes,No,Yes,,,22.0,Female,
+2673,Don't know,Yes,No,,,24.0,Male,
+2674,Yes,Don't know,Yes,,,24.0,Female,
+2675,Yes,Don't know,Yes,,,36.0,Female,
+2676,Don't know,Don't know,Yes,,,24.0,Female,
+2677,No,No,No,,,24.0,Male,
+2678,No,No,Yes,,,31.0,Male,
+2679,Yes,No,Yes,,,39.0,Male,
+2680,Yes,Yes,Yes,,,41.0,Male,
+2681,Don't know,Don't know,Don't know,,,29.0,Male,
+2682,No,No,No,,,37.0,Male,
+2683,Don't know,Don't know,No,,,30.0,Male,
+2684,Yes,Don't know,No,,,24.0,Male,
+2685,Don't know,No,Yes,,,22.0,Female,
+2686,Yes,Yes,Don't know,,,24.0,Male,
+2687,Don't know,Don't know,Yes,,,26.0,Female,
+2688,Yes,No,Yes,,,38.0,Female,
+2689,Don't know,Don't know,No,,,34.0,Female,
+2690,Don't know,Don't know,No,,,56.0,Male,
+2691,Yes,Yes,Don't know,,,52.0,Male,
+2692,Don't know,Yes,Yes,,,30.0,Female,
+2693,Yes,No,Yes,,,25.0,Others,
+2694,No,Don't know,Don't know,Yes,,27.0,Female,
+2695,Yes,No,Don't know,Yes,,31.0,Male,
+2696,Don't know,No,Yes,No,,36.0,Male,White
+2697,Yes,Don't know,Yes,No,,22.0,Male,White
+2698,Don't know,Don't know,No,Don't know,,52.0,Female,Others
+2699,Yes,Don't know,No,No,,30.0,Male,White
+2700,Yes,No,Yes,Yes,,36.0,Female,Asian
+2701,Yes,No,No,Yes,,38.0,Female,White
+2702,Don't know,No,Don't know,No,,35.0,Male,
+2703,Don't know,Don't know,Don't know,Don't know,,36.0,Male,
+2704,Yes,No,Yes,Yes,,40.0,Male,White
+2705,Don't know,Don't know,Yes,No,,35.0,Male,White
+2706,No,No,No,Yes,,23.0,Male,
+2707,Don't know,Don't know,Yes,No,,22.0,Female,White
+2708,Don't know,Don't know,Yes,Yes,,34.0,Female,Black or African American
+2709,Yes,Don't know,Yes,No,,28.0,Male,White
+2710,No,No,Don't know,Yes,,38.0,Male,
+2711,Don't know,Don't know,No,Don't know,,53.0,Male,White
+2712,Don't know,No,Don't know,No,,21.0,Male,
+2713,Don't know,Don't know,Don't know,Yes,,35.0,Female,
+2714,No,No,Don't know,Yes,,22.0,Male,
+2716,Don't know,No,Yes,Yes,,37.0,Female,White
+2717,No,No,Yes,Yes,,25.0,Male,
+2718,No,No,Don't know,No,,40.0,Male,
+2719,No,No,Don't know,No,,33.0,Male,
+2720,Yes,Don't know,Yes,No,,66.0,Female,White
+2721,Yes,No,Yes,No,,31.0,Female,White
+2722,Yes,Yes,Yes,Yes,,32.0,Male,
+2723,Don't know,Don't know,Yes,Don't know,,46.0,Male,White
+2724,Yes,No,Yes,No,,30.0,Female,White
+2725,Yes,No,Yes,No,,31.0,Male,Black or African American
+2726,Don't know,No,Yes,Yes,,46.0,Male,
+2727,Don't know,Don't know,Yes,Don't know,,29.0,Others,
+2728,Don't know,Don't know,Yes,No,,28.0,Female,Others
+2729,No,No,Yes,Yes,,34.0,Female,
+2730,Yes,No,Yes,Yes,,25.0,Male,White
+2731,Yes,Yes,Yes,No,,35.0,Male,White
+2732,Don't know,Don't know,No,Don't know,,25.0,Others,
+2733,Yes,Don't know,Don't know,No,,40.0,Male,White
+2734,Don't know,Don't know,Yes,Yes,,32.0,Male,Others
+2735,Don't know,Don't know,No,No,,39.0,Male,Others
+2736,Yes,Don't know,Yes,No,,33.0,Male,White
+2737,Yes,Yes,Don't know,No,,40.0,Male,Black or African American
+2738,Yes,Don't know,Yes,No,,42.0,Male,Others
+2739,Don't know,Don't know,Yes,Yes,,32.0,Male,White
+2740,Yes,Yes,Yes,Yes,,27.0,Female,White
+2741,Don't know,Don't know,Yes,Don't know,,43.0,Female,
+2742,No,No,Don't know,No,,30.0,Female,
+2743,Don't know,No,Yes,No,,39.0,Male,White
+2744,Yes,Don't know,Yes,Yes,,42.0,Female,White
+2745,Yes,No,Yes,No,,37.0,Others,
+2746,Don't know,Don't know,Yes,Yes,,38.0,Female,White
+2747,Don't know,Don't know,Don't know,No,,47.0,Male,
+2748,Don't know,Yes,Yes,Yes,,64.0,Male,
+2749,No,No,Yes,Yes,,28.0,Male,
+2750,Don't know,Don't know,Don't know,Don't know,,45.0,Male,White
+2751,Yes,Don't know,No,Yes,,37.0,Male,
+2752,Yes,Yes,Yes,Yes,,30.0,Female,
+2753,Don't know,No,No,Yes,,25.0,Male,
+2754,No,Yes,Yes,No,,25.0,Female,
+2755,Don't know,Don't know,Yes,Don't know,,54.0,Female,White
+2756,Yes,Yes,Yes,Yes,,61.0,Male,
+2757,No,No,No,No,,26.0,Male,
+2758,Yes,Yes,Yes,Don't know,,44.0,Female,White
+2759,No,No,Yes,Yes,,26.0,Male,
+2760,Yes,No,Yes,No,,26.0,Female,
+2761,Don't know,Don't know,No,No,,35.0,Female,White
+2762,Yes,No,No,Yes,,45.0,Male,White
+2763,Don't know,No,No,No,,23.0,Male,White
+2764,Yes,Don't know,Don't know,No,,44.0,Male,White
+2765,Yes,Yes,Don't know,Yes,,38.0,Male,White
+2766,Yes,Yes,No,No,,46.0,Male,White
+2767,Yes,Don't know,Yes,No,,27.0,Others,White
+2768,Yes,Yes,Yes,Yes,,39.0,Female,Others
+2769,Don't know,No,Don't know,No,,33.0,Female,White
+2770,Don't know,Don't know,Yes,Don't know,,38.0,Female,
+2771,Don't know,No,No,No,,35.0,Male,
+2772,No,No,Yes,No,,32.0,Male,
+2773,Yes,No,Yes,No,,26.0,Female,Asian
+2774,Yes,Don't know,Yes,No,,50.0,Male,
+2775,Don't know,Don't know,Yes,No,,31.0,Male,White
+2776,Don't know,Don't know,Don't know,Yes,,46.0,Male,
+2777,Yes,No,Yes,No,,30.0,Male,White
+2778,Yes,Don't know,Yes,Yes,,30.0,Male,White
+2779,No,No,Yes,Yes,,34.0,Male,
+2780,Yes,Yes,No,No,,42.0,Male,
+2781,Yes,Yes,Yes,No,,24.0,Female,White
+2782,Don't know,Don't know,Yes,Don't know,,30.0,Male,White
+2783,Yes,Don't know,Don't know,Yes,,23.0,Male,
+2784,Yes,No,Yes,Yes,,31.0,Female,White
+2785,No,No,Don't know,No,,31.0,Male,
+2786,Yes,Don't know,Yes,Yes,,27.0,Female,White
+2787,Don't know,Don't know,No,Don't know,,26.0,Male,
+2788,Yes,Yes,No,Yes,,52.0,Female,White
+2789,Don't know,Don't know,Don't know,Don't know,,28.0,Male,
+2790,No,Don't know,Don't know,No,,37.0,Male,White
+2791,No,Yes,No,No,,37.0,Male,
+2792,Yes,No,Yes,No,,38.0,Male,White
+2793,Don't know,Don't know,Yes,Don't know,,57.0,Female,White
+2794,Yes,Don't know,Yes,Yes,,34.0,Male,White
+2795,Yes,Yes,No,Yes,,38.0,Female,
+2796,Don't know,Don't know,Don't know,No,,30.0,Male,White
+2797,Yes,Don't know,Don't know,Yes,,52.0,Male,
+2798,Don't know,Don't know,Yes,Don't know,,31.0,Female,White
+2799,Don't know,Don't know,No,Don't know,,29.0,Male,
+2800,Don't know,No,Don't know,No,,26.0,Female,
+2801,Yes,No,Yes,No,,29.0,Female,White
+2802,Yes,No,Yes,Yes,,44.0,Male,White
+2804,Don't know,Don't know,Yes,Yes,,42.0,Male,
+2805,Yes,No,Don't know,Yes,,30.0,Male,White
+2806,Yes,Yes,Yes,Yes,,29.0,Male,White
+2807,Yes,Yes,Yes,No,,27.0,Female,White
+2808,Yes,Yes,Yes,Yes,,39.0,Male,White
+2809,Yes,No,No,Don't know,,40.0,Female,
+2810,Yes,Yes,Don't know,Yes,,36.0,Female,Asian
+2811,Don't know,Don't know,Don't know,Don't know,,48.0,Female,White
+2812,Yes,Yes,Don't know,Yes,,43.0,Male,White
+2813,Yes,Yes,Yes,Yes,,38.0,Male,White
+2814,Don't know,No,No,No,,42.0,Male,White
+2815,No,Yes,Yes,Yes,,46.0,Male,
+2816,Yes,Yes,Yes,Yes,,30.0,Male,White
+2817,No,No,Yes,No,,25.0,Male,
+2818,Yes,Yes,Don't know,Yes,,28.0,Others,
+2819,Yes,No,Don't know,Yes,,24.0,Female,
+2820,Don't know,No,No,No,,26.0,Male,
+2821,Yes,Yes,Yes,Yes,,43.0,Male,White
+2822,Yes,Yes,Yes,No,,25.0,Female,Others
+2823,Yes,Don't know,Yes,No,,34.0,Male,White
+2824,Yes,Don't know,No,Yes,,28.0,Female,Asian
+2825,No,No,Yes,Yes,,27.0,Male,
+2826,No,Yes,Don't know,No,,22.0,Male,
+2827,Don't know,Yes,No,No,,24.0,Female,
+2828,Don't know,Don't know,Yes,Don't know,,33.0,Female,
+2829,Don't know,Don't know,Don't know,Don't know,,41.0,Male,
+2830,No,Don't know,Don't know,No,,26.0,Female,
+2831,Don't know,Don't know,Yes,Don't know,,39.0,Male,White
+2832,Don't know,No,Don't know,No,,24.0,Male,White
+2833,Don't know,No,Yes,No,,54.0,Male,White
+2834,Yes,Yes,Yes,Yes,,47.0,Male,White
+2835,No,No,No,No,,33.0,Male,
+2836,Yes,No,Yes,No,,30.0,Others,White
+2837,Yes,Don't know,Don't know,Yes,,48.0,Male,White
+2838,Don't know,Yes,Don't know,No,,35.0,Male,White
+2839,Don't know,Don't know,No,No,,34.0,Male,White
+2840,Don't know,Don't know,No,Don't know,,31.0,Male,
+2841,Yes,No,Don't know,Yes,,25.0,Male,White
+2842,No,No,Yes,Yes,,48.0,Male,
+2843,Yes,Don't know,Yes,No,,34.0,Male,White
+2844,Yes,No,No,No,,42.0,Male,White
+2845,Don't know,No,Yes,Yes,,27.0,Male,White
+2846,Yes,No,Don't know,No,,33.0,Female,White
+2847,Yes,Don't know,Yes,Yes,,27.0,Female,Black or African American
+2848,Yes,No,Don't know,Yes,,48.0,Male,White
+2849,Yes,No,Yes,No,,32.0,Female,White
+2850,Yes,Don't know,Yes,Yes,,29.0,Male,White
+2851,Don't know,Don't know,Yes,Don't know,,36.0,Female,Asian
+2852,Don't know,Don't know,Yes,Don't know,,29.0,Female,
+2853,Don't know,No,Don't know,No,,23.0,Female,
+2854,Yes,Yes,Don't know,Yes,,50.0,Female,White
+2855,Don't know,Don't know,No,Don't know,,24.0,Female,
+2856,No,No,No,No,,29.0,Female,
+2857,Yes,Don't know,Don't know,Yes,,42.0,Female,White
+2858,Don't know,Don't know,Don't know,Don't know,,35.0,Male,
+2859,Don't know,Don't know,Don't know,No,,22.0,Male,White
+2860,Yes,Yes,Yes,No,,39.0,Female,White
+2861,Yes,No,Don't know,Yes,,29.0,Female,
+2862,Don't know,Don't know,No,Don't know,,20.0,Male,
+2863,Don't know,Yes,Yes,Yes,,36.0,Female,
+2864,Don't know,No,Yes,No,,30.0,Female,
+2865,Don't know,Don't know,No,Don't know,,36.0,Male,White
+2866,No,No,No,No,,31.0,Male,
+2867,Yes,No,Don't know,No,,28.0,Male,White
+2868,Yes,Yes,No,Yes,,28.0,Male,White
+2869,Don't know,Don't know,Yes,No,,25.0,Female,
+2870,Don't know,No,Don't know,No,,30.0,Male,
+2871,Don't know,Don't know,No,Don't know,,45.0,Male,
+2872,Don't know,No,No,No,,31.0,Male,
+2873,No,No,No,No,,36.0,Male,
+2874,Don't know,No,No,Yes,,37.0,Male,
+2875,Yes,Don't know,No,No,,37.0,Male,Others
+2876,Don't know,Don't know,No,Don't know,,28.0,Male,
+2877,Don't know,No,No,Yes,,37.0,Male,
+2878,No,No,Don't know,Yes,,37.0,Male,
+2879,Don't know,Don't know,Yes,Don't know,,64.0,Male,
+2880,Don't know,Don't know,No,Don't know,,34.0,Female,
+2881,Don't know,Don't know,Don't know,Don't know,,34.0,Male,
+2882,Don't know,Don't know,No,Don't know,,36.0,Male,
+2883,Don't know,Don't know,No,Don't know,,26.0,Male,
+2884,Don't know,No,Don't know,No,,33.0,Male,
+2885,Yes,No,No,No,,47.0,Female,White
+2886,Don't know,Yes,Don't know,No,,24.0,Female,White
+2887,Yes,Don't know,Yes,Yes,,26.0,Male,White
+2888,Yes,Yes,No,Yes,,37.0,Male,
+2889,Yes,No,Yes,Yes,,29.0,Male,White
+2890,Don't know,No,Yes,No,,33.0,Female,White
+2891,Yes,Yes,Yes,Yes,,44.0,Male,White
+2892,Yes,Yes,No,No,,34.0,Female,White
+2893,Yes,No,Don't know,Yes,,35.0,Male,White
+2894,Yes,Don't know,Yes,Yes,,32.0,Others,Asian
+2895,Don't know,Don't know,Yes,Don't know,,23.0,Others,
+2896,Yes,Yes,No,No,,31.0,Male,
+2897,Yes,No,Yes,No,,30.0,Male,White
+2898,Don't know,Don't know,No,Don't know,,42.0,Male,
+2899,Don't know,Yes,Yes,Yes,,26.0,Female,White
+2900,Yes,No,No,Yes,,29.0,Female,
+2901,Yes,Yes,Don't know,No,,35.0,Male,White
+2902,Don't know,Don't know,No,Don't know,,31.0,Male,
+2903,Don't know,Don't know,No,No,,26.0,Others,White
+2904,Don't know,Don't know,Don't know,No,,30.0,Male,White
+2905,Yes,No,Don't know,Yes,,39.0,Male,White
+2906,No,Don't know,Don't know,No,,29.0,Male,
+2907,No,No,No,No,,27.0,Male,
+2908,No,No,Don't know,No,,29.0,Male,
+2909,No,No,No,No,,43.0,Male,
+2910,No,No,Don't know,No,,31.0,Male,
+2911,No,No,Don't know,No,,27.0,Female,
+2912,Yes,Yes,No,Yes,,36.0,Male,
+2913,Yes,Yes,No,Yes,,44.0,Female,White
+2914,Yes,Yes,No,Yes,,44.0,Male,White
+2915,Yes,Yes,Yes,Yes,,27.0,Female,Others
+2916,Yes,Yes,Yes,Yes,,42.0,Female,White
+2917,Yes,Yes,Yes,Yes,,28.0,Male,White
+2918,Yes,Yes,Yes,Yes,,43.0,Male,White
+2919,Don't know,Don't know,Yes,Don't know,,28.0,Female,
+2920,Yes,Yes,Yes,Yes,,49.0,Female,White
+2921,Don't know,No,Don't know,No,,32.0,Male,
+2922,Don't know,Don't know,Don't know,No,,33.0,Male,Others
+2923,No,No,Don't know,No,,45.0,Male,Others
+2924,Don't know,Don't know,Yes,No,,25.0,Female,Others
+2925,Yes,Don't know,Yes,No,,42.0,Male,White
+2926,Yes,No,Don't know,Yes,,25.0,Male,White
+2927,Yes,Don't know,Don't know,No,,25.0,Female,White
+2928,Yes,Yes,No,Yes,,31.0,Female,
+2929,Yes,No,No,Yes,,22.0,Female,Asian
+2930,Don't know,Don't know,Yes,Don't know,,33.0,Female,White
+2931,No,No,Yes,Yes,,40.0,Male,
+2932,Don't know,No,Don't know,Yes,,28.0,Male,White
+2933,Don't know,Don't know,Don't know,No,,37.0,Male,White
+2934,Yes,No,Yes,No,,35.0,Male,
+2935,Don't know,Don't know,Yes,Don't know,,47.0,Male,White
+2936,Don't know,No,Don't know,Yes,,20.0,Male,
+2937,Yes,No,No,No,,27.0,Female,
+2938,Yes,Yes,No,Yes,,62.0,Female,White
+2939,Don't know,Don't know,No,Don't know,,42.0,Male,White
+2940,Don't know,Don't know,Yes,Don't know,,35.0,Male,White
+2941,Don't know,Don't know,Don't know,Yes,,29.0,Male,
+2942,Yes,Yes,Yes,No,,37.0,Male,
+2943,Yes,Don't know,Yes,Yes,,51.0,Male,White
+2944,Yes,Yes,No,Yes,,60.0,Male,White
+2945,Don't know,Don't know,Yes,Don't know,,30.0,Female,White
+2946,Yes,Don't know,Yes,Yes,,36.0,Female,White
+2947,Don't know,Don't know,Don't know,No,,38.0,Male,White
+2948,Don't know,Yes,Don't know,No,,30.0,Female,
+2949,Don't know,Yes,Yes,No,,35.0,Male,
+2950,Don't know,Don't know,No,Don't know,,50.0,Female,
+2951,Yes,Yes,No,Yes,,41.0,Male,
+2952,Don't know,Don't know,Yes,Don't know,,58.0,Female,White
+2953,Don't know,No,Yes,No,,27.0,Male,White
+2954,No,No,No,No,,53.0,Male,
+2955,Yes,No,Don't know,Yes,,42.0,Female,White
+2956,No,No,No,Yes,,33.0,Male,
+2957,Yes,Yes,Yes,No,,25.0,Others,White
+2958,Don't know,Don't know,No,No,,40.0,Male,White
+2959,Yes,Yes,Yes,No,,25.0,Female,Others
+2960,Don't know,No,No,Yes,,49.0,Female,White
+2961,No,No,Yes,Yes,,44.0,Female,White
+2962,Don't know,No,Yes,No,,30.0,Male,White
+2963,Yes,Don't know,Don't know,Yes,,28.0,Male,White
+2964,Yes,Don't know,Don't know,Yes,,26.0,Male,White
+2965,Yes,Yes,Yes,Yes,,31.0,Male,
+2966,Yes,No,Yes,Yes,,32.0,Male,White
+2967,Don't know,Don't know,Don't know,No,,24.0,Male,White
+2968,Don't know,Don't know,Don't know,Yes,,34.0,Male,White
+2969,Yes,Don't know,Yes,No,,31.0,Female,White
+2970,Yes,Yes,No,No,,47.0,Male,White
+2971,Yes,Don't know,No,Yes,,59.0,Male,White
+2972,Don't know,No,Yes,Yes,,44.0,Male,White
+2973,No,No,No,No,,26.0,Male,White
+2974,Don't know,Don't know,Yes,Don't know,,43.0,Male,White
+2975,Don't know,Don't know,Don't know,Don't know,,39.0,Male,
+2976,Don't know,No,Don't know,Yes,,43.0,Male,White
+2977,Don't know,Don't know,Yes,Don't know,,40.0,Male,
+2978,Don't know,No,Don't know,No,,22.0,Male,
+2979,Don't know,No,Yes,Yes,,24.0,Male,
+2980,Don't know,Don't know,Yes,Yes,,35.0,Male,White
+2981,Don't know,No,No,Yes,,40.0,Male,White
+2982,Don't know,Don't know,Don't know,Don't know,,26.0,Male,
+2983,Don't know,Don't know,Yes,Don't know,,23.0,Male,
+2984,Don't know,No,No,Yes,,30.0,Male,White
+2985,Yes,Don't know,Don't know,No,,37.0,Male,White
+2986,No,No,Yes,Yes,,27.0,Male,White
+2987,Yes,Yes,Don't know,Yes,,42.0,Male,White
+2988,Yes,Yes,Don't know,No,,49.0,Male,White
+2989,Yes,Don't know,Yes,No,,40.0,Male,White
+2990,Yes,Yes,Yes,Yes,,26.0,Female,White
+2991,Yes,Yes,Yes,Yes,,29.0,Male,White
+2992,Yes,Don't know,No,Yes,,39.0,Female,White
+2993,Yes,Don't know,Yes,Yes,,40.0,Male,White
+2994,No,No,Don't know,No,,23.0,Male,
+2995,Don't know,Don't know,No,Yes,,50.0,Male,Others
+2996,Yes,Yes,Yes,Yes,,35.0,Male,White
+2997,Yes,Yes,Don't know,No,,24.0,Male,
+2998,Yes,Don't know,Yes,Yes,,35.0,Female,White
+2999,Don't know,No,No,No,,36.0,Male,White
+3000,Yes,Don't know,No,Yes,,50.0,Female,White
+3001,Don't know,Don't know,No,No,,47.0,Female,White
+3002,Yes,No,No,Yes,,30.0,Male,White
+3003,Yes,Yes,Yes,Yes,,30.0,Male,White
+3004,Yes,Yes,Yes,Yes,,32.0,Male,White
+3005,Yes,Yes,Yes,Yes,,38.0,Others,White
+3006,Don't know,No,Yes,Yes,,38.0,Male,White
+3007,Yes,Don't know,Yes,Yes,,38.0,Male,White
+3008,Yes,Yes,No,No,,26.0,Female,White
+3009,Yes,No,Yes,No,,45.0,Female,White
+3010,Yes,Yes,Don't know,Yes,,37.0,Female,Black or African American
+3011,Don't know,Don't know,Yes,Yes,,24.0,Female,White
+3012,Yes,Yes,Yes,Yes,,33.0,Female,White
+3013,Yes,Yes,No,Yes,,35.0,Female,White
+3014,Yes,Yes,No,No,,44.0,Male,White
+3015,Don't know,No,Yes,Yes,,27.0,Female,White
+3016,Yes,Yes,No,No,,33.0,Male,White
+3017,Don't know,No,No,No,,28.0,Female,White
+3018,Yes,Don't know,Yes,Yes,,35.0,Male,White
+3019,Yes,Yes,Yes,Yes,,23.0,Male,White
+3020,Don't know,Don't know,Yes,Don't know,,53.0,Male,
+3021,Yes,No,Yes,No,,32.0,Male,
+3022,Don't know,Don't know,No,Don't know,,24.0,Male,
+3023,Yes,Don't know,No,Yes,,31.0,Male,
+3024,No,No,Yes,No,,33.0,Male,
+3025,No,No,Yes,Yes,,37.0,Male,
+3026,Don't know,No,No,Yes,,27.0,Male,
+3027,Yes,Don't know,No,Yes,,31.0,Male,
+3028,Don't know,Don't know,Don't know,Don't know,,32.0,Male,
+3029,No,No,Don't know,Yes,,40.0,Male,
+3030,No,No,No,Yes,,32.0,Male,
+3031,Don't know,Don't know,Don't know,Don't know,,31.0,Male,
+3032,Yes,Yes,Yes,Yes,,33.0,Male,White
+3033,Don't know,No,Don't know,Yes,,21.0,Others,White
+3034,Don't know,Don't know,Don't know,Don't know,,67.0,Female,White
+3035,Don't know,Don't know,Yes,Don't know,,35.0,Male,
+3036,Don't know,Don't know,No,Don't know,,46.0,Male,
+3037,Yes,Don't know,Yes,Yes,,36.0,Male,White
+3038,No,No,Yes,No,,44.0,Female,
+3039,Yes,Yes,Don't know,Yes,,57.0,Male,White
+3040,Don't know,No,No,Yes,,38.0,Female,White
+3041,Yes,No,Don't know,No,,27.0,Female,
+3042,Don't know,Yes,Yes,Yes,,26.0,Male,
+3043,Yes,Yes,Don't know,No,,36.0,Male,White
+3044,Don't know,No,No,No,,30.0,Male,
+3045,Yes,Yes,Yes,Yes,,35.0,Male,
+3046,No,No,Don't know,No,,30.0,Male,
+3047,No,No,Don't know,Yes,,32.0,Male,
+3048,Don't know,No,Don't know,No,,35.0,Male,
+3049,Yes,Don't know,No,Yes,,33.0,Male,
+3050,No,No,No,Yes,,48.0,Male,
+3051,No,No,No,No,,32.0,Male,
+3052,Don't know,No,Yes,No,,45.0,Male,
+3053,Don't know,No,No,No,,31.0,Male,
+3054,Don't know,Don't know,No,Yes,,40.0,Male,
+3055,Don't know,No,No,No,,37.0,Male,White
+3056,No,No,No,No,,29.0,Male,
+3057,Yes,Don't know,Yes,Yes,,26.0,Male,White
+3058,Yes,Yes,Don't know,No,,51.0,Female,White
+3059,Don't know,Don't know,Yes,Don't know,,29.0,Male,
+3060,Don't know,Don't know,Yes,Don't know,,30.0,Male,
+3061,Yes,No,No,Yes,,33.0,Female,White
+3062,Yes,No,Yes,Yes,,27.0,Male,White
+3063,Yes,Don't know,No,Yes,,42.0,Male,White
+3064,Don't know,No,No,Yes,,47.0,Male,
+3065,Don't know,Don't know,Yes,Yes,,31.0,Female,
+3066,Don't know,Yes,No,No,,32.0,Male,
+3067,Don't know,Don't know,No,Don't know,,60.0,Male,
+3068,Don't know,No,No,No,,58.0,Male,
+3069,Don't know,Don't know,No,Don't know,,38.0,Male,
+3070,No,No,Don't know,No,,42.0,Female,
+3071,Don't know,No,Yes,No,,41.0,Male,
+3072,Yes,No,Don't know,Yes,,25.0,Male,
+3073,Yes,Yes,No,Yes,,31.0,Female,White
+3074,Don't know,Don't know,Don't know,Don't know,,42.0,Male,
+3075,No,No,Yes,No,,42.0,Male,White
+3076,Yes,Yes,Yes,No,,41.0,Male,Asian
+3077,Yes,Yes,Yes,Yes,,35.0,Others,White
+3078,Yes,No,Don't know,No,,24.0,Male,
+3079,Yes,Yes,Yes,No,,37.0,Male,White
+3080,Don't know,Don't know,Don't know,Yes,,32.0,Male,
+3081,Yes,Yes,No,No,,34.0,Male,
+3082,No,No,No,No,,37.0,Male,
+3083,Don't know,Don't know,Don't know,Don't know,,38.0,Male,
+3084,No,No,Don't know,No,,30.0,Male,White
+3085,Don't know,No,Don't know,No,,27.0,Male,
+3086,Yes,Don't know,No,No,,41.0,Female,White
+3087,Don't know,No,Don't know,No,,41.0,Male,White
+3088,Yes,Don't know,No,No,,39.0,Male,White
+3089,Yes,Don't know,Yes,No,,42.0,Male,White
+3090,Yes,No,Yes,Yes,,28.0,Female,White
+3091,No,No,Yes,No,,29.0,Male,White
+3092,Don't know,Don't know,Don't know,Don't know,,41.0,Male,
+3093,Yes,Don't know,No,Yes,,46.0,Male,White
+3094,Yes,No,No,Yes,,38.0,Male,
+3095,Yes,Yes,Don't know,No,,34.0,Male,
+3096,Yes,No,Yes,No,,28.0,Male,
+3097,No,No,Yes,Yes,,28.0,Female,
+3098,Yes,No,No,Yes,,38.0,Male,
+3099,Yes,No,Yes,Yes,,33.0,Male,Others
+3100,Yes,No,Don't know,No,,38.0,Female,White
+3101,Don't know,Don't know,Yes,No,,48.0,Male,White
+3102,No,No,No,No,,44.0,Female,
+3103,Yes,Yes,Don't know,Yes,,34.0,Male,White
+3104,No,No,Yes,No,,29.0,Female,White
+3105,No,Yes,Yes,No,,39.0,Male,
+3106,Don't know,Don't know,Don't know,No,,41.0,Male,
+3107,Yes,Yes,No,Yes,,33.0,Male,White
+3108,Don't know,Don't know,No,Don't know,,31.0,Male,
+3109,Yes,Yes,Don't know,No,,44.0,Male,
+3110,Don't know,No,Yes,No,,33.0,Female,
+3111,Don't know,Don't know,Don't know,No,,26.0,Others,
+3112,Don't know,No,No,Don't know,,28.0,Male,
+3113,Yes,No,Don't know,Yes,,32.0,Female,White
+3114,Yes,Yes,No,Yes,,35.0,Female,
+3115,Don't know,Yes,No,Yes,,40.0,Male,
+3116,Don't know,Don't know,Yes,No,,30.0,Male,White
+3117,Don't know,Don't know,Don't know,No,,34.0,Male,Others
+3118,Don't know,Don't know,No,No,,21.0,Male,White
+3119,Yes,Don't know,Yes,Yes,,37.0,Male,
+3120,Don't know,Don't know,No,Don't know,,27.0,Male,
+3121,Don't know,Don't know,No,Don't know,,37.0,Male,White
+3122,Yes,Yes,Yes,No,,33.0,Male,
+3123,Yes,Yes,Don't know,Yes,,28.0,Male,Others
+3124,Yes,Yes,Don't know,Yes,,41.0,Male,White
+3125,No,No,No,Yes,,34.0,Male,
+3126,Don't know,Don't know,No,Don't know,,37.0,Male,
+3127,Yes,Yes,Yes,No,,28.0,Male,White
+3128,No,No,Don't know,Don't know,,52.0,Male,
+3129,Don't know,Don't know,No,No,,39.0,Male,
+3130,Yes,No,Don't know,No,,45.0,Male,White
+3131,Don't know,Don't know,No,Don't know,,50.0,Male,
+3132,Don't know,No,Don't know,No,,27.0,Male,
+3133,Yes,Yes,Yes,No,,31.0,Female,White
+3134,Don't know,No,Don't know,No,,44.0,Male,
+3135,Yes,Don't know,No,Yes,,31.0,Male,
+3136,No,No,Don't know,No,,23.0,Others,
+3137,Yes,Yes,Yes,Yes,,23.0,Male,White
+3138,Don't know,Don't know,No,Yes,,38.0,Male,
+3139,Don't know,Don't know,Don't know,No,,37.0,Male,White
+3140,Yes,No,No,Yes,,33.0,Male,
+3141,Don't know,Don't know,Yes,Don't know,,34.0,Male,Asian
+3142,Yes,Don't know,Don't know,No,,47.0,Male,White
+3143,Don't know,Don't know,Don't know,No,,29.0,Female,White
+3144,Yes,Yes,No,No,,38.0,Male,White
+3145,Don't know,No,Don't know,No,,29.0,Male,
+3146,Don't know,No,Yes,Yes,,37.0,Male,White
+3147,Don't know,Don't know,Yes,Don't know,,39.0,Male,
+3148,Yes,Yes,Yes,Yes,,29.0,Female,White
+3149,Don't know,Don't know,Yes,Don't know,,57.0,Female,
+3150,Don't know,Don't know,Yes,No,,27.0,Female,White
+3151,Don't know,No,No,No,,38.0,Female,White
+3152,Don't know,Don't know,No,Don't know,,39.0,Male,
+3153,Yes,Yes,Yes,Yes,,29.0,Male,
+3154,No,No,Yes,No,,24.0,Male,
+3155,No,No,Yes,Yes,,30.0,Female,
+3156,Yes,Yes,Don't know,No,,32.0,Male,White
+3157,Yes,Don't know,Yes,Yes,,37.0,Male,White
+3158,No,No,No,No,,34.0,Male,
+3159,Yes,Yes,No,Yes,,52.0,Male,White
+3160,Yes,Don't know,Yes,No,,36.0,Male,White
+3161,Yes,Don't know,Yes,No,,52.0,Male,White
+3162,Yes,No,No,Yes,,49.0,Female,Asian
+3163,Yes,Yes,Yes,No,,30.0,Male,White
+3164,Don't know,No,Yes,No,,41.0,Male,
+3165,Don't know,Don't know,Don't know,No,,29.0,Male,
+3166,Yes,Yes,Yes,No,,37.0,Others,Others
+3167,Yes,Yes,Yes,Yes,,29.0,Female,White
+3168,Yes,Yes,Yes,Yes,,39.0,Female,Others
+3169,Yes,Yes,Yes,Yes,,30.0,Female,White
+3170,Yes,No,Yes,Yes,,23.0,Female,White
+3171,Yes,Yes,Don't know,Yes,,29.0,Female,White
+3172,Yes,Don't know,Yes,No,,38.0,Male,White
+3173,Yes,No,Yes,No,,41.0,Female,White
+3174,Yes,Yes,No,Yes,,47.0,Male,White
+3175,Yes,No,Yes,Yes,,56.0,Female,White
+3176,Don't know,Don't know,Don't know,No,,22.0,Male,White
+3177,Yes,Yes,Yes,Yes,,32.0,Female,White
+3178,Don't know,No,Yes,No,,30.0,Female,White
+3179,Yes,No,Yes,No,,31.0,Others,White
+3180,Yes,Yes,Yes,Yes,,36.0,Male,White
+3181,Yes,Don't know,Yes,Yes,,32.0,Male,White
+3182,Yes,No,Yes,Yes,,37.0,Female,White
+3183,Don't know,No,Don't know,No,,29.0,Male,White
+3184,Yes,No,Yes,No,,31.0,Female,Others
+3185,Yes,Yes,Yes,Yes,,39.0,Male,White
+3186,Don't know,Yes,Don't know,No,,36.0,Male,
+3187,Don't know,Don't know,Yes,Don't know,,27.0,Others,White
+3188,Don't know,Don't know,No,No,,38.0,Male,
+3189,Don't know,Don't know,Yes,Don't know,,37.0,Male,White
+3190,Yes,Yes,No,Yes,,33.0,Female,White
+3191,No,No,Don't know,Yes,,38.0,Male,
+3192,Yes,Don't know,Don't know,Yes,,36.0,Female,White
+3193,No,No,No,Yes,,30.0,Female,White
+3194,Yes,Yes,Yes,Yes,,38.0,Male,White
+3195,No,No,Yes,No,,35.0,Female,
+3196,Yes,No,Yes,No,,26.0,Male,White
+3197,Don't know,Yes,Don't know,Yes,,25.0,Male,
+3198,Don't know,Yes,No,No,,40.0,Male,White
+3199,Yes,No,No,Yes,,31.0,Male,
+3200,Yes,Don't know,Don't know,Yes,,49.0,Male,White
+3201,Don't know,No,Don't know,No,,30.0,Male,
+3202,Don't know,Don't know,Don't know,No,,35.0,Male,Others
+3203,Yes,No,Yes,Yes,,46.0,Male,White
+3204,Don't know,Don't know,Don't know,No,,29.0,Female,White
+3205,Yes,No,Yes,Yes,,22.0,Male,White
+3206,Yes,Yes,Yes,Yes,,50.0,Female,White
+3207,Don't know,Don't know,Don't know,No,,39.0,Male,
+3208,No,Yes,Yes,No,,40.0,Male,
+3209,Yes,Yes,No,Yes,,31.0,Male,White
+3210,Don't know,Don't know,Yes,Don't know,,38.0,Male,White
+3211,Yes,Don't know,Yes,No,,45.0,Male,White
+3212,Yes,Yes,Yes,Yes,,31.0,Female,White
+3213,Yes,Yes,Don't know,No,,25.0,Female,
+3214,Don't know,No,Yes,No,,28.0,Female,White
+3215,Yes,Yes,Don't know,No,,37.0,Male,
+3216,No,No,Don't know,No,,54.0,Male,Others
+3217,Yes,Yes,Yes,No,,45.0,Female,White
+3218,Yes,No,Yes,No,,36.0,Male,White
+3219,Yes,Yes,Yes,Yes,,34.0,Female,White
+3220,Yes,Yes,No,No,,28.0,Male,White
+3221,Yes,Yes,Don't know,Yes,,32.0,Male,White
+3222,Don't know,Don't know,No,Don't know,,40.0,Male,
+3223,Don't know,Yes,Yes,No,,52.0,Female,White
+3224,Don't know,No,Don't know,No,,33.0,Male,White
+3225,Yes,Don't know,Yes,Yes,,41.0,Female,Others
+3226,Yes,Yes,No,Yes,,25.0,Female,White
+3227,Don't know,Don't know,Yes,Don't know,,33.0,Others,
+3228,Yes,No,No,Yes,,36.0,Others,White
+3229,Don't know,Don't know,Yes,Don't know,,40.0,Male,
+3230,Yes,No,No,No,,23.0,Female,White
+3231,No,No,No,Yes,,37.0,Male,
+3232,Yes,Yes,Don't know,No,,42.0,Male,White
+3233,Don't know,No,Yes,Yes,,35.0,Female,White
+3234,Yes,Don't know,Don't know,No,,32.0,Female,White
+3235,Don't know,Don't know,Don't know,Yes,,23.0,Male,White
+3236,Yes,Don't know,Yes,Yes,,35.0,Female,White
+3237,Yes,Yes,Yes,No,,34.0,Female,White
+3238,Don't know,Don't know,Don't know,No,,24.0,Female,White
+3239,Yes,Yes,Yes,Yes,,38.0,Male,White
+3240,No,No,Yes,Yes,,42.0,Male,
+3241,Yes,Yes,Don't know,No,,23.0,Female,White
+3242,Yes,Yes,Don't know,Yes,,39.0,Others,White
+3243,Yes,Yes,Yes,No,,30.0,Male,White
+3244,Yes,Yes,Don't know,Yes,,35.0,Female,White
+3245,Yes,Yes,Yes,No,,29.0,Female,White
+3246,Yes,No,No,Yes,,24.0,Female,White
+3247,Yes,Don't know,Don't know,No,,35.0,Male,White
+3248,Yes,No,Don't know,No,,30.0,Male,White
+3249,Don't know,No,No,No,,28.0,Female,Asian
+3250,Yes,Don't know,Yes,Yes,,32.0,Female,White
+3251,Yes,Yes,Don't know,Yes,,34.0,Male,White
+3252,Yes,No,Yes,Yes,,33.0,Male,White
+3253,Yes,Don't know,No,Yes,,32.0,Male,White
+3254,Yes,Yes,No,Yes,,27.0,Female,Asian
+3255,Yes,No,Yes,Yes,,23.0,Female,White
+3256,Don't know,Don't know,Yes,Yes,,30.0,Male,
+3257,Yes,Don't know,Yes,Yes,,24.0,Male,White
+3258,Yes,Yes,Yes,Yes,,34.0,Female,White
+3259,Yes,Yes,Don't know,Yes,,32.0,Male,White
+3260,Don't know,No,Yes,No,,41.0,Female,White
+3261,Yes,No,Yes,No,,37.0,Male,White
+3262,Don't know,Don't know,Don't know,Don't know,,27.0,Male,
+3263,Don't know,Don't know,No,No,,26.0,Male,White
+3264,Don't know,Don't know,Don't know,Yes,,24.0,Male,White
+3265,Yes,No,Yes,Yes,,44.0,Male,White
+3266,Don't know,No,No,No,,40.0,Male,
+3267,Don't know,Don't know,No,Don't know,,42.0,Male,White
+3268,Yes,Yes,Yes,Yes,,27.0,Others,White
+3269,Don't know,No,Don't know,No,,40.0,Male,
+3270,Yes,Yes,Yes,Yes,,38.0,Others,White
+3271,Yes,Yes,Yes,Yes,,34.0,Male,White
+3272,Yes,No,Yes,Yes,,27.0,Female,White
+3273,Yes,Don't know,Don't know,No,,34.0,Male,White
+3274,No,No,No,No,,26.0,Male,White
+3275,Don't know,Don't know,Yes,Don't know,,33.0,Female,White
+3276,Yes,Yes,Yes,Yes,,39.0,Male,White
+3277,No,Yes,Yes,No,,33.0,Others,
+3278,Yes,No,Yes,No,,37.0,Female,White
+3279,Don't know,Don't know,No,No,,30.0,Male,White
+3280,No,No,No,No,,22.0,Male,
+3281,Don't know,Don't know,Yes,Don't know,,29.0,Male,Black or African American
+3282,Don't know,Don't know,No,No,,51.0,Female,
+3283,Yes,Don't know,Yes,No,,24.0,Male,White
+3284,Yes,Yes,Yes,Yes,,37.0,Male,White
+3285,Yes,Yes,No,Yes,,46.0,Male,White
+3286,Don't know,Don't know,Don't know,Don't know,,43.0,Male,
+3287,Yes,No,Yes,No,,50.0,Male,White
+3288,Yes,Yes,Yes,Yes,,30.0,Male,White
+3289,Don't know,No,No,No,,27.0,Male,White
+3290,Don't know,Don't know,Don't know,Don't know,,31.0,Male,
+3291,Yes,Don't know,Yes,No,,32.0,Male,White
+3292,Yes,No,Yes,No,,34.0,Male,White
+3293,Don't know,Don't know,Don't know,Don't know,,49.0,Male,White
+3294,Don't know,Don't know,Don't know,Don't know,,37.0,Male,
+3295,Yes,Yes,Yes,Yes,,35.0,Female,White
+3296,Don't know,No,Yes,Yes,,33.0,Others,
+3297,No,No,No,Yes,,32.0,Male,
+3298,Yes,Yes,No,No,,31.0,Male,White
+3299,Yes,No,Yes,Yes,,33.0,Male,White
+3300,Yes,No,Yes,No,,40.0,Female,White
+3301,Yes,Yes,No,Yes,,40.0,Male,White
+3302,Don't know,Don't know,No,Don't know,,56.0,Male,White
+3303,Yes,No,Yes,No,,28.0,Others,White
+3304,Don't know,No,No,No,,25.0,Male,White
+3305,Yes,Yes,Yes,No,,48.0,Male,White
+3306,Yes,Yes,Yes,Yes,,43.0,Female,White
+3307,Yes,No,No,No,,29.0,Male,White
+3308,Don't know,Yes,Yes,No,,36.0,Others,White
+3309,Yes,Don't know,Yes,No,,34.0,Male,White
+3310,Don't know,Don't know,Don't know,Yes,,31.0,Female,White
+3311,Yes,No,No,No,,33.0,Male,
+3312,Yes,Yes,Don't know,No,,49.0,Male,White
+3313,Don't know,Don't know,Don't know,Don't know,,38.0,Male,
+3314,No,No,No,No,,30.0,Female,
+3315,Don't know,Don't know,Yes,Don't know,,36.0,Male,
+3316,Yes,Yes,Yes,No,,32.0,Female,White
+3317,Don't know,Don't know,Don't know,Don't know,,36.0,Male,White
+3318,Yes,No,Yes,No,,40.0,Female,White
+3319,No,No,No,Yes,,28.0,Male,
+3320,No,Don't know,Don't know,No,,21.0,Female,
+3321,Yes,Yes,Yes,Yes,,46.0,Male,White
+3322,Don't know,No,Yes,No,,20.0,Male,
+3323,Yes,Yes,Yes,Yes,,30.0,Male,White
+3324,Don't know,Don't know,No,No,,44.0,Female,White
+3325,Don't know,Don't know,Yes,Don't know,,34.0,Male,
+3326,Don't know,Don't know,Yes,Don't know,,38.0,Others,White
+3327,Don't know,No,Yes,No,,35.0,Male,White
+3328,Don't know,Don't know,Don't know,Don't know,,45.0,Female,White
+3329,Don't know,No,Yes,Yes,,35.0,Male,
+3330,Yes,No,No,Yes,,30.0,Male,White
+3331,Don't know,Don't know,No,Yes,,22.0,Female,Asian
+3332,Don't know,Don't know,No,Don't know,,33.0,Male,White
+3333,Don't know,Don't know,Don't know,Don't know,,30.0,Male,
+3334,Yes,Yes,No,Yes,,41.0,Male,White
+3335,Don't know,Don't know,No,Yes,,32.0,Male,White
+3336,Yes,Don't know,No,Yes,,48.0,Male,White
+3337,Yes,No,No,No,,32.0,Male,
+3338,Don't know,Don't know,Don't know,No,,30.0,Male,White
+3339,Yes,No,Yes,Yes,,45.0,Female,White
+3340,Don't know,Don't know,Yes,Don't know,,31.0,Female,White
+3341,No,No,Don't know,No,,32.0,Others,
+3342,Don't know,No,Yes,Yes,,30.0,Male,White
+3343,Yes,No,Yes,No,,32.0,Male,White
+3344,Yes,No,Yes,Yes,,37.0,Female,White
+3345,Don't know,Don't know,Don't know,Don't know,,30.0,Male,White
+3346,Don't know,Don't know,Yes,Don't know,,31.0,Others,
+3347,Yes,No,No,No,,30.0,Male,White
+3348,No,No,Don't know,No,,35.0,Female,
+3349,Yes,Don't know,No,Yes,,37.0,Male,White
+3350,No,No,Don't know,Yes,,26.0,Male,
+3351,Yes,No,Don't know,Yes,,50.0,Male,White
+3352,Don't know,No,Don't know,No,,32.0,Male,White
+3353,Don't know,Yes,No,No,,32.0,Male,White
+3354,Don't know,No,No,No,,23.0,Male,White
+3355,Don't know,Yes,Don't know,Yes,,40.0,Female,Others
+3356,Don't know,Don't know,No,No,,36.0,Male,White
+3357,Don't know,No,Yes,Yes,,24.0,Female,White
+3358,Yes,Don't know,No,Yes,,29.0,Female,White
+3359,Yes,Don't know,No,No,,28.0,Male,White
+3360,No,Don't know,No,Yes,,51.0,Male,White
+3361,Don't know,Don't know,No,Yes,,36.0,Male,White
+3362,Yes,Yes,No,No,,40.0,Male,White
+3363,Yes,Yes,Don't know,No,,39.0,Male,
+3364,Don't know,Don't know,No,Yes,,32.0,Female,
+3365,No,No,Don't know,No,,45.0,Male,White
+3366,Don't know,Don't know,No,No,,39.0,Male,White
+3367,Don't know,Don't know,Yes,Don't know,,33.0,Male,White
+3368,Yes,Yes,Yes,No,,46.0,Male,White
+3369,Don't know,Don't know,Don't know,No,,34.0,Male,White
+3370,Don't know,No,No,No,,30.0,Male,
+3371,Don't know,No,Yes,No,,31.0,Male,White
+3372,Yes,No,Yes,No,,28.0,Male,White
+3373,Don't know,Don't know,Don't know,Don't know,,31.0,Male,
+3374,Yes,No,Don't know,Yes,,32.0,Male,
+3375,Don't know,Don't know,Don't know,No,,39.0,Male,White
+3376,Yes,Yes,No,Yes,,45.0,Female,White
+3377,Don't know,Don't know,Don't know,Don't know,,26.0,Male,White
+3378,Yes,Yes,Don't know,Yes,,36.0,Female,White
+3379,Yes,No,Yes,Yes,,26.0,Male,White
+3380,Don't know,No,Don't know,Yes,,55.0,Female,White
+3381,Don't know,Don't know,Yes,Don't know,,32.0,Female,
+3382,Yes,No,Don't know,Yes,,40.0,Others,White
+3383,Don't know,No,Yes,Yes,,27.0,Female,White
+3384,Yes,Yes,Yes,No,,45.0,Female,White
+3385,No,No,Yes,Yes,,34.0,Female,White
+3386,Don't know,No,No,Yes,,31.0,Male,White
+3387,Don't know,Don't know,Yes,Don't know,,29.0,Female,
+3388,Don't know,Don't know,Don't know,Don't know,,31.0,Male,
+3389,Yes,Don't know,Don't know,No,,40.0,Male,White
+3390,Yes,No,No,No,,41.0,Male,White
+3391,Don't know,Don't know,No,No,,39.0,Male,White
+3392,Yes,Don't know,No,No,,39.0,Male,White
+3393,Don't know,Don't know,Yes,Don't know,,35.0,Female,White
+3394,Don't know,Don't know,No,No,,37.0,Male,White
+3395,Yes,No,No,Yes,,32.0,Male,
+3396,Don't know,Don't know,No,No,,24.0,Male,
+3397,Don't know,Don't know,No,No,,40.0,Female,
+3398,Yes,No,Yes,Yes,,25.0,Male,White
+3399,Yes,Yes,No,Yes,,49.0,Male,
+3400,Don't know,No,Yes,No,,28.0,Male,White
+3401,Don't know,Don't know,Don't know,Yes,,22.0,Male,White
+3402,Yes,Yes,No,No,,41.0,Male,Others
+3403,No,Don't know,Don't know,No,,36.0,Male,White
+3404,Don't know,Don't know,No,No,,32.0,Male,White
+3405,Don't know,No,Yes,Yes,,23.0,Male,White
+3406,Yes,Don't know,Yes,Yes,,53.0,Male,White
+3407,Yes,No,Yes,Yes,,34.0,Male,White
+3408,No,No,Don't know,Yes,,30.0,Male,White
+3409,Don't know,Don't know,Yes,Don't know,,23.0,Male,White
+3410,Don't know,Don't know,Yes,No,,30.0,Male,White
+3411,Yes,Yes,Yes,No,,22.0,Female,Others
+3412,Don't know,No,Yes,No,,27.0,Female,White
+3413,Don't know,Don't know,No,Don't know,,47.0,Others,
+3414,Yes,No,Yes,Yes,,33.0,Female,White
+3415,Yes,Yes,No,Yes,,28.0,Male,White
+3416,Yes,Don't know,Don't know,Yes,,36.0,Male,White
+3417,Don't know,Don't know,Don't know,Yes,,25.0,Female,White
+3418,Don't know,No,Don't know,No,,30.0,Female,White
+3419,Yes,Yes,No,No,,39.0,Male,White
+3420,Yes,No,Don't know,Yes,,31.0,Others,White
+3421,Yes,Yes,Don't know,No,,48.0,Male,White
+3422,Don't know,Don't know,No,No,,43.0,Male,White
+3423,Yes,No,Don't know,No,,35.0,Male,White
+3424,Yes,No,Don't know,No,,31.0,Female,White
+3425,No,No,No,Yes,,28.0,Male,
+3426,Don't know,Don't know,No,No,,27.0,Male,White
+3427,Don't know,Don't know,No,No,,28.0,Male,White
+3428,Yes,Yes,Don't know,Yes,,43.0,Female,White
+3429,Yes,No,Yes,No,,31.0,Female,White
+3430,Yes,Don't know,No,Yes,,37.0,Male,White
+3431,Yes,No,Yes,Yes,,36.0,Male,White
+3432,Yes,Yes,Yes,Yes,,42.0,Female,White
+3433,Yes,Yes,No,Yes,,29.0,Female,Others
+3434,Yes,Yes,Yes,No,,41.0,Female,White
+3435,Don't know,Don't know,No,Don't know,,37.0,Male,White
+3436,Yes,Don't know,No,No,,53.0,Male,White
+3437,Don't know,Don't know,Don't know,Don't know,,43.0,Male,White
+3438,Don't know,Don't know,Don't know,No,,44.0,Male,White
+3439,Yes,Yes,No,No,,37.0,Female,Others
+3440,Yes,Don't know,Yes,No,,57.0,Female,White
+3441,Yes,Yes,No,Yes,,47.0,Male,White
+3442,Yes,Yes,No,Yes,,34.0,Male,White
+3443,Yes,No,Yes,Yes,,29.0,Male,White
+3444,Don't know,No,Don't know,Don't know,,38.0,Male,White
+3445,Don't know,Don't know,No,Yes,,41.0,Male,
+3446,Yes,No,Yes,Yes,,40.0,Male,White
+3448,Yes,No,Don't know,No,,30.0,Male,White
+3450,Yes,Yes,Don't know,Yes,,57.0,Female,
+3451,Yes,Don't know,Yes,No,,29.0,Male,White
+3452,Yes,No,No,Yes,,46.0,Male,White
+3453,No,No,No,Yes,,34.0,Male,
+3454,Yes,Yes,Yes,Yes,,29.0,Others,White
+3455,Yes,Don't know,No,Yes,,55.0,Male,White
+3456,Yes,No,Yes,No,,29.0,Others,
+3457,Don't know,No,Yes,No,,35.0,Male,
+3458,Don't know,No,Don't know,No,,33.0,Male,
+3459,Yes,Yes,Don't know,Yes,,37.0,Male,White
+3460,Yes,Yes,Yes,Yes,,45.0,Male,White
+3461,No,No,Yes,No,,31.0,Male,
+3462,Don't know,Don't know,No,Don't know,,38.0,Female,
+3463,Don't know,Don't know,Don't know,Yes,,26.0,Male,
+3464,No,No,Don't know,Yes,,27.0,Female,
+3465,Yes,No,Yes,No,,35.0,Male,
+3466,Yes,Yes,Yes,No,,47.0,Male,White
+3467,Yes,Don't know,Yes,Yes,,37.0,Male,Others
+3468,No,No,Don't know,No,,32.0,Male,
+3469,Don't know,Don't know,Yes,Don't know,,46.0,Male,
+3470,Yes,Don't know,Yes,Yes,,37.0,Male,White
+3471,Yes,Yes,Yes,No,,36.0,Male,White
+3472,Don't know,Don't know,No,Don't know,,29.0,Male,
+3473,Yes,No,Don't know,Yes,,45.0,Male,Others
+3474,Don't know,Don't know,No,No,,30.0,Male,White
+3475,No,No,No,Yes,,46.0,Male,
+3476,No,No,No,No,,29.0,Male,
+3477,Don't know,No,Don't know,Yes,,26.0,Male,
+3478,Don't know,Don't know,Yes,Don't know,,26.0,Male,White
+3479,Don't know,Don't know,Yes,No,,44.0,Male,
+3480,Yes,Don't know,Don't know,No,,32.0,Male,White
+3481,Don't know,No,Don't know,No,,34.0,Male,
+3482,Yes,Yes,Don't know,Yes,,19.0,Male,
+3483,Don't know,Don't know,Yes,Yes,,38.0,Male,
+3484,Don't know,No,Yes,No,,61.0,Male,White
+3485,Yes,Don't know,No,No,,44.0,Male,White
+3486,Don't know,Don't know,Yes,Don't know,,32.0,Female,White
+3487,Yes,Yes,No,No,,31.0,Male,
+3488,Yes,Yes,Don't know,Don't know,,30.0,Female,White
+3489,Don't know,Don't know,Don't know,Don't know,,52.0,Male,
+3490,Don't know,No,Yes,No,,44.0,Male,Others
+3491,Don't know,No,Yes,No,,39.0,Male,White
+3492,Don't know,Don't know,Don't know,Don't know,,36.0,Male,
+3493,Don't know,Don't know,Don't know,Don't know,,30.0,Others,
+3494,Don't know,No,Don't know,No,,39.0,Male,White
+3495,Yes,Yes,Yes,Yes,,33.0,Male,White
+3496,Don't know,Don't know,No,Don't know,,37.0,Male,
+3497,No,No,Don't know,No,,34.0,Male,
+3498,No,Yes,Don't know,No,,28.0,Male,
+3499,No,No,Yes,No,,43.0,Female,
+3500,Don't know,No,No,Yes,,42.0,Male,White
+3501,Yes,Yes,Yes,Yes,,35.0,Male,Others
+3502,Yes,Yes,No,No,,28.0,Female,White
+3503,Yes,Don't know,Yes,Yes,,37.0,Male,White
+3504,Don't know,No,Yes,No,,35.0,Female,
+3505,Don't know,Don't know,No,Yes,,31.0,Male,
+3506,Don't know,Don't know,Don't know,Don't know,,24.0,Male,
+3507,Yes,No,No,No,,27.0,Female,Asian
+3508,Yes,Yes,No,Yes,,36.0,Male,White
+3509,Don't know,Don't know,No,Yes,,33.0,Male,White
+3510,Don't know,Don't know,Yes,Don't know,,26.0,Male,Others
+3511,Yes,Yes,No,Yes,,26.0,Male,White
+3512,Don't know,No,Yes,No,,24.0,Male,Asian
+3513,Yes,Yes,Yes,No,,34.0,Male,White
+3514,Yes,No,Don't know,No,,25.0,Male,
+3515,Don't know,No,Yes,No,,19.0,Female,Asian
+3516,Yes,Don't know,No,Yes,,28.0,Male,Asian
+3517,Yes,No,Yes,No,,26.0,Male,White
+3518,No,No,Yes,Yes,,32.0,Male,
+3519,Don't know,No,Yes,Yes,,23.0,Male,White
+3520,Yes,Yes,No,No,,46.0,Male,White
+3521,Don't know,No,Don't know,No,,28.0,Male,White
+3522,Don't know,Don't know,Yes,Don't know,,38.0,Male,
+3523,Don't know,No,Yes,No,,30.0,Female,White
+3524,Don't know,No,No,Yes,,26.0,Male,
+3525,Yes,No,No,Yes,,37.0,Female,
+3526,Yes,Yes,Yes,Yes,,35.0,Male,White
+3527,Yes,Yes,Yes,No,,26.0,Female,Others
+3528,Yes,Yes,No,No,,29.0,Female,
+3529,Yes,Yes,Yes,No,,57.0,Male,White
+3530,Yes,Yes,No,Yes,,38.0,Male,White
+3531,Yes,Yes,Yes,Yes,,20.0,Female,
+3532,Don't know,No,Don't know,Yes,,41.0,Male,White
+3533,Yes,No,Don't know,No,,43.0,Male,White
+3534,Yes,Yes,Yes,No,,35.0,Male,White
+3535,Don't know,No,Don't know,Yes,,40.0,Female,White
+3536,Don't know,Don't know,Don't know,Yes,,28.0,Male,
+3537,Yes,Yes,Yes,Yes,,42.0,Male,White
+3538,Yes,Yes,No,No,,39.0,Male,White
+3539,Yes,Yes,Yes,Yes,,28.0,Male,White
+3540,No,Don't know,No,No,,22.0,Male,
+3541,Yes,Yes,No,Yes,,29.0,Female,White
+3542,Don't know,Don't know,Yes,Don't know,,45.0,Male,White
+3543,No,No,No,No,,27.0,Female,
+3544,Don't know,No,No,Yes,,32.0,Female,
+3545,Yes,Don't know,Yes,No,,28.0,Male,White
+3546,Yes,Yes,Yes,Yes,,31.0,Male,White
+3547,Don't know,Don't know,Yes,Don't know,,28.0,Male,
+3548,No,No,No,No,,24.0,Female,
+3549,Yes,Yes,Don't know,No,,27.0,Female,Black or African American
+3550,Yes,Yes,No,Yes,,36.0,Female,
+3551,No,No,Yes,No,,37.0,Male,White
+3552,Don't know,Don't know,No,Don't know,,27.0,Female,
+3553,Yes,Don't know,No,Yes,,53.0,Female,White
+3554,Don't know,No,No,No,,32.0,Male,
+3555,Don't know,No,Yes,Yes,,25.0,Female,Others
+3556,Don't know,Don't know,Yes,Yes,,29.0,Female,White
+3557,Yes,Yes,No,No,,47.0,Male,White
+3558,Don't know,Don't know,No,Don't know,,36.0,Male,White
+3559,Yes,Don't know,Don't know,Yes,,61.0,Male,White
+3560,Yes,Don't know,Don't know,No,,28.0,Male,White
+3561,Yes,No,Don't know,Yes,,31.0,Male,White
+3562,No,No,No,Yes,,35.0,Male,
+3563,Don't know,Don't know,Yes,No,,40.0,Male,White
+3564,Don't know,Don't know,No,Don't know,,32.0,Male,White
+3565,Yes,Don't know,No,Yes,,41.0,Male,White
+3566,Yes,Yes,Yes,No,,34.0,Male,White
+3567,Don't know,No,Yes,Yes,,31.0,Female,White
+3568,Yes,Don't know,Yes,Yes,,35.0,Female,Black or African American
+3569,Yes,Yes,Don't know,Yes,,27.0,Female,Black or African American
+3570,Yes,Yes,No,Yes,,42.0,Female,White
+3571,Don't know,Don't know,No,Don't know,,67.0,Female,White
+3572,Yes,No,Yes,No,,56.0,Male,White
+3573,Yes,No,Yes,No,,27.0,Female,Black or African American
+3574,Yes,Don't know,Don't know,Yes,,37.0,Female,
+3575,Don't know,Don't know,Don't know,Don't know,,40.0,Male,
+3576,Yes,Yes,Yes,Yes,,30.0,Female,
+3577,Yes,Don't know,Don't know,Yes,,39.0,Male,White
+3578,Don't know,No,Yes,No,,30.0,Female,White
+3579,Don't know,Don't know,No,Yes,,31.0,Male,
+3580,Don't know,Don't know,Yes,Don't know,,36.0,Male,
+3581,Yes,No,No,No,,46.0,Male,
+3582,Yes,Yes,Yes,No,,45.0,Female,White
+3583,Don't know,Don't know,Don't know,Don't know,,25.0,Male,
+3584,Don't know,No,Yes,No,,38.0,Female,Others
+3585,Yes,Don't know,No,No,,41.0,Male,White
+3586,Yes,Yes,Yes,Yes,,37.0,Male,White
+3587,Don't know,No,No,Yes,,33.0,Female,Others
+3588,Yes,Yes,Yes,Yes,,28.0,Others,White
+3589,Don't know,Don't know,Yes,Don't know,,34.0,Female,White
+3590,Yes,No,Yes,Yes,,29.0,Female,
+3591,Yes,No,Yes,Yes,,28.0,Female,White
+3592,Don't know,Don't know,Yes,Don't know,,41.0,Male,
+3593,Yes,Yes,Yes,No,,38.0,Male,White
+3594,Don't know,Don't know,No,Don't know,,37.0,Others,
+3595,Yes,Yes,No,Yes,,42.0,Male,White
+3596,Yes,No,Yes,No,,28.0,Female,White
+3597,Yes,Yes,Yes,No,,30.0,Male,White
+3598,Yes,Yes,Yes,Yes,,25.0,Female,
+3599,Don't know,Don't know,Don't know,Don't know,,54.0,Male,
+3600,Don't know,Don't know,No,Don't know,,24.0,Male,
+3601,Don't know,Don't know,Don't know,Don't know,,32.0,Male,
+3602,Yes,Yes,Don't know,Yes,,44.0,Male,White
+3603,Yes,No,Yes,Yes,,28.0,Others,White
+3604,Yes,Don't know,Don't know,Yes,,41.0,Female,White
+3605,Yes,Yes,No,No,,38.0,Male,White
+3606,Yes,Don't know,Yes,Yes,,37.0,Male,White
+3607,Don't know,Don't know,Don't know,No,,36.0,Male,
+3608,Don't know,Don't know,No,No,,33.0,Male,White
+3609,Yes,Yes,Yes,Yes,,35.0,Female,White
+3610,Don't know,Don't know,No,Don't know,,31.0,Male,
+3611,Yes,No,Yes,No,,43.0,Male,White
+3612,Don't know,Yes,Don't know,No,,34.0,Male,White
+3613,No,Yes,Don't know,No,,44.0,Female,White
+3614,Yes,Yes,Yes,Yes,,38.0,Male,White
+3615,No,No,No,No,,55.0,Male,Others
+3616,Don't know,Don't know,Don't know,No,,25.0,Male,
+3617,Yes,Don't know,Yes,No,,37.0,Male,White
+3618,Yes,Yes,No,Yes,,39.0,Male,White
+3619,Yes,Yes,Don't know,No,,23.0,Male,White
+3620,Don't know,Don't know,No,Don't know,,34.0,Female,White
+3621,Yes,No,Yes,Yes,,43.0,Male,White
+3622,Don't know,Don't know,Yes,No,,29.0,Male,White
+3623,No,No,Don't know,Yes,,25.0,Male,White
+3624,Yes,No,Don't know,Yes,,36.0,Male,White
+3625,Yes,No,Don't know,No,,33.0,Male,
+3626,Yes,Don't know,No,Yes,,34.0,Male,White
+3627,Yes,Yes,Don't know,Yes,,28.0,Male,White
+3628,Yes,Yes,No,No,,54.0,Others,White
+3629,Don't know,No,No,No,,39.0,Male,White
+3630,Yes,Yes,Yes,Yes,,37.0,Male,White
+3631,Don't know,Don't know,Don't know,Yes,,29.0,Male,White
+3632,Don't know,Yes,Don't know,Yes,,31.0,Male,White
+3633,Yes,Don't know,Yes,No,,49.0,Male,White
+3634,Yes,Don't know,No,No,,43.0,Male,White
+3635,Yes,Yes,Yes,Yes,,38.0,Others,White
+3636,Yes,Don't know,No,Yes,,35.0,Female,White
+3637,Yes,Yes,Yes,No,,23.0,Male,White
+3638,Don't know,Don't know,No,Yes,,42.0,Male,
+3639,Yes,Yes,Yes,Yes,,36.0,Male,White
+3640,Yes,Don't know,Yes,No,,38.0,Male,White
+3641,Don't know,Yes,Don't know,Yes,,41.0,Male,
+3642,Yes,Don't know,Yes,No,,37.0,Female,White
+3643,Don't know,Yes,Yes,No,,25.0,Male,White
+3644,Yes,Yes,No,No,,33.0,Male,White
+3645,Don't know,Don't know,No,Yes,,35.0,Others,White
+3646,Yes,Yes,Yes,Yes,,32.0,Female,White
+3647,Don't know,Don't know,Don't know,Don't know,,45.0,Others,
+3648,No,No,Yes,Yes,,25.0,Female,
+3649,Yes,Yes,Yes,Yes,,40.0,Female,White
+3650,Yes,Don't know,No,Yes,,34.0,Male,White
+3651,Yes,Yes,No,No,,28.0,Male,White
+3652,Yes,Don't know,Yes,No,,49.0,Male,White
+3653,Yes,Yes,Yes,Yes,,33.0,Female,White
+3654,Don't know,Don't know,Yes,Don't know,,41.0,Male,White
+3655,Yes,No,Don't know,No,,36.0,Male,White
+3656,No,Yes,Yes,Yes,,37.0,Male,White
+3657,Don't know,Don't know,Yes,Yes,,39.0,Male,White
+3658,Don't know,No,Don't know,Yes,,49.0,Female,White
+3659,Don't know,Yes,No,No,,33.0,Male,White
+3660,Don't know,No,Don't know,No,,29.0,Others,
+3661,Don't know,Don't know,Don't know,Don't know,,34.0,Male,White
+3662,Don't know,Don't know,Don't know,Yes,,29.0,Male,
+3663,Yes,No,Don't know,No,,25.0,Male,White
+3664,Don't know,Don't know,Yes,No,,35.0,Male,White
+3665,Don't know,Don't know,No,Don't know,,32.0,Male,White
+3666,Yes,Yes,Yes,No,,21.0,Male,White
+3667,Yes,No,No,No,,43.0,Male,White
+3668,Yes,Yes,Yes,Yes,,31.0,Female,White
+3669,Don't know,Yes,Yes,No,,27.0,Female,White
+3670,Yes,No,Yes,Yes,,23.0,Male,White
+3671,Yes,Yes,No,No,,28.0,Male,White
+3672,Yes,Yes,Yes,No,,37.0,Female,Others
+3673,Don't know,Don't know,No,No,,30.0,Male,White
+3674,Yes,Yes,No,No,,30.0,Male,White
+3675,Yes,No,Yes,Yes,,30.0,Female,White
+3676,Don't know,Don't know,Don't know,Don't know,,32.0,Female,White
+3677,No,Don't know,Yes,No,,35.0,Male,White
+3678,Yes,Yes,Yes,Yes,,45.0,Female,Others
+3679,No,No,Yes,No,,31.0,Female,
+3680,Yes,Yes,Yes,Yes,,34.0,Female,White
+3681,No,No,Don't know,No,,30.0,Male,Others
+3682,Yes,No,Yes,No,,33.0,Others,White
+3683,Don't know,No,Don't know,Yes,,32.0,Male,
+3684,Don't know,Yes,Don't know,No,,28.0,Female,White
+3685,No,No,No,No,,28.0,Male,Others
+3686,Yes,Don't know,Yes,No,,33.0,Male,White
+3687,Yes,No,Don't know,Yes,,28.0,Female,Asian
+3688,Don't know,No,Yes,No,,28.0,Female,White
+3689,Don't know,Don't know,No,Yes,,43.0,Male,White
+3690,Don't know,Don't know,No,Yes,,31.0,Female,Asian
+3691,Yes,Don't know,Don't know,No,,40.0,Female,White
+3692,Yes,Don't know,Don't know,No,,42.0,Female,White
+3693,Yes,Don't know,Don't know,No,,38.0,Male,White
+3694,Don't know,No,No,No,,39.0,Male,White
+3695,Don't know,Don't know,Yes,Yes,,21.0,Male,White
+3696,Yes,Yes,Don't know,Yes,,32.0,Female,Others
+3697,Don't know,No,Don't know,No,,32.0,Male,White
+3698,Yes,Yes,Yes,Yes,,40.0,Male,White
+3699,Don't know,Don't know,Yes,Don't know,,35.0,Male,White
+3700,Yes,No,Don't know,No,,28.0,Male,White
+3701,Yes,Yes,Yes,Yes,,25.0,Female,White
+3702,Yes,Yes,No,No,,37.0,Male,White
+3703,Yes,Yes,Yes,Yes,,40.0,Others,White
+3704,Don't know,No,Yes,No,,31.0,Female,White
+3705,Don't know,Don't know,Yes,Don't know,,47.0,Female,
+3706,Yes,No,Yes,No,,26.0,Others,White
+3707,Yes,Don't know,Yes,Yes,,27.0,Female,White
+3708,Don't know,No,No,No,,46.0,Male,
+3709,Yes,No,Yes,No,,22.0,Female,Black or African American
+3710,No,No,No,Yes,,37.0,Female,
+3711,Yes,Yes,Yes,Yes,,27.0,Male,White
+3712,Yes,Don't know,Don't know,No,,28.0,Female,Others
+3713,Yes,No,Yes,No,,32.0,Female,White
+3714,Yes,Don't know,No,Yes,,33.0,Male,White
+3715,Yes,Yes,Yes,Yes,,27.0,Female,White
+3716,Yes,Don't know,Yes,No,,38.0,Female,White
+3717,Don't know,Don't know,Yes,Don't know,,31.0,Male,White
+3718,Yes,No,Yes,No,,28.0,Female,White
+3719,Yes,Yes,Don't know,No,,32.0,Female,White
+3720,No,No,Don't know,No,,30.0,Female,White
+3721,Yes,No,Yes,Yes,,26.0,Female,White
+3722,Don't know,Yes,Don't know,No,,41.0,Female,White
+3723,Don't know,No,Don't know,Yes,,39.0,Female,White
+3724,Yes,Don't know,Don't know,No,,37.0,Others,White
+3725,Don't know,Yes,Don't know,No,,21.0,Female,Asian
+3726,Don't know,Don't know,Don't know,Don't know,,38.0,Male,White
+3727,Yes,No,No,No,,35.0,Female,White
+3728,Yes,Yes,Yes,No,,33.0,Female,
+3729,Yes,Don't know,Don't know,No,,38.0,Male,
+3730,No,No,Yes,Yes,,29.0,Female,White
+3731,Yes,Yes,Yes,Yes,,25.0,Female,White
+3732,Don't know,Don't know,Don't know,Yes,,41.0,Female,White
+3733,Yes,No,Yes,Yes,,37.0,Female,White
+3734,Don't know,No,Yes,Yes,,29.0,Male,White
+3735,Yes,Don't know,No,Yes,,45.0,Female,White
+3736,Don't know,No,No,Yes,,45.0,Others,
+3737,Yes,Yes,Don't know,Yes,,45.0,Female,White
+3738,Yes,Yes,Yes,Yes,,30.0,Others,White
+3739,Don't know,No,No,Yes,,27.0,Male,Others
+3740,Don't know,Don't know,No,No,,36.0,Male,White
+3741,Yes,Yes,Yes,No,,44.0,Female,White
+3742,Yes,Yes,Yes,Yes,,35.0,Female,White
+3743,Don't know,No,Don't know,No,,42.0,Others,White
+3744,Yes,Yes,Yes,No,,26.0,Male,White
+3745,Don't know,Don't know,No,Don't know,,33.0,Female,Asian
+3746,Yes,No,Don't know,Yes,,25.0,Others,Others
+3747,Yes,No,Yes,No,,36.0,Female,White
+3748,Yes,Yes,Yes,Yes,,32.0,Female,White
+3749,Yes,Yes,Yes,Yes,,29.0,Female,White
+3750,Don't know,Yes,No,Yes,,29.0,Female,White
+3751,Yes,Don't know,No,No,,43.0,Male,White
+3752,Don't know,Don't know,Don't know,Don't know,,37.0,Male,
+3753,No,Don't know,No,No,,26.0,Male,
+3754,Yes,No,Yes,Yes,,46.0,Male,White
+3755,Don't know,Don't know,Yes,Don't know,,35.0,Female,White
+3756,Don't know,Don't know,Don't know,Don't know,,37.0,Male,White
+3757,Yes,Yes,Yes,Yes,,30.0,Female,White
+3758,Yes,Don't know,Yes,No,,36.0,Male,White
+3759,Yes,Yes,Yes,No,,31.0,Female,White
+3760,Don't know,No,Don't know,No,,42.0,Male,
+3761,Don't know,Don't know,No,Don't know,,41.0,Male,Others
+3762,Don't know,Don't know,Don't know,Yes,,33.0,Female,White
+3763,Yes,Yes,Don't know,No,,26.0,Male,White
+3764,No,No,Don't know,No,,37.0,Male,White
+3765,Yes,Yes,Yes,Yes,,36.0,Others,White
+3766,Don't know,No,No,No,,35.0,Male,
+3767,Don't know,Don't know,No,No,,45.0,Male,
+3768,No,No,Don't know,No,,23.0,Male,
+3769,Yes,No,No,Yes,,26.0,Male,White
+3770,Don't know,Don't know,Yes,Don't know,,23.0,Male,
+3771,No,No,No,No,,26.0,Male,
+3772,Don't know,No,Don't know,Yes,,34.0,Male,White
+3773,Don't know,Don't know,No,No,,22.0,Male,
+3774,Yes,No,Don't know,Yes,,42.0,Female,White
+3775,No,No,Don't know,No,,40.0,Male,
+3776,Don't know,Don't know,Don't know,No,,42.0,Male,
+3777,Yes,No,Don't know,No,,35.0,Male,White
+3778,No,No,Yes,No,,36.0,Male,White
+3779,Yes,Don't know,No,Yes,,37.0,Male,Others
+3780,Yes,Yes,Yes,Yes,,31.0,Female,White
+3781,Yes,Don't know,Don't know,Yes,,27.0,Male,White
+3782,Don't know,Don't know,No,No,,38.0,Male,
+3783,No,No,Yes,Yes,,32.0,Male,White
+3784,Yes,Don't know,Yes,No,,23.0,Others,White
+3785,No,Don't know,Yes,No,,51.0,Male,White
+3786,Don't know,Don't know,Yes,No,,26.0,Female,
+3787,Don't know,No,Don't know,No,,19.0,Female,White
+3788,Yes,Don't know,Yes,No,,44.0,Male,White
+3789,Yes,Don't know,Yes,Yes,,42.0,Male,White
+3790,Yes,No,Yes,Yes,,26.0,Male,White
+3791,Yes,No,Yes,No,,38.0,Male,White
+3792,Yes,Yes,Yes,Yes,,26.0,Female,White
+3793,Don't know,Don't know,Yes,Don't know,,40.0,Male,
+3794,Yes,Yes,Don't know,No,,32.0,Male,White
+3795,Yes,Don't know,Yes,No,,39.0,Male,White
+3796,Yes,No,Yes,Yes,,44.0,Female,White
+3797,Yes,Don't know,Yes,No,,33.0,Female,White
+3798,No,No,Yes,No,,38.0,Male,
+3799,Don't know,No,Yes,No,,42.0,Male,
+3800,Don't know,Don't know,Yes,Don't know,,57.0,Male,White
+3801,No,No,Don't know,No,,28.0,Male,
+3802,No,No,Yes,Yes,,31.0,Male,
+3803,Don't know,Don't know,No,Don't know,,34.0,Male,White
+3804,Don't know,Don't know,No,No,,35.0,Male,
+3805,Don't know,No,No,Yes,,30.0,Male,White
+3806,Yes,No,Yes,Yes,,30.0,Male,White
+3807,Don't know,Don't know,Yes,Don't know,,35.0,Male,
+3808,Don't know,No,No,Yes,,40.0,Others,White
+3809,Don't know,Don't know,No,No,,39.0,Male,White
+3810,Don't know,No,No,No,,24.0,Male,White
+3811,Yes,Don't know,Don't know,Yes,,42.0,Male,Others
+3812,Yes,No,Don't know,No,,35.0,Male,White
+3813,Yes,Don't know,Yes,No,,34.0,Male,White
+3814,Don't know,Don't know,Yes,No,,33.0,Female,White
+3815,Yes,Don't know,No,No,,37.0,Male,White
+3816,Yes,No,Yes,Yes,,36.0,Male,White
+3817,Yes,No,Don't know,No,,47.0,Female,White
+3818,Don't know,No,No,Yes,,42.0,Male,White
+3819,Yes,Yes,Yes,Yes,,29.0,Others,Others
+3820,Don't know,Don't know,Don't know,Don't know,,38.0,Female,
+3821,No,No,No,Yes,,30.0,Male,
+3822,Don't know,Don't know,Yes,Don't know,,30.0,Others,White
+3823,No,No,Don't know,No,,36.0,Male,
+3824,Yes,Yes,Yes,Yes,,24.0,Female,White
+3825,Yes,Yes,Don't know,Yes,,41.0,Male,White
+3826,Yes,Yes,Yes,Yes,,48.0,Female,White
+3827,Yes,Yes,Yes,Yes,,31.0,Male,White
+3828,Yes,Yes,Don't know,No,,65.0,Male,
+3829,Don't know,Don't know,Don't know,No,,34.0,Others,White
+3830,Don't know,Don't know,No,No,,55.0,Female,White
+3831,Don't know,Don't know,Yes,Don't know,,33.0,Female,White
+3832,Yes,No,Yes,Yes,,41.0,Female,White
+3833,Yes,Don't know,Yes,No,,24.0,Female,White
+3834,Don't know,Don't know,Don't know,Yes,,27.0,Female,White
+3835,Yes,Don't know,Don't know,No,,30.0,Male,
+3836,Yes,Yes,Yes,Yes,,37.0,Male,White
+3837,No,No,Yes,No,,61.0,Male,White
+3838,Don't know,Don't know,Don't know,Don't know,,45.0,Male,
+3839,Don't know,Don't know,Yes,No,,29.0,Male,White
+3840,Yes,No,Yes,Yes,,41.0,Male,White
+3841,Don't know,No,No,No,,39.0,Male,
+3842,Don't know,No,Yes,No,,30.0,Male,White
+3843,Don't know,Don't know,No,No,,46.0,Male,
+3844,Don't know,No,Don't know,No,,42.0,Male,
+3845,Yes,Yes,Yes,Yes,,29.0,Female,
+3846,Yes,Yes,Yes,Yes,,34.0,Female,
+3847,Don't know,Don't know,Yes,Don't know,,52.0,Male,White
+3848,Yes,Yes,Don't know,No,,36.0,Male,White
+3849,Don't know,No,No,Yes,,34.0,Male,
+3850,Don't know,Don't know,No,Don't know,,50.0,Male,
+3851,Don't know,Don't know,Yes,Don't know,,51.0,Male,White
+3852,Yes,Don't know,Don't know,No,,35.0,Male,White
+3853,Don't know,No,Yes,Yes,,34.0,Male,White
+3854,Yes,No,Yes,Yes,,24.0,Others,White
+3855,Yes,Yes,No,Yes,,37.0,Male,White
+3856,No,No,Yes,Yes,,24.0,Female,White
+3857,Don't know,No,Don't know,No,,46.0,Male,White
+3858,Don't know,Don't know,Don't know,No,,31.0,Male,White
+3859,Don't know,Don't know,Yes,Don't know,,35.0,Male,Asian
+3860,Yes,Yes,No,Yes,,40.0,Male,White
+3861,Yes,No,Yes,Yes,,28.0,Male,White
+3862,Don't know,No,No,No,,28.0,Male,Others
+3863,Yes,Yes,Yes,Yes,,39.0,Male,
+3864,Yes,Don't know,Yes,No,,31.0,Male,
+3865,Yes,Yes,Don't know,Yes,,27.0,Male,White
+3866,Yes,No,Yes,Yes,,35.0,Male,White
+3867,Don't know,Yes,Don't know,Yes,,25.0,Male,White
+3868,Yes,Yes,Don't know,Yes,,51.0,Male,White
+3869,Don't know,Don't know,No,Yes,,27.0,Male,White
+3870,Don't know,Yes,No,Yes,,37.0,Male,White
+3871,Don't know,Don't know,No,No,,46.0,Male,White
+3872,Yes,No,Yes,Yes,,36.0,Female,White
+3873,Yes,Don't know,Yes,Yes,,39.0,Female,White
+3874,Don't know,Don't know,Don't know,Don't know,,35.0,Male,White
+3875,Yes,Yes,No,Yes,,49.0,Others,
+3876,Don't know,Don't know,Don't know,No,,45.0,Male,
+3877,Yes,Don't know,Don't know,Yes,,40.0,Male,
+3878,Don't know,Don't know,No,Don't know,,37.0,Male,
+3879,Don't know,No,Don't know,No,,31.0,Male,White
+3880,Yes,Don't know,Yes,No,,37.0,Male,White
+3881,Yes,Don't know,Yes,No,,26.0,Female,White
+3882,Yes,Yes,Yes,No,,43.0,Male,
+3883,Yes,Yes,Don't know,Yes,,35.0,Male,White
+3884,Don't know,Don't know,No,Don't know,,31.0,Male,
+3885,Yes,Don't know,Don't know,No,,32.0,Female,Others
+3886,Yes,Yes,Yes,No,,37.0,Male,White
+3887,Don't know,No,No,No,,41.0,Male,White
+3888,Yes,Yes,Yes,No,,40.0,Female,Others
+3889,Don't know,No,Yes,No,,37.0,Male,White
+3890,Yes,Yes,Don't know,No,,53.0,Male,White
+3891,Don't know,No,No,No,,29.0,Male,Others
+3892,Don't know,No,Yes,Yes,,37.0,Male,White
+3893,Don't know,Don't know,Yes,No,,45.0,Female,White
+3894,Don't know,Don't know,Don't know,No,,26.0,Male,
+3895,Yes,Yes,Yes,Yes,,28.0,Male,White
+3896,Yes,No,Yes,No,,24.0,Female,White
+3897,Yes,Don't know,Don't know,Yes,,27.0,Male,White
+3898,Yes,Don't know,No,No,,42.0,Male,White
+3899,Don't know,Don't know,No,Don't know,,53.0,Female,White
+3900,Don't know,No,Don't know,Yes,,34.0,Male,
+3901,Yes,Don't know,Yes,Yes,,23.0,Others,
+3902,Don't know,Don't know,Don't know,No,,34.0,Male,White
+3903,Don't know,No,Don't know,No,,27.0,Male,White
+3904,Yes,Don't know,Don't know,No,,31.0,Male,White
+3905,Don't know,Don't know,No,Don't know,,30.0,Male,
+3906,Don't know,Don't know,Yes,Don't know,,58.0,Male,White
+3907,Yes,Yes,No,No,,50.0,Male,White
+3908,Yes,Yes,Yes,No,,41.0,Male,White
+3909,Don't know,No,Don't know,No,,40.0,Male,
+3910,Don't know,Don't know,Yes,Don't know,,28.0,Male,
+3911,Yes,Yes,No,Yes,,49.0,Male,
+3912,Don't know,Don't know,Yes,Yes,,37.0,Male,White
+3913,Don't know,Don't know,Yes,Don't know,,36.0,Male,White
+3914,Yes,Yes,Don't know,Yes,,52.0,Male,White
+3915,Yes,Yes,No,No,,33.0,Others,
+3916,Don't know,Don't know,No,Don't know,,54.0,Female,
+3917,Don't know,Don't know,Don't know,Don't know,,38.0,Male,
+3918,Don't know,Don't know,Yes,Don't know,,64.0,Male,
+3919,Don't know,Don't know,Don't know,Don't know,,40.0,Male,
+3920,Yes,Don't know,Yes,No,,37.0,Male,White
+3921,Don't know,Yes,Yes,Yes,,53.0,Female,White
+3922,No,No,No,No,,55.0,Male,
+3923,Don't know,No,Don't know,No,,30.0,Male,Others
+3924,Yes,No,No,Yes,,35.0,Male,White
+3925,Yes,Don't know,Don't know,No,,60.0,Male,
+3926,Yes,Yes,No,No,,34.0,Female,White
+3927,No,No,No,No,,35.0,Male,White
+3928,Yes,No,Don't know,Yes,,34.0,Male,White
+3929,Don't know,No,Don't know,No,,28.0,Male,White
+3930,Don't know,No,Yes,No,,28.0,Female,White
+3931,Don't know,No,No,No,,36.0,Others,
+3932,No,No,Don't know,No,,24.0,Male,
+3933,Don't know,Don't know,No,Don't know,,50.0,Male,White
+3934,Yes,Yes,Don't know,No,,55.0,Male,White
+3935,Yes,Don't know,Yes,No,,32.0,Male,
+3936,Yes,Yes,Don't know,Yes,,33.0,Male,White
+3937,Yes,No,Yes,No,,30.0,Female,
+3938,Yes,Don't know,Don't know,No,,30.0,Male,
+3939,Yes,No,No,No,,34.0,Male,
+3940,No,No,Don't know,No,,36.0,Female,
+3941,No,No,Yes,No,,30.0,Male,
+3942,No,No,No,Yes,,29.0,Male,
+3943,No,No,No,No,,34.0,Male,
+3944,No,No,Don't know,Yes,,40.0,Male,
+3945,Don't know,No,Don't know,No,,31.0,Others,
+3946,Don't know,Don't know,No,No,,27.0,Others,
+3947,Yes,Yes,Don't know,No,,47.0,Male,White
+3948,Yes,Yes,Yes,No,,24.0,Female,White
+3949,Yes,No,No,No,,36.0,Male,
+3950,Don't know,Don't know,No,No,,28.0,Male,
+3951,Yes,Yes,No,No,,34.0,Male,
+3952,Don't know,No,No,Yes,,28.0,Male,
+3953,Yes,No,No,No,,36.0,Male,
+3954,Yes,No,Don't know,No,,24.0,Male,
+3955,Yes,No,Don't know,No,,32.0,Others,White
+3956,No,No,Yes,Yes,,33.0,Male,
+3957,Don't know,Don't know,No,No,,39.0,Male,Others
+3958,Yes,Yes,Yes,Yes,,26.0,Female,Others
+3959,Yes,Yes,Yes,Yes,,32.0,Female,White
+3960,Yes,Yes,No,Yes,,42.0,Male,
+3961,Yes,Yes,Yes,Yes,,41.0,Male,White
+3962,Yes,No,Don't know,Yes,,32.0,Male,
+3963,No,Yes,Don't know,No,,32.0,Female,White
+3964,Yes,Yes,No,No,,31.0,Female,White
+3965,Don't know,No,Yes,Yes,,34.0,Others,
+3966,Yes,Yes,Don't know,Yes,,36.0,Others,
+3967,Don't know,Don't know,No,No,,33.0,Male,
+3968,Don't know,Don't know,Yes,No,,30.0,Male,White
+3969,Don't know,No,Yes,Yes,,45.0,Female,White
+3970,Yes,Yes,No,Yes,,30.0,Male,White
+3971,Don't know,Don't know,Don't know,Don't know,,48.0,Male,
+3972,Yes,No,Don't know,No,,29.0,Male,
+3973,Don't know,Don't know,Yes,Don't know,,35.0,Others,
+3974,Don't know,Don't know,Yes,No,,41.0,Male,White
+3975,Yes,No,Don't know,Yes,,27.0,Female,White
+3976,Yes,Yes,Don't know,Yes,,42.0,Male,White
+3977,Don't know,No,Don't know,Yes,,32.0,Male,White
+3978,Don't know,Don't know,No,No,,32.0,Male,White
+3979,Yes,No,Yes,No,,20.0,Female,White
+3980,Don't know,Don't know,Yes,Don't know,,24.0,Female,White
+3982,Don't know,No,No,No,,38.0,Male,White
+3983,Don't know,No,Yes,No,,31.0,Male,White
+3984,Yes,Yes,Yes,No,,26.0,Male,Others
+3985,Yes,No,Yes,No,,40.0,Male,White
+3986,Yes,No,Yes,No,,30.0,Male,White
+3987,Yes,Don't know,Yes,No,,38.0,Male,White
+3988,Yes,Yes,No,No,,28.0,Male,White
+3989,Don't know,No,Don't know,No,,28.0,Female,
+3990,Yes,Yes,Yes,Yes,,30.0,Male,White
+3991,Yes,Yes,Yes,Yes,,23.0,Others,White
+3992,Don't know,No,Don't know,No,,30.0,Male,White
+3993,Yes,Yes,Yes,No,,33.0,Female,White
+3994,Yes,No,No,Yes,,53.0,Female,White
+3995,Yes,Don't know,Yes,Yes,,38.0,Male,White
+3996,No,No,Don't know,No,,34.0,Male,
+3997,Don't know,Don't know,No,No,,40.0,Male,White
+3998,Yes,Don't know,No,Yes,,42.0,Male,Asian
+3999,Yes,No,Yes,Yes,,42.0,Male,White
+4000,Yes,Yes,Yes,No,,38.0,Male,
+4001,Yes,Yes,Yes,Yes,,33.0,Others,White
+4002,Yes,Don't know,Yes,Yes,,35.0,Male,White
+4003,No,No,Don't know,No,,27.0,Female,
+4004,Don't know,No,No,Yes,,28.0,Female,
+4005,No,No,Yes,No,,42.0,Male,
+4006,Don't know,No,Don't know,No,,35.0,Female,
+4007,Yes,Yes,No,Yes,,40.0,Male,White
+4008,Yes,No,Yes,No,,54.0,Female,White
+4009,Yes,No,No,No,,37.0,Male,White
+4010,Yes,Yes,Yes,Yes,,26.0,Female,White
+4011,Don't know,No,Don't know,Yes,,37.0,Male,
+4012,Yes,No,Yes,No,,49.0,Female,White
+4013,Don't know,Yes,No,No,,23.0,Male,Asian
+4014,Yes,Yes,Yes,Yes,,42.0,Female,
+4015,Yes,Yes,Don't know,Yes,,49.0,Male,
+4016,Don't know,Don't know,Don't know,Don't know,,38.0,Male,
+4017,Don't know,Yes,No,Yes,,41.0,Female,
+4018,Yes,Yes,No,No,,33.0,Male,
+4019,Yes,Don't know,Yes,Yes,,27.0,Male,White
+4020,Yes,Yes,No,Yes,,47.0,Male,
+4021,Don't know,No,Yes,No,,28.0,Male,White
+4022,Yes,No,Yes,Yes,,49.0,Female,
+4023,Don't know,No,Don't know,Yes,,23.0,Male,
+4024,Yes,Don't know,Yes,Yes,,23.0,Others,Black or African American
+4025,Don't know,Don't know,Yes,Don't know,,38.0,Male,White
+4026,No,No,Yes,Yes,,45.0,Male,White
+4027,Don't know,Don't know,Don't know,Don't know,,35.0,Male,White
+4028,Don't know,Don't know,Yes,Don't know,,51.0,Male,
+4029,Don't know,Don't know,No,Don't know,,34.0,Female,White
+4030,Yes,Yes,Don't know,No,,29.0,Male,White
+4031,Don't know,Don't know,Don't know,Yes,,40.0,Male,White
+4032,Don't know,Don't know,Don't know,Don't know,,38.0,Male,
+4033,Yes,No,Yes,Yes,,32.0,Male,White
+4034,Yes,Don't know,Yes,Yes,,22.0,Female,White
+4035,Yes,Don't know,Yes,Yes,,28.0,Male,White
+4036,Don't know,Don't know,Yes,No,,29.0,Female,White
+4037,Don't know,Don't know,No,Don't know,,32.0,Others,White
+4038,Yes,Don't know,Yes,Yes,,38.0,Female,White
+4039,Don't know,Don't know,No,No,,30.0,Male,Others
+4040,Yes,Yes,Yes,Yes,,37.0,Female,White
+4041,Yes,Yes,Yes,Yes,,38.0,Female,White
+4042,Yes,Yes,Yes,Yes,,51.0,Female,White
+4043,Yes,Yes,Yes,Yes,,39.0,Male,White
+4044,Yes,Don't know,Don't know,Yes,,22.0,Male,White
+4045,Yes,Yes,Yes,Yes,,26.0,Male,White
+4046,Don't know,No,Don't know,Yes,,42.0,Male,Others
+4047,Don't know,No,Yes,No,,49.0,Male,
+4048,Yes,Yes,No,Yes,,48.0,Male,
+4049,Yes,Yes,No,Yes,,25.0,Male,
+4050,Don't know,No,Yes,Yes,,31.0,Male,
+4051,Yes,Yes,No,Yes,,63.0,Male,White
+4052,No,No,Don't know,Yes,,30.0,Female,
+4053,Don't know,Don't know,No,Yes,,34.0,Male,
+4054,No,No,Don't know,Yes,,41.0,Male,
+4055,No,Yes,Don't know,No,,31.0,Male,
+4056,Don't know,Don't know,No,Yes,,29.0,Female,
+4057,Yes,Yes,Don't know,Yes,,29.0,Male,White
+4058,Don't know,Don't know,Yes,Don't know,,44.0,Others,Black or African American
+4059,Don't know,Don't know,Don't know,No,,32.0,Male,White
+4060,Don't know,No,No,Yes,,28.0,Male,
+4061,Yes,Yes,Yes,No,,36.0,Male,White
+4062,Don't know,Don't know,Don't know,No,,28.0,Female,White
+4063,Don't know,Don't know,Yes,Don't know,,30.0,Female,White
+4064,Yes,Yes,No,No,,36.0,Male,White
+4065,Yes,No,Yes,No,,40.0,Male,White
+4066,Don't know,No,Don't know,No,,27.0,Male,White
+4067,Yes,Don't know,Yes,Yes,,28.0,Female,
+4068,Yes,Yes,Yes,Yes,,34.0,Male,White
+4069,Yes,Yes,Yes,Yes,,34.0,Male,White
+4070,Don't know,Don't know,Yes,Don't know,,34.0,Female,White
+4071,Yes,Yes,Yes,Yes,,27.0,Female,White
+4072,Yes,No,Don't know,Yes,,44.0,Female,White
+4073,No,No,Yes,No,,36.0,Male,
+4074,Yes,Yes,Yes,Yes,,31.0,Female,White
+4075,Yes,Yes,Yes,Yes,,26.0,Others,Others
+4076,Yes,Don't know,No,Yes,,39.0,Male,White
+4077,Yes,Yes,Yes,Yes,,36.0,Female,White
+4078,Don't know,No,Yes,Yes,,25.0,Female,White
+4079,No,No,Yes,No,,47.0,Male,
+4080,Yes,Yes,Don't know,Yes,,38.0,Male,
+4081,Don't know,No,Don't know,Yes,,33.0,Male,
+4082,Don't know,Don't know,Don't know,Don't know,,59.0,Female,
+4083,Yes,No,Don't know,Yes,,39.0,Male,White
+4084,Don't know,Don't know,Yes,No,,19.0,Female,White
+4085,Don't know,No,Yes,No,,35.0,Male,White
+4086,Yes,No,Yes,No,,38.0,Male,White
+4087,Don't know,Yes,No,No,,23.0,Others,
+4088,Yes,Yes,Yes,Yes,,32.0,Male,White
+4089,Don't know,Don't know,Yes,Don't know,,39.0,Male,White
+4090,Yes,Yes,No,No,,33.0,Male,White
+4091,Don't know,No,Yes,Yes,,38.0,Female,
+4092,Yes,Don't know,Don't know,No,,42.0,Male,White
+4093,Don't know,No,Don't know,No,,39.0,Female,White
+4094,Don't know,No,Don't know,Yes,,30.0,Male,
+4095,No,Don't know,Don't know,No,,39.0,Male,
+4096,Don't know,No,No,No,,50.0,Male,
+4097,Don't know,No,No,Yes,,43.0,Others,
+4098,Don't know,Don't know,Don't know,Don't know,,59.0,Female,White
+4099,Yes,Yes,Yes,No,,53.0,Male,White
+4100,Yes,Don't know,No,Yes,,35.0,Male,White
+4101,Yes,Yes,No,No,,27.0,Female,
+4102,Yes,No,Don't know,No,,24.0,Female,
+4103,Yes,Don't know,Yes,Yes,,29.0,Others,White
+4104,Yes,No,Yes,No,,40.0,Female,
+4105,Don't know,No,Don't know,No,,27.0,Male,
+4106,Don't know,Don't know,No,Don't know,,46.0,Male,
+4107,No,No,Yes,Yes,,39.0,Male,
+4108,Don't know,Don't know,Don't know,Don't know,,19.0,Male,
+4109,No,No,No,No,,28.0,Male,
+4110,Don't know,Yes,No,Yes,,30.0,Male,Asian
+4111,Yes,Yes,Yes,No,,29.0,Female,Black or African American
+4112,Don't know,No,No,No,,24.0,Male,White
+4113,Don't know,No,Yes,Yes,,25.0,Female,White
+4114,Don't know,Don't know,No,Yes,,45.0,Male,
+4115,Yes,Yes,Yes,No,,37.0,Male,Asian
+4116,Don't know,No,No,No,,22.0,Male,White
+4117,Yes,Yes,Yes,Yes,,35.0,Female,White
+4118,Don't know,Don't know,Yes,No,,50.0,Male,White
+4119,Yes,Yes,Yes,Yes,,45.0,Male,White
+4120,Don't know,Don't know,Yes,Yes,,49.0,Male,
+4121,No,No,No,Yes,,40.0,Male,
+4122,Don't know,Don't know,Don't know,Don't know,,32.0,Male,
+4123,Yes,Yes,No,No,,38.0,Female,
+4124,Yes,Yes,Don't know,No,,37.0,Male,White
+4125,Don't know,Don't know,Don't know,Yes,,28.0,Female,Others
+4126,Yes,Yes,Don't know,No,,25.0,Male,Asian
+4127,Don't know,Don't know,No,Don't know,,28.0,Male,
+4128,Don't know,Don't know,Don't know,No,,38.0,Male,
+4129,Don't know,No,No,No,,25.0,Male,
+4130,Yes,No,Yes,Yes,,49.0,Male,
+4131,Yes,No,Don't know,Yes,,19.0,Others,
+4132,Don't know,Don't know,Don't know,Don't know,,43.0,Male,
+4133,Yes,No,Don't know,No,,31.0,Male,
+4134,Yes,Yes,Yes,Yes,,30.0,Male,
+4135,Don't know,No,Yes,Yes,,39.0,Male,
+4136,Don't know,No,Yes,Yes,,22.0,Male,
+4137,Yes,Don't know,Yes,Yes,,29.0,Male,
+4138,Don't know,Don't know,Yes,Don't know,,30.0,Male,
+4139,Yes,No,Yes,No,,32.0,Male,
+4140,No,No,Yes,No,,41.0,Male,
+4141,Don't know,Don't know,Don't know,No,,27.0,Female,
+4142,Don't know,Don't know,Don't know,Don't know,,19.0,Female,
+4143,Yes,Don't know,Yes,No,,27.0,Male,White
+4144,Don't know,Don't know,Don't know,Don't know,,31.0,Male,
+4145,Don't know,Don't know,No,Don't know,,25.0,Female,
+4146,No,Yes,No,No,,36.0,Male,
+4147,No,No,Yes,No,,28.0,Female,White
+4148,Yes,No,Don't know,Yes,,27.0,Female,Asian
+4149,Yes,No,Yes,No,,47.0,Others,White
+4150,Don't know,No,Yes,No,,25.0,Male,
+4151,Don't know,No,No,Yes,,30.0,Female,Asian
+4152,Don't know,Don't know,Yes,No,,45.0,Male,White
+4153,Don't know,Don't know,Don't know,Don't know,,41.0,Others,
+4154,No,No,Don't know,No,,24.0,Female,
+4155,Don't know,No,No,Yes,,26.0,Female,Asian
+4156,Yes,No,Yes,No,,32.0,Female,White
+4157,Yes,Yes,Yes,No,,43.0,Female,White
+4158,Don't know,Don't know,No,Don't know,,37.0,Male,Others
+4159,Don't know,Don't know,Yes,No,,51.0,Male,White
+4160,Don't know,Don't know,No,Don't know,,56.0,Male,White
+4161,Yes,Yes,Don't know,Yes,,30.0,Male,White
+4162,Don't know,No,No,No,,48.0,Others,White
+4163,Yes,No,Yes,No,,28.0,Female,Others
+4164,No,No,Yes,Yes,,26.0,Female,White
+4165,No,No,No,No,,45.0,Male,White
+4166,Yes,Yes,No,No,,37.0,Male,
+4167,Yes,Yes,Yes,Yes,,42.0,Female,
+4168,Don't know,No,Yes,Yes,,34.0,Male,Others
+4169,Don't know,Yes,No,Yes,,35.0,Female,
+4170,Yes,No,Yes,Yes,,28.0,Male,
+4171,Don't know,No,No,No,,26.0,Male,
+4172,Don't know,No,Don't know,No,,34.0,Female,
+4173,Don't know,No,No,No,,28.0,Others,
+4174,Yes,Yes,No,Yes,,34.0,Female,White
+4175,Don't know,Don't know,No,Don't know,,45.0,Male,
+4176,Don't know,Don't know,Don't know,Don't know,,59.0,Female,
+4177,Don't know,No,Yes,No,,41.0,Male,Others
+4178,Yes,Don't know,Yes,No,,38.0,Others,White
+4179,Yes,Yes,No,No,,42.0,Female,White
+4180,Don't know,Don't know,Yes,Yes,,21.0,Male,White
+4181,Yes,No,No,Yes,,30.0,Female,White
+4182,Yes,Yes,Yes,No,,46.0,Male,White
+4183,Don't know,Don't know,Yes,Don't know,,36.0,Female,Black or African American
+4184,Don't know,No,No,Yes,,41.0,Male,
+4185,Don't know,Don't know,Yes,Don't know,,33.0,Female,
+4186,Yes,Yes,Yes,Yes,,41.0,Male,
+4187,Yes,Yes,Don't know,No,,25.0,Male,
+4188,No,No,Yes,Yes,,27.0,Others,
+4189,Don't know,Yes,Yes,Yes,,47.0,Female,White
+4190,Yes,Don't know,Yes,No,,24.0,Male,White
+4191,Yes,Yes,Yes,No,,40.0,Male,White
+4192,Yes,No,No,No,,37.0,Male,White
+4193,Don't know,Yes,Don't know,Yes,,38.0,Male,White
+4194,Don't know,Yes,No,No,,47.0,Male,White
+4195,Yes,Yes,Yes,Yes,,30.0,Female,White
+4196,Don't know,No,Don't know,Yes,,24.0,Female,White
+4197,Yes,Yes,Yes,Yes,,38.0,Female,White
+4198,Yes,Yes,Yes,Yes,,42.0,Male,
+4199,No,No,No,No,,39.0,Male,
+4200,Don't know,Don't know,Don't know,No,,42.0,Male,White
+4201,Yes,Don't know,Yes,Yes,,47.0,Male,White
+4202,Yes,No,No,No,,29.0,Male,
+4203,Yes,Don't know,No,Yes,,55.0,Male,Others
+4204,Don't know,Don't know,Yes,Yes,,34.0,Others,Others
+4205,Yes,Yes,No,Yes,,45.0,Male,
+4206,Don't know,Yes,No,Yes,,46.0,Male,
+4207,Yes,Yes,Don't know,No,,23.0,Female,
+4208,No,No,Don't know,No,,22.0,Female,White
+4209,No,No,Yes,Yes,,30.0,Male,
+4210,Don't know,Don't know,Yes,Don't know,,27.0,Male,Others
+4211,Yes,Don't know,Yes,No,,42.0,Female,White
+4212,Yes,No,No,Yes,,26.0,Female,
+4213,No,No,No,No,,31.0,Female,Asian
+4214,Don't know,Don't know,Don't know,No,,27.0,Male,
+4215,Don't know,Don't know,No,Don't know,,48.0,Male,White
+4216,Don't know,Don't know,No,Don't know,,50.0,Male,
+4217,No,No,Don't know,No,,30.0,Female,
+4218,Yes,Yes,Yes,No,,24.0,Female,White
